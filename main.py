@@ -31,7 +31,7 @@ OUTPUT_VLC_M3U = "hygenie_live_vlc.m3u"
 OUTPUT_DEBUG = "hygenie_debug.json"
 OUTPUT_HOME_DEBUG_HTML = "hygenie_home_debug.html"
 OUTPUT_HOME_DEBUG_PNG = "hygenie_home_debug.png"
-SCANNER_VERSION = "1.0.1-HYGENIE-WORKFLOW-PATH-FIX"
+SCANNER_VERSION = "1.0.2-HYGENIE-MINIMAL-TWO-FILE"
 
 
 def read_env_bool(name: str, default: bool = True) -> bool:
