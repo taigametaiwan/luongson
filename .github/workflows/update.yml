@@ -1,0 +1,125 @@
+name: Quet Hygenie HLS FLV v1.0
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hygenie-m3u-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: 1. Lay source
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 2. Cai Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 3. Cai Playwright Chromium
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install playwright
+          python -m playwright install --with-deps chromium
+
+      - name: 4. Chay unit test va test DOM Chromium
+        run: |
+          python -m unittest discover -s tests -p "test_*.py" -v
+          python tests/integration_metadata_browser.py
+
+      - name: 5. Quet Hygenie
+        shell: bash
+        env:
+          PYTHONUNBUFFERED: "1"
+          HYGENIE_MATCH_CONCURRENCY: "4"
+          HYGENIE_HOME_WAIT_MS: "6000"
+          HYGENIE_ROOM_WAIT_SECONDS: "25"
+          HYGENIE_FULL_SCAN: "1"
+          HYGENIE_VERIFY_STREAMS: "1"
+          HYGENIE_VERIFY_TIMEOUT_SECONDS: "8"
+          HYGENIE_MAX_VERIFY_CANDIDATES: "6"
+          HYGENIE_MAX_OUTPUT_STREAMS_PER_MATCH: "4"
+        run: |
+          set -o pipefail
+          python -u main.py 2>&1 | tee hygenie_scan.log
+
+      - name: 6. Audit dau ra
+        shell: bash
+        run: |
+          test -f hygenie_live.m3u
+          test -f hygenie_live_pipe.m3u
+          test -f hygenie_live_vlc.m3u
+          test -f hygenie_debug.json
+
+          if grep -E '^https?://.*\|User-Agent=' hygenie_live.m3u; then
+            echo "::error::Playlist mac dinh khong duoc noi pipe header vao URL."
+            exit 1
+          fi
+
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          rows = json.loads(Path("hygenie_debug.json").read_text(encoding="utf-8"))
+          failures = []
+          for row in rows:
+              streams = row.get("streams") or []
+              if len(streams) > 4:
+                  failures.append(f"Qua 4 stream: {row.get('match_name')}")
+              if streams and not row.get("time"):
+                  failures.append(f"Thieu gio: {row.get('match_name')}")
+              for stream in streams:
+                  url = stream.get("url", "")
+                  if stream.get("playability") not in {"verified", "browser-observed"}:
+                      failures.append(f"Stream mo ho: {url}")
+                  if "previous-playlist" in (stream.get("sources") or []) and not stream.get("observed_active") and stream.get("playability") != "verified":
+                      failures.append(f"Link cu chua xac minh: {url}")
+          if failures:
+              print("\n".join("::error::" + item for item in failures))
+              raise SystemExit(1)
+          print(f"Audit OK: {sum(len(r.get('streams') or []) for r in rows)} stream dau ra")
+          PY
+
+          if grep -Eq '^#EXTHTTP:.*"Origin":"https://hygenie.io"' hygenie_live.m3u; then
+            echo "Origin Hygenie: OK"
+          else
+            echo "::warning::Chua co stream de xac nhan Origin trong playlist."
+          fi
+
+      - name: 7. Tai artifact debug
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: hygenie-debug-${{ github.run_id }}
+          path: |
+            hygenie_live.m3u
+            hygenie_live_pipe.m3u
+            hygenie_live_vlc.m3u
+            hygenie_debug.json
+            hygenie_scan.log
+            hygenie_home_debug.html
+            hygenie_home_debug.png
+          if-no-files-found: ignore
+          retention-days: 3
+
+      - name: 8. Luu playlist len GitHub
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- hygenie_live.m3u hygenie_live_pipe.m3u hygenie_live_vlc.m3u
+          if git diff --cached --quiet; then
+            echo "Playlist khong thay doi."
+            exit 0
+          fi
+          git commit -m "Update verified Hygenie streams v1.0"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
