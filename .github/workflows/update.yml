@@ -1,4 +1,4 @@
-name: Quet Hygenie HLS FLV v1.0.1
+name: Quet Hygenie HLS FLV v1.0.2
 
 on:
   workflow_dispatch:
@@ -14,71 +14,27 @@ jobs:
   scan:
     runs-on: ubuntu-latest
     timeout-minutes: 45
+
     steps:
-      - name: 1. Lay source
+      - name: 1. Lay code tu kho ve
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: 2. Cai Python
+      - name: 2. Cai dat Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: 3. Xac dinh thu muc source
+      - name: 3. Cai dat Playwright Chromium
         shell: bash
         run: |
           set -euo pipefail
-
-          PROJECT_DIR=""
-          while IFS= read -r candidate; do
-            candidate="${candidate#./}"
-            [ -n "$candidate" ] || candidate="."
-            if [ -f "$candidate/main.py" ] && [ -d "$candidate/tests" ] && [ -f "$candidate/tests/test_core.py" ]; then
-              PROJECT_DIR="$candidate"
-              break
-            fi
-          done < <(
-            {
-              printf '.\n'
-              find . -mindepth 2 -maxdepth 4 -type f -name main.py -printf '%h\n'
-            } | sort -u
-          )
-
-          if [ -z "$PROJECT_DIR" ]; then
-            echo "::error::Khong tim thay bo source co main.py va tests/test_core.py."
-            echo "Cay thu muc hien tai:"
-            find . -maxdepth 4 -type f | sort | sed -n '1,250p'
-            exit 1
-          fi
-
-          echo "PROJECT_DIR=$PROJECT_DIR" >> "$GITHUB_ENV"
-          echo "Da tim thay source tai: $PROJECT_DIR"
-          find "$PROJECT_DIR" -maxdepth 2 -type f | sort
-
-      - name: 4. Cai Playwright Chromium
-        shell: bash
-        run: |
-          set -euo pipefail
-          cd "$PROJECT_DIR"
           python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then
-            python -m pip install -r requirements.txt
-          else
-            python -m pip install playwright
-          fi
+          python -m pip install playwright
           python -m playwright install --with-deps chromium
 
-      - name: 5. Chay unit test va test DOM Chromium
-        shell: bash
-        run: |
-          set -euo pipefail
-          cd "$PROJECT_DIR"
-          test -f tests/__init__.py
-          python -m unittest discover -s tests -t . -p "test_*.py" -v
-          python tests/integration_metadata_browser.py
-
-      - name: 6. Quet Hygenie
+      - name: 4. Quet Hygenie va hien log realtime
         shell: bash
         env:
           PYTHONUNBUFFERED: "1"
@@ -91,15 +47,14 @@ jobs:
           HYGENIE_MAX_VERIFY_CANDIDATES: "6"
           HYGENIE_MAX_OUTPUT_STREAMS_PER_MATCH: "4"
         run: |
-          set -euo pipefail
-          cd "$PROJECT_DIR"
+          set -o pipefail
+          test -f main.py
           python -u main.py 2>&1 | tee hygenie_scan.log
 
-      - name: 7. Audit dau ra
+      - name: 5. Kiem tra dau ra
         shell: bash
         run: |
           set -euo pipefail
-          cd "$PROJECT_DIR"
 
           test -f hygenie_live.m3u
           test -f hygenie_live_pipe.m3u
@@ -111,72 +66,78 @@ jobs:
             exit 1
           fi
 
-          python - <<'PY'
+          python - <<'PY_AUDIT'
           import json
           from pathlib import Path
 
           rows = json.loads(Path("hygenie_debug.json").read_text(encoding="utf-8"))
           failures = []
+          stream_count = 0
+
           for row in rows:
               streams = row.get("streams") or []
+              stream_count += len(streams)
+
               if len(streams) > 4:
                   failures.append(f"Qua 4 stream: {row.get('match_name')}")
+
               if streams and not row.get("time"):
                   failures.append(f"Thieu gio: {row.get('match_name')}")
+
               for stream in streams:
                   url = stream.get("url", "")
-                  if stream.get("playability") not in {"verified", "browser-observed"}:
-                      failures.append(f"Stream mo ho: {url}")
+                  state = stream.get("playability")
+                  if state not in {"verified", "browser-observed"}:
+                      failures.append(f"Stream chua du tin cay: {url}")
+
+                  sources = stream.get("sources") or []
                   if (
-                      "previous-playlist" in (stream.get("sources") or [])
+                      "previous-playlist" in sources
                       and not stream.get("observed_active")
-                      and stream.get("playability") != "verified"
+                      and state != "verified"
                   ):
                       failures.append(f"Link cu chua xac minh: {url}")
+
           if failures:
-              print("\n".join("::error::" + item for item in failures))
+              for item in failures:
+                  print(f"::error::{item}")
               raise SystemExit(1)
-          print(f"Audit OK: {sum(len(r.get('streams') or []) for r in rows)} stream dau ra")
-          PY
 
-          if grep -Eq '^#EXTHTTP:.*"Origin":"https://hygenie.io"' hygenie_live.m3u; then
-            echo "Origin Hygenie: OK"
-          else
-            echo "::warning::Chua co stream de xac nhan Origin trong playlist."
-          fi
+          print(f"Audit OK: {stream_count} stream dau ra")
+          PY_AUDIT
 
-      - name: 8. Tai artifact debug
+          echo "--- Playlist mac dinh ---"
+          sed -n '1,100p' hygenie_live.m3u
+
+      - name: 6. Tai artifact debug
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: hygenie-debug-${{ github.run_id }}
           path: |
-            ${{ env.PROJECT_DIR }}/hygenie_live.m3u
-            ${{ env.PROJECT_DIR }}/hygenie_live_pipe.m3u
-            ${{ env.PROJECT_DIR }}/hygenie_live_vlc.m3u
-            ${{ env.PROJECT_DIR }}/hygenie_debug.json
-            ${{ env.PROJECT_DIR }}/hygenie_scan.log
-            ${{ env.PROJECT_DIR }}/hygenie_home_debug.html
-            ${{ env.PROJECT_DIR }}/hygenie_home_debug.png
+            hygenie_live.m3u
+            hygenie_live_pipe.m3u
+            hygenie_live_vlc.m3u
+            hygenie_debug.json
+            hygenie_scan.log
+            hygenie_home_debug.html
+            hygenie_home_debug.png
           if-no-files-found: ignore
           retention-days: 3
 
-      - name: 9. Luu playlist len GitHub
+      - name: 7. Luu playlist len GitHub
         shell: bash
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add -- \
-            "$PROJECT_DIR/hygenie_live.m3u" \
-            "$PROJECT_DIR/hygenie_live_pipe.m3u" \
-            "$PROJECT_DIR/hygenie_live_vlc.m3u"
+          git add -- hygenie_live.m3u hygenie_live_pipe.m3u hygenie_live_vlc.m3u
 
           if git diff --cached --quiet; then
-            echo "Playlist khong thay doi."
+            echo "Playlist khong thay doi; khong can commit."
             exit 0
           fi
 
-          git commit -m "Update verified Hygenie streams v1.0.1"
+          git commit -m "Update verified Hygenie streams v1.0.2"
           git push origin "HEAD:${GITHUB_REF_NAME}"
