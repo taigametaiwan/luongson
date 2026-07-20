@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "chuoichien",
-  "updated_at": "2026-07-21T04:30:59.696400+07:00",
+  "updated_at": "2026-07-21T05:01:04.558555+07:00",
   "matches": {
     "1565183": {
       "url": "https://live04.chuoichientv.me/live/1565183/corvinul-hunedoara-vs-csikszereda",
@@ -131,9 +131,9 @@
       "url": "https://live04.chuoichientv.me/live/1538394/nacional-potos-vs-real-oruro",
       "match_name": "nacional potos vs real oruro",
       "kickoff_iso": "2026-07-21T06:00:00+07:00",
-      "minutes_to_kickoff": 89,
-      "last_scan_at": "2026-07-21T04:30:59.696351+07:00",
-      "next_scan_at": "2026-07-21T04:50:59.696351+07:00",
+      "minutes_to_kickoff": 59,
+      "last_scan_at": "2026-07-21T05:01:04.558509+07:00",
+      "next_scan_at": "2026-07-21T05:21:04.558509+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
