@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "chuoichien",
-  "updated_at": "2026-07-21T01:01:44.479046+07:00",
+  "updated_at": "2026-07-21T01:31:33.691223+07:00",
   "matches": {
     "1565183": {
       "url": "https://live04.chuoichientv.me/live/1565183/corvinul-hunedoara-vs-csikszereda",
@@ -81,6 +81,46 @@
       "verified_urls": [
         "https://gckc0525.edgemaxcdn.org/live/troctru.flv",
         "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8"
+      ],
+      "scan_decision": "browser-fallback"
+    },
+    "1562949": {
+      "url": "https://live04.chuoichientv.me/live/1562949/sporting-cp-vs-strasbourg",
+      "match_name": "Sporting CP vs Strasbourg - Giao Hữu Câu Lạc Bộ",
+      "kickoff_iso": "2026-07-21T02:15:00+07:00",
+      "minutes_to_kickoff": 44,
+      "last_scan_at": "2026-07-21T01:31:33.691119+07:00",
+      "next_scan_at": "2026-07-21T01:41:33.691119+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "browser-fallback"
+    },
+    "1565184": {
+      "url": "https://live04.chuoichientv.me/live/1565184/rapid-vs-sepsi-osk-sfantu-gheorghe",
+      "match_name": "Rapid vs Sepsi OSK Sfantu Gheorghe - VĐQG Roma",
+      "kickoff_iso": "2026-07-21T01:30:00+07:00",
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-07-21T01:31:33.691119+07:00",
+      "next_scan_at": "2026-07-21T01:36:33.691119+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://gckc0525.edgemaxcdn.org/live/chuoigia.flv"
+      ],
+      "scan_decision": "browser-fallback"
+    },
+    "1551047": {
+      "url": "https://live04.chuoichientv.me/live/1551047/botev-plovdiv-vs-lokomotiv-sofia",
+      "match_name": "Botev Plovdiv vs Lokomotiv Sofia - VĐQG Bulgaria",
+      "kickoff_iso": "2026-07-21T01:30:00+07:00",
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-07-21T01:31:33.691119+07:00",
+      "next_scan_at": "2026-07-21T01:36:33.691119+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://gckc0525.edgemaxcdn.org/live/chuoito.flv"
       ],
       "scan_decision": "browser-fallback"
     }
