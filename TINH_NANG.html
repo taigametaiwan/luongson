@@ -1,0 +1,13 @@
+<!doctype html><html lang="vi"><meta charset="utf-8"><title>Tính năng v4.3.0</title><body>
+<h1>Multi-Source Scanner v4.3.0</h1>
+<h2>Hybrid HTTP-first</h2>
+<p>Scanner ưu tiên request HTTP dùng chung cookie để đọc trang trận và iframe. Chỉ các thuộc tính player rõ ràng như iframe src, streamUrl, video/source, data-stream và URL HLS/FLV nằm trong vùng player mới được lấy. Danh sách link toàn cục trong JavaScript không được quét tràn lan.</p>
+<h2>Chromium fallback có điều kiện</h2>
+<p>Chromium chỉ mở khi trận gần giờ, đang live hoặc HTTP-first chưa lấy đủ link. Trận còn trên 45 phút và chưa có media chỉ được ghi lịch kiểm tra lại.</p>
+<h2>Delta state</h2>
+<p>Mỗi nguồn lưu next_scan_at. Trận xa giờ không bị mở lại ở mọi workflow; trận gần giờ, đang live hoặc đã có stream xác minh vẫn được kiểm tra lại.</p>
+<h2>Lọc thời gian và chất lượng</h2>
+<p>Cửa sổ quét là -150 đến +240 phút. Mỗi trận/BLV chỉ giữ tối đa hai mức chất lượng tốt nhất, ưu tiên verified, FHD/HD và M3U8.</p>
+<h2>Một playlist duy nhất</h2>
+<p>Hai nguồn được gộp vào all_live.m3u; các playlist trung gian được xóa sau khi gộp.</p>
+</body></html>
