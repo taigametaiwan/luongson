@@ -1,15 +1,15 @@
 {
   "version": 1,
   "source": "luongson",
-  "updated_at": "2026-07-20T23:29:38.763793+07:00",
+  "updated_at": "2026-07-20T23:52:38.090130+07:00",
   "matches": {
     "f6d618696402": {
       "url": "https://catbee.io/truc-tiep/corvinul-hunedoara-vs-fk-csikszereda-miercurea-ciuc-vao-luc-2230-20-07-2026/?blv=246",
       "match_name": "CORVINUL HUNEDOARA vs FK CSIKSZEREDA MIERCUREA CIUC",
       "kickoff_iso": "2026-07-20T22:30:00+07:00",
-      "minutes_to_kickoff": -55,
-      "last_scan_at": "2026-07-20T23:29:38.763140+07:00",
-      "next_scan_at": "2026-07-20T23:34:38.763140+07:00",
+      "minutes_to_kickoff": -79,
+      "last_scan_at": "2026-07-20T23:52:38.089437+07:00",
+      "next_scan_at": "2026-07-20T23:57:38.089437+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -18,12 +18,12 @@
       "scan_decision": "browser-fallback"
     },
     "6714d33be307": {
-      "url": "https://catbee.io/truc-tiep/tps-turku-vs-ilves-tampere-vao-luc-2200-20-07-2026/?blv=374",
+      "url": "https://catbee.io/truc-tiep/tps-turku-vs-ilves-tampere-vao-luc-2200-20-07-2026/",
       "match_name": "TPS TURKU vs ILVES TAMPERE",
       "kickoff_iso": "2026-07-20T22:00:00+07:00",
-      "minutes_to_kickoff": -85,
-      "last_scan_at": "2026-07-20T23:29:38.763140+07:00",
-      "next_scan_at": "2026-07-20T23:34:38.763140+07:00",
+      "minutes_to_kickoff": -109,
+      "last_scan_at": "2026-07-20T23:52:38.089437+07:00",
+      "next_scan_at": "2026-07-20T23:57:38.089437+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -32,16 +32,16 @@
       "scan_decision": "browser-fallback"
     },
     "dd548a5fb06f": {
-      "url": "https://catbee.io/truc-tiep/super-nova-vs-grobina-vao-luc-2300-20-07-2026/?blv=328",
+      "url": "https://catbee.io/truc-tiep/super-nova-vs-grobina-vao-luc-2300-20-07-2026/?blv=379",
       "match_name": "SUPER NOVA vs GROBINA",
       "kickoff_iso": "2026-07-20T23:00:00+07:00",
-      "minutes_to_kickoff": -25,
-      "last_scan_at": "2026-07-20T23:29:38.763140+07:00",
-      "next_scan_at": "2026-07-20T23:34:38.763140+07:00",
+      "minutes_to_kickoff": -49,
+      "last_scan_at": "2026-07-20T23:52:38.089437+07:00",
+      "next_scan_at": "2026-07-20T23:57:38.089437+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
-        "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
+        "https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6"
       ],
       "scan_decision": "browser-fallback"
     },
@@ -49,9 +49,9 @@
       "url": "https://catbee.io/truc-tiep/suduva-vs-hegelmann-litauen-vao-luc-2245-20-07-2026/",
       "match_name": "SUDUVA vs HEGELMANN LITAUEN",
       "kickoff_iso": "2026-07-20T22:45:00+07:00",
-      "minutes_to_kickoff": -40,
-      "last_scan_at": "2026-07-20T23:29:38.763140+07:00",
-      "next_scan_at": "2026-07-20T23:34:38.763140+07:00",
+      "minutes_to_kickoff": -64,
+      "last_scan_at": "2026-07-20T23:52:38.089437+07:00",
+      "next_scan_at": "2026-07-20T23:57:38.089437+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -63,9 +63,9 @@
       "url": "https://catbee.io/truc-tiep/ifk-mariehamn-vs-lahti-vao-luc-2300-20-07-2026/",
       "match_name": "IFK MARIEHAMN vs LAHTI",
       "kickoff_iso": "2026-07-20T23:00:00+07:00",
-      "minutes_to_kickoff": -25,
-      "last_scan_at": "2026-07-20T23:29:38.763140+07:00",
-      "next_scan_at": "2026-07-20T23:34:38.763140+07:00",
+      "minutes_to_kickoff": -49,
+      "last_scan_at": "2026-07-20T23:52:38.089437+07:00",
+      "next_scan_at": "2026-07-20T23:57:38.089437+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -74,12 +74,12 @@
       "scan_decision": "browser-fallback"
     },
     "fc59a206f146": {
-      "url": "https://catbee.io/truc-tiep/slavia-sofia-vs-cska-sofia-vao-luc-2315-20-07-2026/?blv=315",
+      "url": "https://catbee.io/truc-tiep/slavia-sofia-vs-cska-sofia-vao-luc-2315-20-07-2026/",
       "match_name": "SLAVIA SOFIA vs CSKA SOFIA",
       "kickoff_iso": "2026-07-20T23:15:00+07:00",
-      "minutes_to_kickoff": -10,
-      "last_scan_at": "2026-07-20T23:29:38.763140+07:00",
-      "next_scan_at": "2026-07-20T23:34:38.763140+07:00",
+      "minutes_to_kickoff": -34,
+      "last_scan_at": "2026-07-20T23:52:38.089437+07:00",
+      "next_scan_at": "2026-07-20T23:57:38.089437+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -91,9 +91,9 @@
       "url": "https://catbee.io/truc-tiep/fk-transinvest-ii-vs-fk-neptunas-klaipeda-vao-luc-2200-20-07-2026/",
       "match_name": "FK TRANSINVEST II vs FK NEPTUNAS KLAIPEDA",
       "kickoff_iso": "2026-07-20T22:00:00+07:00",
-      "minutes_to_kickoff": -85,
-      "last_scan_at": "2026-07-20T23:29:38.763140+07:00",
-      "next_scan_at": "2026-07-20T23:34:38.763140+07:00",
+      "minutes_to_kickoff": -109,
+      "last_scan_at": "2026-07-20T23:52:38.089437+07:00",
+      "next_scan_at": "2026-07-20T23:57:38.089437+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -119,9 +119,9 @@
       "url": "https://catbee.io/truc-tiep/rotor-volgograd-vs-ska-khabarovsk-vao-luc-2330-20-07-2026/",
       "match_name": "ROTOR VOLGOGRAD vs SKA KHABAROVSK",
       "kickoff_iso": "2026-07-20T23:30:00+07:00",
-      "minutes_to_kickoff": 5,
-      "last_scan_at": "2026-07-20T23:29:38.763140+07:00",
-      "next_scan_at": "2026-07-20T23:34:38.763140+07:00",
+      "minutes_to_kickoff": -19,
+      "last_scan_at": "2026-07-20T23:52:38.089437+07:00",
+      "next_scan_at": "2026-07-20T23:57:38.089437+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -133,9 +133,9 @@
       "url": "https://catbee.io/truc-tiep/norrby-if-vs-gif-sundsvall-vao-luc-0000-21-07-2026/",
       "match_name": "NORRBY IF vs GIF SUNDSVALL",
       "kickoff_iso": "2026-07-21T00:00:00+07:00",
-      "minutes_to_kickoff": 35,
-      "last_scan_at": "2026-07-20T23:29:38.763140+07:00",
-      "next_scan_at": "2026-07-20T23:39:38.763140+07:00",
+      "minutes_to_kickoff": 11,
+      "last_scan_at": "2026-07-20T23:52:38.089437+07:00",
+      "next_scan_at": "2026-07-20T23:57:38.089437+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -147,12 +147,14 @@
       "url": "https://catbee.io/truc-tiep/kalmar-vs-malmo-ff-vao-luc-0000-21-07-2026/",
       "match_name": "KALMAR vs MALMO FF",
       "kickoff_iso": "2026-07-21T00:00:00+07:00",
-      "minutes_to_kickoff": 35,
-      "last_scan_at": "2026-07-20T23:29:38.763140+07:00",
-      "next_scan_at": "2026-07-20T23:39:38.763140+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": 11,
+      "last_scan_at": "2026-07-20T23:52:38.089437+07:00",
+      "next_scan_at": "2026-07-20T23:57:38.089437+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb"
+      ],
       "scan_decision": "browser-fallback"
     },
     "8e1278a3dcf7": {
@@ -171,12 +173,14 @@
       "url": "https://catbee.io/truc-tiep/orgryte-vs-djurgardens-vao-luc-0000-21-07-2026/",
       "match_name": "ORGRYTE vs DJURGARDENS",
       "kickoff_iso": "2026-07-21T00:00:00+07:00",
-      "minutes_to_kickoff": 35,
-      "last_scan_at": "2026-07-20T23:29:38.763140+07:00",
-      "next_scan_at": "2026-07-20T23:39:38.763140+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": 11,
+      "last_scan_at": "2026-07-20T23:52:38.089437+07:00",
+      "next_scan_at": "2026-07-20T23:57:38.089437+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d"
+      ],
       "scan_decision": "browser-fallback"
     },
     "585b14216ff3": {
