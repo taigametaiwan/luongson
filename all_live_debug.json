@@ -1,6 +1,6 @@
 {
   "version": "4.3.0-HYBRID-DELTA-SINGLE-M3U",
-  "generated_at": "2026-07-21T00:33:53.844331+07:00",
+  "generated_at": "2026-07-21T01:03:46.158817+07:00",
   "policy": {
     "max_streams_per_match_blv": 2,
     "upcoming_keep_hours": 4,
@@ -12,8 +12,8 @@
       "label": "Chuối Chiên",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 4,
-      "playlist_blocks": 4,
+      "debug_rows": 2,
+      "playlist_blocks": 2,
       "included": true
     },
     {
@@ -21,93 +21,15 @@
       "label": "Lương Sơn",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 18,
-      "playlist_blocks": 10,
+      "debug_rows": 29,
+      "playlist_blocks": 8,
       "included": true
     }
   ],
-  "input_candidates": 14,
-  "selected_count": 13,
-  "dropped_count": 1,
+  "input_candidates": 10,
+  "selected_count": 10,
+  "dropped_count": 0,
   "channels": [
-    {
-      "source": "chuoichien",
-      "source_label": "Chuối Chiên",
-      "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao.flv",
-      "match_key": "suduva marijampole vs hegelmann litauen|truc tiep chuoi chao tran au suduva ma",
-      "display_name": "[22:45 20/07] Suduva Marijampole vs Hegelmann Litauen - VĐQG Lithuania [BLV trực tiếp: Chuối Chao Trận đấu Suduva Ma] [FHD FLV]",
-      "group": "Bóng đá",
-      "quality": "FHD",
-      "kind": "flv",
-      "playability": "verified",
-      "score": 456,
-      "kickoff_iso": "2026-07-20T22:45:00+07:00"
-    },
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f",
-      "match_key": "suduva vs hegelmann litauen|phi ho",
-      "display_name": "[20/07/2026 22:45] SUDUVA vs HEGELMANN LITAUEN [BLV PHI HỔ] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-20T22:45:00+07:00"
-    },
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
-      "match_key": "ifk mariehamn vs lahti|leo",
-      "display_name": "[20/07/2026 23:00] IFK MARIEHAMN vs LAHTI [BLV Leo] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-20T23:00:00+07:00"
-    },
-    {
-      "source": "chuoichien",
-      "source_label": "Chuối Chiên",
-      "url": "https://gckc0525.edgemaxcdn.org/live/chuoigia.flv",
-      "match_key": "mariehamn vs lahti|chuoi gia",
-      "display_name": "[23:00 20/07] Mariehamn vs Lahti - VĐQG Phần Lan [BLV Chuối Già] [FHD FLV]",
-      "group": "Bóng đá",
-      "quality": "FHD",
-      "kind": "flv",
-      "playability": "verified",
-      "score": 456,
-      "kickoff_iso": "2026-07-20T23:00:00+07:00"
-    },
-    {
-      "source": "chuoichien",
-      "source_label": "Chuối Chiên",
-      "url": "https://gckc0525.edgemaxcdn.org/live/angao.flv",
-      "match_key": "super nova vs grobina|a ngao",
-      "display_name": "[23:00 20/07] Super Nova vs Grobiņa - VĐQG Latvia [BLV A Ngáo] [FHD FLV]",
-      "group": "Bóng đá",
-      "quality": "FHD",
-      "kind": "flv",
-      "playability": "verified",
-      "score": 456,
-      "kickoff_iso": "2026-07-20T23:00:00+07:00"
-    },
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6",
-      "match_key": "super nova vs grobina|vo tong",
-      "display_name": "[20/07/2026 23:00] SUPER NOVA vs GROBINA [BLV VÕ TÒNG] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-20T23:00:00+07:00"
-    },
     {
       "source": "chuoichien",
       "source_label": "Chuối Chiên",
@@ -124,6 +46,19 @@
     {
       "source": "luongson",
       "source_label": "Lương Sơn",
+      "url": "https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b",
+      "match_key": "slavia sofia vs cska sofia|ma sieu",
+      "display_name": "[20/07/2026 23:15] SLAVIA SOFIA vs CSKA SOFIA [BLV MÃ SIÊU] [M3U8]",
+      "group": "Bóng đá",
+      "quality": "UNKNOWN",
+      "kind": "m3u8",
+      "playability": "verified",
+      "score": 439,
+      "kickoff_iso": "2026-07-20T23:15:00+07:00"
+    },
+    {
+      "source": "luongson",
+      "source_label": "Lương Sơn",
       "url": "https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645",
       "match_key": "slavia sofia vs cska sofia|vuong luan",
       "display_name": "[20/07/2026 23:15] SLAVIA SOFIA vs CSKA SOFIA [BLV VƯƠNG LUÂN] [M3U8]",
@@ -135,16 +70,16 @@
       "kickoff_iso": "2026-07-20T23:15:00+07:00"
     },
     {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b",
-      "match_key": "slavia sofia vs cska sofia|ma sieu",
-      "display_name": "[20/07/2026 23:15] SLAVIA SOFIA vs CSKA SOFIA [BLV MÃ SIÊU] [M3U8]",
+      "source": "chuoichien",
+      "source_label": "Chuối Chiên",
+      "url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
+      "match_key": "slavia sofia vs cska sofia|troc tru",
+      "display_name": "[23:15 20/07] Slavia Sofia vs CSKA Sofia - VĐQG Bulgaria [BLV Trốc Tru] (Luồng 2) [M3U8]",
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
       "playability": "verified",
-      "score": 439,
+      "score": 429,
       "kickoff_iso": "2026-07-20T23:15:00+07:00"
     },
     {
@@ -189,24 +124,43 @@
     {
       "source": "luongson",
       "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
-      "match_key": "orgryte vs djurgardens|ly ung",
-      "display_name": "[21/07/2026 00:00] ORGRYTE vs DJURGARDENS [BLV LÝ ỨNG] [M3U8]",
+      "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
+      "match_key": "botev plovdiv vs lokomotiv sofia|leo",
+      "display_name": "[21/07/2026 01:30] BOTEV PLOVDIV vs LOKOMOTIV SOFIA [BLV Leo] [M3U8]",
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
       "playability": "verified",
       "score": 439,
-      "kickoff_iso": "2026-07-21T00:00:00+07:00"
-    }
-  ],
-  "dropped": [
+      "kickoff_iso": "2026-07-21T01:30:00+07:00"
+    },
     {
-      "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
-      "reason": "duplicate-quality-UNKNOWN",
       "source": "luongson",
-      "match_key": "super nova vs grobina|vo tong"
+      "source_label": "Lương Sơn",
+      "url": "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
+      "match_key": "rapid bucuresti vs sepsi osk sfantul gheorghe|lu bo",
+      "display_name": "[21/07/2026 01:30] RAPID BUCURESTI vs SEPSI OSK SFANTUL GHEORGHE [BLV Lữ Bố] [M3U8]",
+      "group": "Bóng đá",
+      "quality": "UNKNOWN",
+      "kind": "m3u8",
+      "playability": "verified",
+      "score": 439,
+      "kickoff_iso": "2026-07-21T01:30:00+07:00"
+    },
+    {
+      "source": "luongson",
+      "source_label": "Lương Sơn",
+      "url": "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5",
+      "match_key": "rapid bucuresti vs sepsi osk sfantul gheorghe|nguoi thep",
+      "display_name": "[21/07/2026 01:30] RAPID BUCURESTI vs SEPSI OSK SFANTUL GHEORGHE [BLV NGƯỜI THÉP] [M3U8]",
+      "group": "Bóng đá",
+      "quality": "UNKNOWN",
+      "kind": "m3u8",
+      "playability": "verified",
+      "score": 439,
+      "kickoff_iso": "2026-07-21T01:30:00+07:00"
     }
   ],
+  "dropped": [],
   "outputs_written": true
 }

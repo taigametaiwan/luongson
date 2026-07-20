@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "luongson",
-  "updated_at": "2026-07-21T00:33:53.696144+07:00",
+  "updated_at": "2026-07-21T01:03:46.028192+07:00",
   "matches": {
     "f6d618696402": {
       "url": "https://catbee.io/truc-tiep/corvinul-hunedoara-vs-fk-csikszereda-miercurea-ciuc-vao-luc-2230-20-07-2026/?blv=246",
@@ -74,16 +74,16 @@
       "scan_decision": "browser-fallback"
     },
     "fc59a206f146": {
-      "url": "https://catbee.io/truc-tiep/slavia-sofia-vs-cska-sofia-vao-luc-2315-20-07-2026/?blv=269",
+      "url": "https://catbee.io/truc-tiep/slavia-sofia-vs-cska-sofia-vao-luc-2315-20-07-2026/?blv=315",
       "match_name": "SLAVIA SOFIA vs CSKA SOFIA",
       "kickoff_iso": "2026-07-20T23:15:00+07:00",
-      "minutes_to_kickoff": -76,
-      "last_scan_at": "2026-07-21T00:33:53.695626+07:00",
-      "next_scan_at": "2026-07-21T00:38:53.695626+07:00",
+      "minutes_to_kickoff": -106,
+      "last_scan_at": "2026-07-21T01:03:46.027340+07:00",
+      "next_scan_at": "2026-07-21T01:08:46.027340+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
-        "https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b"
+        "https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645"
       ],
       "scan_decision": "browser-fallback"
     },
@@ -119,9 +119,9 @@
       "url": "https://catbee.io/truc-tiep/rotor-volgograd-vs-ska-khabarovsk-vao-luc-2330-20-07-2026/",
       "match_name": "ROTOR VOLGOGRAD vs SKA KHABAROVSK",
       "kickoff_iso": "2026-07-20T23:30:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-07-21T00:33:53.695626+07:00",
-      "next_scan_at": "2026-07-21T00:38:53.695626+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-07-21T01:03:46.027340+07:00",
+      "next_scan_at": "2026-07-21T01:08:46.027340+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -133,9 +133,9 @@
       "url": "https://catbee.io/truc-tiep/norrby-if-vs-gif-sundsvall-vao-luc-0000-21-07-2026/",
       "match_name": "NORRBY IF vs GIF SUNDSVALL",
       "kickoff_iso": "2026-07-21T00:00:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-07-21T00:33:53.695626+07:00",
-      "next_scan_at": "2026-07-21T00:38:53.695626+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-07-21T01:03:46.027340+07:00",
+      "next_scan_at": "2026-07-21T01:08:46.027340+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -144,12 +144,12 @@
       "scan_decision": "browser-fallback"
     },
     "fb427fbfd5c9": {
-      "url": "https://catbee.io/truc-tiep/kalmar-vs-malmo-ff-vao-luc-0000-21-07-2026/?blv=368",
+      "url": "https://catbee.io/truc-tiep/kalmar-vs-malmo-ff-vao-luc-0000-21-07-2026/",
       "match_name": "KALMAR vs MALMO FF",
       "kickoff_iso": "2026-07-21T00:00:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-07-21T00:33:53.695626+07:00",
-      "next_scan_at": "2026-07-21T00:38:53.695626+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-07-21T01:03:46.027340+07:00",
+      "next_scan_at": "2026-07-21T01:08:46.027340+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -158,62 +158,64 @@
       "scan_decision": "browser-fallback"
     },
     "8e1278a3dcf7": {
-      "url": "https://catbee.io/truc-tiep/rapid-bucuresti-vs-sepsi-osk-sfantul-gheorghe-vao-luc-0130-21-07-2026/?blv=246",
-      "match_name": "rapid bucuresti vs sepsi osk sfantul gheorghe",
+      "url": "https://catbee.io/truc-tiep/rapid-bucuresti-vs-sepsi-osk-sfantul-gheorghe-vao-luc-0130-21-07-2026/?blv=374",
+      "match_name": "RAPID BUCURESTI vs SEPSI OSK SFANTUL GHEORGHE",
       "kickoff_iso": "2026-07-21T01:30:00+07:00",
-      "minutes_to_kickoff": 125,
-      "last_scan_at": "2026-07-20T23:29:38.763140+07:00",
-      "next_scan_at": "2026-07-21T00:14:38.763140+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-07-21T01:03:46.027340+07:00",
+      "next_scan_at": "2026-07-21T01:08:46.027340+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5"
+      ],
+      "scan_decision": "browser-fallback"
     },
     "2e4910b158f5": {
       "url": "https://catbee.io/truc-tiep/orgryte-vs-djurgardens-vao-luc-0000-21-07-2026/",
       "match_name": "ORGRYTE vs DJURGARDENS",
       "kickoff_iso": "2026-07-21T00:00:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-07-21T00:33:53.695626+07:00",
-      "next_scan_at": "2026-07-21T00:38:53.695626+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d"
-      ],
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-07-21T01:03:46.027340+07:00",
+      "next_scan_at": "2026-07-21T01:08:46.027340+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
       "scan_decision": "browser-fallback"
     },
     "585b14216ff3": {
       "url": "https://catbee.io/truc-tiep/al-ansar-lib-vs-al-nejmeh-vao-luc-0130-21-07-2026/",
-      "match_name": "al ansar lib vs al nejmeh",
+      "match_name": "AL-ANSAR (LIB) vs AL-NEJMEH",
       "kickoff_iso": "2026-07-21T01:30:00+07:00",
-      "minutes_to_kickoff": 125,
-      "last_scan_at": "2026-07-20T23:29:38.763140+07:00",
-      "next_scan_at": "2026-07-21T00:14:38.763140+07:00",
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-07-21T01:03:46.027340+07:00",
+      "next_scan_at": "2026-07-21T01:13:46.027340+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "cd8eda77c84b": {
       "url": "https://catbee.io/truc-tiep/botev-plovdiv-vs-lokomotiv-sofia-vao-luc-0130-21-07-2026/",
-      "match_name": "botev plovdiv vs lokomotiv sofia",
+      "match_name": "BOTEV PLOVDIV vs LOKOMOTIV SOFIA",
       "kickoff_iso": "2026-07-21T01:30:00+07:00",
-      "minutes_to_kickoff": 125,
-      "last_scan_at": "2026-07-20T23:29:38.763140+07:00",
-      "next_scan_at": "2026-07-21T00:14:38.763140+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-07-21T01:03:46.027340+07:00",
+      "next_scan_at": "2026-07-21T01:08:46.027340+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6"
+      ],
+      "scan_decision": "browser-fallback"
     },
     "2246e850beed": {
       "url": "https://catbee.io/truc-tiep/mushuc-runa-vs-orense-sc-vao-luc-0200-21-07-2026/",
       "match_name": "mushuc runa vs orense sc",
       "kickoff_iso": "2026-07-21T02:00:00+07:00",
-      "minutes_to_kickoff": 155,
-      "last_scan_at": "2026-07-20T23:29:38.763140+07:00",
-      "next_scan_at": "2026-07-21T00:14:38.763140+07:00",
+      "minutes_to_kickoff": 59,
+      "last_scan_at": "2026-07-21T01:03:46.027340+07:00",
+      "next_scan_at": "2026-07-21T01:23:46.027340+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -223,21 +225,21 @@
       "url": "https://catbee.io/truc-tiep/hafnarfjordur-vs-breidablik-vao-luc-0215-21-07-2026/",
       "match_name": "hafnarfjordur vs breidablik",
       "kickoff_iso": "2026-07-21T02:15:00+07:00",
-      "minutes_to_kickoff": 170,
-      "last_scan_at": "2026-07-20T23:29:38.763140+07:00",
-      "next_scan_at": "2026-07-21T00:14:38.763140+07:00",
+      "minutes_to_kickoff": 74,
+      "last_scan_at": "2026-07-21T01:03:46.027340+07:00",
+      "next_scan_at": "2026-07-21T01:23:46.027340+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
       "scan_decision": "http-only-far-upcoming"
     },
     "2b8abe81db93": {
-      "url": "https://catbee.io/truc-tiep/sporting-cp-vs-strasbourg-vao-luc-0215-21-07-2026/",
+      "url": "https://catbee.io/truc-tiep/sporting-cp-vs-strasbourg-vao-luc-0215-21-07-2026/?blv=292",
       "match_name": "sporting cp vs strasbourg",
       "kickoff_iso": "2026-07-21T02:15:00+07:00",
-      "minutes_to_kickoff": 170,
-      "last_scan_at": "2026-07-20T23:29:38.763140+07:00",
-      "next_scan_at": "2026-07-21T00:14:38.763140+07:00",
+      "minutes_to_kickoff": 74,
+      "last_scan_at": "2026-07-21T01:03:46.027340+07:00",
+      "next_scan_at": "2026-07-21T01:23:46.027340+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -247,9 +249,21 @@
       "url": "https://catbee.io/truc-tiep/keflavik-vs-ia-akranes-vao-luc-0215-21-07-2026/",
       "match_name": "keflavik vs ia akranes",
       "kickoff_iso": "2026-07-21T02:15:00+07:00",
-      "minutes_to_kickoff": 170,
-      "last_scan_at": "2026-07-20T23:29:38.763140+07:00",
-      "next_scan_at": "2026-07-21T00:14:38.763140+07:00",
+      "minutes_to_kickoff": 74,
+      "last_scan_at": "2026-07-21T01:03:46.027340+07:00",
+      "next_scan_at": "2026-07-21T01:23:46.027340+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "a61af1e03dbe": {
+      "url": "https://catbee.io/truc-tiep/flamengorj-w-vs-3b-sport-am-w-vao-luc-0500-21-07-2026/",
+      "match_name": "flamengorj w vs 3b sport am w",
+      "kickoff_iso": "2026-07-21T05:00:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-07-21T01:03:46.027340+07:00",
+      "next_scan_at": "2026-07-21T01:48:46.027340+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],

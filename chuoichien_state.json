@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "chuoichien",
-  "updated_at": "2026-07-21T00:32:04.602258+07:00",
+  "updated_at": "2026-07-21T01:01:44.479046+07:00",
   "matches": {
     "1565183": {
       "url": "https://live04.chuoichientv.me/live/1565183/corvinul-hunedoara-vs-csikszereda",
@@ -61,27 +61,26 @@
       "url": "https://live04.chuoichientv.me/live/1515888/super-nova-vs-grobia",
       "match_name": "Super Nova vs Grobiņa - VĐQG Latvia",
       "kickoff_iso": "2026-07-20T23:00:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-07-21T00:32:04.602150+07:00",
-      "next_scan_at": "2026-07-21T00:37:04.602150+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://gckc0525.edgemaxcdn.org/live/angao.flv"
-      ],
+      "minutes_to_kickoff": -121,
+      "last_scan_at": "2026-07-21T01:01:44.478964+07:00",
+      "next_scan_at": "2026-07-21T01:06:44.478964+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
       "scan_decision": "browser-fallback"
     },
     "1551052": {
       "url": "https://live04.chuoichientv.me/live/1551052/slavia-sofia-vs-cska-sofia",
       "match_name": "Slavia Sofia vs CSKA Sofia - VĐQG Bulgaria",
       "kickoff_iso": "2026-07-20T23:15:00+07:00",
-      "minutes_to_kickoff": -77,
-      "last_scan_at": "2026-07-21T00:32:04.602150+07:00",
-      "next_scan_at": "2026-07-21T00:37:04.602150+07:00",
+      "minutes_to_kickoff": -106,
+      "last_scan_at": "2026-07-21T01:01:44.478964+07:00",
+      "next_scan_at": "2026-07-21T01:06:44.478964+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
-        "https://gckc0525.edgemaxcdn.org/live/troctru.flv"
+        "https://gckc0525.edgemaxcdn.org/live/troctru.flv",
+        "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8"
       ],
       "scan_decision": "browser-fallback"
     }
