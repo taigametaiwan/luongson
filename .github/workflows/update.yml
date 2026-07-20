@@ -1,4 +1,4 @@
-name: Quet Hygenie HLS FLV v1.0.2
+name: Quet Chuoi Chien va Luong Son v4.3.0 - Hybrid Delta HTTP First
 
 on:
   workflow_dispatch:
@@ -7,8 +7,8 @@ permissions:
   contents: write
 
 concurrency:
-  group: hygenie-m3u-${{ github.ref }}
-  cancel-in-progress: false
+  group: multi-source-live-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   scan:
@@ -19,7 +19,7 @@ jobs:
       - name: 1. Lay code tu kho ve
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 3
 
       - name: 2. Cai dat Python
         uses: actions/setup-python@v5
@@ -34,110 +34,191 @@ jobs:
           python -m pip install playwright
           python -m playwright install --with-deps chromium
 
-      - name: 4. Quet Hygenie va hien log realtime
-        shell: bash
-        env:
-          PYTHONUNBUFFERED: "1"
-          HYGENIE_MATCH_CONCURRENCY: "4"
-          HYGENIE_HOME_WAIT_MS: "6000"
-          HYGENIE_ROOM_WAIT_SECONDS: "25"
-          HYGENIE_FULL_SCAN: "1"
-          HYGENIE_VERIFY_STREAMS: "1"
-          HYGENIE_VERIFY_TIMEOUT_SECONDS: "8"
-          HYGENIE_MAX_VERIFY_CANDIDATES: "6"
-          HYGENIE_MAX_OUTPUT_STREAMS_PER_MATCH: "4"
-        run: |
-          set -o pipefail
-          test -f main.py
-          python -u main.py 2>&1 | tee hygenie_scan.log
-
-      - name: 5. Kiem tra dau ra
+      - name: 4. Audit source va bo gop offline
         shell: bash
         run: |
           set -euo pipefail
+          python -m py_compile main.py merger.py sources/hybrid_support.py sources/chuoichien.py sources/luongson.py
+          python -m unittest discover -s tests -v
 
-          test -f hygenie_live.m3u
-          test -f hygenie_live_pipe.m3u
-          test -f hygenie_live_vlc.m3u
-          test -f hygenie_debug.json
+      - name: 5. Quet hai nguon va hien log realtime
+        shell: bash
+        env:
+          PYTHONUNBUFFERED: "1"
+          MULTI_RUN_SOURCES_PARALLEL: "1"
+          MULTI_MAX_STREAMS_PER_MATCH: "2"
+          MULTI_UPCOMING_KEEP_HOURS: "4"
 
-          if grep -E '^https?://.*\|User-Agent=' hygenie_live.m3u; then
+          SOCOLIVE_HOME_URLS: "https://live04.chuoichientv.me/,https://live03.chuoichientv.me/"
+          SOCOLIVE_MATCH_CONCURRENCY: "3"
+          SOCOLIVE_HOME_WAIT_MS: "5000"
+          SOCOLIVE_ROOM_WAIT_SECONDS: "20"
+          SOCOLIVE_SCAN_PAST_MINUTES: "150"
+          SOCOLIVE_SCAN_FUTURE_MINUTES: "240"
+          SOCOLIVE_HYBRID_HTTP_FIRST: "1"
+          SOCOLIVE_HTTP_DISCOVERY_TIMEOUT_SECONDS: "8"
+          SOCOLIVE_HTTP_DISCOVERY_MAX_FOLLOWS: "4"
+          SOCOLIVE_DELTA_SCAN_ENABLED: "1"
+          SOCOLIVE_DELTA_NEAR_MINUTES: "45"
+          SOCOLIVE_STATE_PATH: "chuoichien_state.json"
+          SOCOLIVE_SCAN_UNKNOWN_LIVE: "1"
+          SOCOLIVE_FULL_SCAN: "1"
+          SOCOLIVE_VERIFY_STREAMS: "1"
+          SOCOLIVE_VERIFY_TIMEOUT_SECONDS: "6"
+          SOCOLIVE_MAX_VERIFY_CANDIDATES: "4"
+          SOCOLIVE_MAX_OUTPUT_STREAMS_PER_MATCH: "2"
+          SOCOLIVE_UPCOMING_KEEP_HOURS: "4"
+          SOCOLIVE_UPCOMING_FAR_THRESHOLD_MINUTES: "45"
+          SOCOLIVE_UPCOMING_FAR_WAIT_SECONDS: "7"
+          SOCOLIVE_UPCOMING_NEAR_WAIT_SECONDS: "12"
+          SOCOLIVE_KEEP_PREVIOUS_UNVERIFIED: "0"
+          SOCOLIVE_ALLOW_UNVERIFIED_BROWSER_FALLBACK: "0"
+
+          HYGENIE_HOME_URLS: "https://catbee.io/,https://hygenie.io/"
+          HYGENIE_MATCH_CONCURRENCY: "3"
+          HYGENIE_HOME_WAIT_MS: "6000"
+          HYGENIE_ROOM_WAIT_SECONDS: "20"
+          HYGENIE_SCAN_PAST_MINUTES: "150"
+          HYGENIE_SCAN_FUTURE_MINUTES: "240"
+          HYGENIE_HYBRID_HTTP_FIRST: "1"
+          HYGENIE_HTTP_DISCOVERY_TIMEOUT_SECONDS: "8"
+          HYGENIE_HTTP_DISCOVERY_MAX_FOLLOWS: "4"
+          HYGENIE_DELTA_SCAN_ENABLED: "1"
+          HYGENIE_DELTA_NEAR_MINUTES: "45"
+          HYGENIE_STATE_PATH: "hygenie_state.json"
+          HYGENIE_SCAN_UNKNOWN_LIVE: "1"
+          HYGENIE_FULL_SCAN: "1"
+          HYGENIE_VERIFY_STREAMS: "1"
+          HYGENIE_VERIFY_TIMEOUT_SECONDS: "6"
+          HYGENIE_MAX_VERIFY_CANDIDATES: "4"
+          HYGENIE_MAX_OUTPUT_STREAMS_PER_MATCH: "2"
+          HYGENIE_UPCOMING_FAR_THRESHOLD_MINUTES: "45"
+          HYGENIE_UPCOMING_FAR_WAIT_SECONDS: "7"
+          HYGENIE_UPCOMING_NEAR_WAIT_SECONDS: "12"
+        run: |
+          set -o pipefail
+          python -u main.py 2>&1 | tee multi_source_scan.log
+
+      - name: 6. Audit playlist chung
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -f all_live.m3u
+          test -f all_live_debug.json
+
+          mapfile -t generated_m3u < <(find . -maxdepth 1 -type f -name '*.m3u' -printf '%f\n' | sort)
+          if [[ ${#generated_m3u[@]} -ne 1 || "${generated_m3u[0]}" != "all_live.m3u" ]]; then
+            echo "::error::Sau khi gộp chỉ được tồn tại duy nhất all_live.m3u. Đang có: ${generated_m3u[*]:-không có}"
+            exit 1
+          fi
+
+          if grep -E '^https?://.*\|User-Agent=' all_live.m3u; then
             echo "::error::Playlist mac dinh khong duoc noi pipe header vao URL."
             exit 1
           fi
 
           python - <<'PY_AUDIT'
           import json
+          import re
+          from collections import Counter
           from pathlib import Path
 
-          rows = json.loads(Path("hygenie_debug.json").read_text(encoding="utf-8"))
+          report = json.loads(Path("all_live_debug.json").read_text(encoding="utf-8"))
           failures = []
-          stream_count = 0
+          urls = []
+          per_match_quality = Counter()
 
-          for row in rows:
-              streams = row.get("streams") or []
-              stream_count += len(streams)
+          # Scanner phải lọc TRƯỚC khi mở trang trận: -150 phút đến +240 phút.
+          for debug_name in ("chuoichien_debug.json", "hygenie_debug.json"):
+              debug_path = Path(debug_name)
+              if not debug_path.exists():
+                  continue
+              payload = json.loads(debug_path.read_text(encoding="utf-8"))
+              rows = payload if isinstance(payload, list) else payload.get("results", [])
+              for row in rows:
+                  delta = row.get("minutes_to_kickoff")
+                  reason = row.get("scan_window_reason", "")
+                  if isinstance(delta, int) and not (-150 <= delta <= 240):
+                      failures.append(f"{debug_name}: quét ngoài cửa sổ {delta} phút: {row.get('url')}")
+                  if delta is None and reason not in {"unknown-time-live", ""}:
+                      failures.append(f"{debug_name}: lý do giờ không hợp lệ {reason}: {row.get('url')}")
 
-              if len(streams) > 4:
-                  failures.append(f"Qua 4 stream: {row.get('match_name')}")
+          for channel in report.get("channels", []):
+              url = channel.get("url", "")
+              urls.append(url)
+              if channel.get("playability") not in {"verified", "browser-observed", "upcoming-pending"}:
+                  failures.append(f"Trang thai khong hop le: {url}")
+              key = (channel.get("match_key"), channel.get("quality"))
+              per_match_quality[key] += 1
 
-              if streams and not row.get("time"):
-                  failures.append(f"Thieu gio: {row.get('match_name')}")
+          if len(urls) != len(set(urls)):
+              failures.append("Playlist chung co URL trung lap")
 
-              for stream in streams:
-                  url = stream.get("url", "")
-                  state = stream.get("playability")
-                  if state not in {"verified", "browser-observed"}:
-                      failures.append(f"Stream chua du tin cay: {url}")
+          for (match_key, quality), count in per_match_quality.items():
+              if count > 1:
+                  failures.append(f"Trung chat luong {quality} trong {match_key}: {count}")
 
-                  sources = stream.get("sources") or []
-                  if (
-                      "previous-playlist" in sources
-                      and not stream.get("observed_active")
-                      and state != "verified"
-                  ):
-                      failures.append(f"Link cu chua xac minh: {url}")
+          text = Path("all_live.m3u").read_text(encoding="utf-8")
+          for line in text.splitlines():
+              if line.startswith("#EXTINF"):
+                  match = re.search(r'group-title="([^"]+)"', line)
+                  if not match or match.group(1) not in {"Bóng đá", "Bóng rổ", "Bóng chuyền", "Tennis", "Esports", "Khác"}:
+                      failures.append(f"group-title khong hop le: {line}")
 
           if failures:
               for item in failures:
                   print(f"::error::{item}")
               raise SystemExit(1)
 
-          print(f"Audit OK: {stream_count} stream dau ra")
+          print(f"Audit OK: {len(urls)} stream chung; nguon={report.get('sources')}")
           PY_AUDIT
 
-          echo "--- Playlist mac dinh ---"
-          sed -n '1,100p' hygenie_live.m3u
+          echo "--- Playlist chung ---"
+          sed -n '1,160p' all_live.m3u
 
-      - name: 6. Tai artifact debug
+      - name: 7. Tai artifact debug
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: hygenie-debug-${{ github.run_id }}
+          name: multi-source-debug-${{ github.run_id }}
           path: |
-            hygenie_live.m3u
-            hygenie_live_pipe.m3u
-            hygenie_live_vlc.m3u
+            all_live.m3u
+            all_live_debug.json
+            chuoichien_debug.json
             hygenie_debug.json
-            hygenie_scan.log
-            hygenie_home_debug.html
-            hygenie_home_debug.png
+            *_home_debug.html
+            *_home_debug.png
+            multi_source_scan.log
+            chuoichien_state.json
+            hygenie_state.json
           if-no-files-found: ignore
           retention-days: 3
 
-      - name: 7. Luu playlist len GitHub
+      - name: 8. Luu playlist len GitHub
         shell: bash
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add -- hygenie_live.m3u hygenie_live_pipe.m3u hygenie_live_vlc.m3u
+          test -f all_live.m3u
 
+          # Xóa các playlist nhiều-file của bản cũ khỏi repository nếu chúng từng được commit.
+          old_playlists=(
+            all_live_pipe.m3u all_live_vlc.m3u
+            chuoichien_live.m3u chuoichien_live_pipe.m3u chuoichien_live_vlc.m3u
+            hygenie_live.m3u hygenie_live_pipe.m3u hygenie_live_vlc.m3u
+            luongson_live.m3u luongson_live_pipe.m3u luongson_live_vlc.m3u
+          )
+          git rm -f --ignore-unmatch -- "${old_playlists[@]}"
+          files_to_add=(all_live.m3u all_live_debug.json)
+          [[ -f chuoichien_state.json ]] && files_to_add+=(chuoichien_state.json)
+          [[ -f hygenie_state.json ]] && files_to_add+=(hygenie_state.json)
+          git add -- "${files_to_add[@]}"
           if git diff --cached --quiet; then
             echo "Playlist khong thay doi; khong can commit."
             exit 0
           fi
 
-          git commit -m "Update verified Hygenie streams v1.0.2"
+          git commit -m "Update combined live streams v4.3.0 (hybrid delta HTTP-first)"
           git push origin "HEAD:${GITHUB_REF_NAME}"
