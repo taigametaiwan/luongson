@@ -1,20 +1,19 @@
 {
   "version": 1,
   "source": "chuoichien",
-  "updated_at": "2026-07-20T23:50:02.646763+07:00",
+  "updated_at": "2026-07-21T00:02:27.412712+07:00",
   "matches": {
     "1565183": {
       "url": "https://live04.chuoichientv.me/live/1565183/corvinul-hunedoara-vs-csikszereda",
       "match_name": "Corvinul Hunedoara vs Csikszereda - VĐQG Roma",
       "kickoff_iso": "2026-07-20T22:30:00+07:00",
-      "minutes_to_kickoff": -79,
-      "last_scan_at": "2026-07-20T23:50:02.646627+07:00",
-      "next_scan_at": "2026-07-20T23:55:02.646627+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-07-21T00:02:27.412571+07:00",
+      "next_scan_at": "2026-07-21T00:07:27.412571+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
-        "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv",
-        "https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8"
+        "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv"
       ],
       "scan_decision": "browser-fallback"
     },
@@ -22,23 +21,21 @@
       "url": "https://live04.chuoichientv.me/live/1515885/fs-jelgava-vs-rgas-fs",
       "match_name": "FS Jelgava vs Rīgas FS - VĐQG Latvia",
       "kickoff_iso": "2026-07-20T22:00:00+07:00",
-      "minutes_to_kickoff": -109,
-      "last_scan_at": "2026-07-20T23:50:02.646627+07:00",
-      "next_scan_at": "2026-07-20T23:55:02.646627+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv"
-      ],
+      "minutes_to_kickoff": -121,
+      "last_scan_at": "2026-07-21T00:02:27.412571+07:00",
+      "next_scan_at": "2026-07-21T00:07:27.412571+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
       "scan_decision": "browser-fallback"
     },
     "1547593": {
       "url": "https://live04.chuoichientv.me/live/1547593/suduva-marijampole-vs-hegelmann-litauen",
-      "match_name": "suduva marijampole vs hegelmann litauen",
+      "match_name": "Suduva Marijampole vs Hegelmann Litauen - VĐQG Lithuania",
       "kickoff_iso": "2026-07-20T22:45:00+07:00",
-      "minutes_to_kickoff": -64,
-      "last_scan_at": "2026-07-20T23:50:02.646627+07:00",
-      "next_scan_at": "2026-07-20T23:55:02.646627+07:00",
+      "minutes_to_kickoff": -76,
+      "last_scan_at": "2026-07-21T00:02:27.412571+07:00",
+      "next_scan_at": "2026-07-21T00:07:27.412571+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -50,9 +47,9 @@
       "url": "https://live04.chuoichientv.me/live/1495738/mariehamn-vs-lahti",
       "match_name": "Mariehamn vs Lahti - VĐQG Phần Lan",
       "kickoff_iso": "2026-07-20T23:00:00+07:00",
-      "minutes_to_kickoff": -49,
-      "last_scan_at": "2026-07-20T23:50:02.646627+07:00",
-      "next_scan_at": "2026-07-20T23:55:02.646627+07:00",
+      "minutes_to_kickoff": -62,
+      "last_scan_at": "2026-07-21T00:02:27.412571+07:00",
+      "next_scan_at": "2026-07-21T00:07:27.412571+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -64,9 +61,9 @@
       "url": "https://live04.chuoichientv.me/live/1515888/super-nova-vs-grobia",
       "match_name": "Super Nova vs Grobiņa - VĐQG Latvia",
       "kickoff_iso": "2026-07-20T23:00:00+07:00",
-      "minutes_to_kickoff": -50,
-      "last_scan_at": "2026-07-20T23:50:02.646627+07:00",
-      "next_scan_at": "2026-07-20T23:55:02.646627+07:00",
+      "minutes_to_kickoff": -62,
+      "last_scan_at": "2026-07-21T00:02:27.412571+07:00",
+      "next_scan_at": "2026-07-21T00:07:27.412571+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -78,14 +75,13 @@
       "url": "https://live04.chuoichientv.me/live/1551052/slavia-sofia-vs-cska-sofia",
       "match_name": "slavia sofia vs cska sofia",
       "kickoff_iso": "2026-07-20T23:15:00+07:00",
-      "minutes_to_kickoff": -35,
-      "last_scan_at": "2026-07-20T23:50:02.646627+07:00",
-      "next_scan_at": "2026-07-20T23:55:02.646627+07:00",
+      "minutes_to_kickoff": -47,
+      "last_scan_at": "2026-07-21T00:02:27.412571+07:00",
+      "next_scan_at": "2026-07-21T00:07:27.412571+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
-        "https://gckc0525.edgemaxcdn.org/live/troctru.flv",
-        "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8"
+        "https://gckc0525.edgemaxcdn.org/live/troctru.flv"
       ],
       "scan_decision": "browser-fallback"
     }
