@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="hygenie-48c50121e28c-380-1" tvg-name="[20/07/2026 21:30] JWAYA vs AL-AHED [BLV Lio]" group-title="Bóng đá" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782319921.png",[20/07/2026 21:30] JWAYA vs AL-AHED [BLV Lio] [M3U8]
+#EXTVLCOPT:http-referrer=https://catbee.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
+https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
+#EXTINF:-1 tvg-id="hygenie-ea6edb2d3b17-300-1" tvg-name="[20/07/2026 22:00] FK TRANSINVEST II vs FK NEPTUNAS KLAIPEDA [BLV TÔN LẬP]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/65608_1hz8rn82zm2x.png",[20/07/2026 22:00] FK TRANSINVEST II vs FK NEPTUNAS KLAIPEDA [BLV TÔN LẬP] [M3U8]
+#EXTVLCOPT:http-referrer=https://catbee.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-id="chuoichien-1515885-1" tvg-name="[22:00 20/07] FS Jelgava vs Rīgas FS - VĐQG Latvia [BLV Chuối Tiêu]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132554_aedaa92f.png",[22:00 20/07] FS Jelgava vs Rīgas FS - VĐQG Latvia [BLV Chuối Tiêu] [FHD FLV]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv
+#EXTINF:-1 tvg-id="hygenie-6714d33be307-1" tvg-name="[20/07/2026 22:00] TPS TURKU vs ILVES TAMPERE [BLV NGƯỜI THÉP]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/351_1j0q19x9y11n.png",[20/07/2026 22:00] TPS TURKU vs ILVES TAMPERE [BLV NGƯỜI THÉP] [M3U8]
+#EXTVLCOPT:http-referrer=https://catbee.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+#EXTINF:-1 tvg-id="chuoichien-1565183-1" tvg-name="[22:30 20/07] Corvinul Hunedoara vs Csikszereda - VĐQG Roma [BLV Chuối Bơ]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132655_e584855e.png",[22:30 20/07] Corvinul Hunedoara vs Csikszereda - VĐQG Roma [BLV Chuối Bơ] [FHD FLV]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+#EXTINF:-1 tvg-id="hygenie-f6d618696402-320-1" tvg-name="[20/07/2026 22:30] CORVINUL HUNEDOARA vs FK CSIKSZEREDA MIERCUREA CIUC [BLV YẾN THANH]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/4098_1gqv25gzasb.png",[20/07/2026 22:30] CORVINUL HUNEDOARA vs FK CSIKSZEREDA MIERCUREA CIUC [BLV YẾN THANH] [M3U8]
+#EXTVLCOPT:http-referrer=https://catbee.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 tvg-id="hygenie-f6d618696402-246-1" tvg-name="[20/07/2026 22:30] CORVINUL HUNEDOARA vs FK CSIKSZEREDA MIERCUREA CIUC [BLV Lữ Bố]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/4098_1gqv25gzasb.png",[20/07/2026 22:30] CORVINUL HUNEDOARA vs FK CSIKSZEREDA MIERCUREA CIUC [BLV Lữ Bố] [M3U8]
+#EXTVLCOPT:http-referrer=https://catbee.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 tvg-id="chuoichien-1547593-1" tvg-name="[22:45 20/07] Suduva Marijampole vs Hegelmann Litauen - VĐQG Lithuania [BLV Chuối Chao]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132602_461ecdf6.png",[22:45 20/07] Suduva Marijampole vs Hegelmann Litauen - VĐQG Lithuania [BLV Chuối Chao] [FHD FLV]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/chuoichao.flv
+#EXTINF:-1 tvg-id="hygenie-bd259603f893-377-1" tvg-name="[20/07/2026 22:45] SUDUVA vs HEGELMANN LITAUEN [BLV PHI HỔ]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/2069_1gzz88jqt08.png",[20/07/2026 22:45] SUDUVA vs HEGELMANN LITAUEN [BLV PHI HỔ] [M3U8]
+#EXTVLCOPT:http-referrer=https://catbee.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:-1 tvg-id="hygenie-24e9834640e9-359-1" tvg-name="[20/07/2026 23:00] IFK MARIEHAMN vs LAHTI [BLV Leo]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/1666_165724435837.png",[20/07/2026 23:00] IFK MARIEHAMN vs LAHTI [BLV Leo] [M3U8]
+#EXTVLCOPT:http-referrer=https://catbee.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-id="chuoichien-1495738-1" tvg-name="[23:00 20/07] Mariehamn vs Lahti - VĐQG Phần Lan [BLV Chuối Già]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131759_83fbb3ff.png",[23:00 20/07] Mariehamn vs Lahti - VĐQG Phần Lan [BLV Chuối Già] [FHD FLV]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/chuoigia.flv
+#EXTINF:-1 tvg-id="chuoichien-1515888-1" tvg-name="[23:00 20/07] Super Nova vs Grobiņa - VĐQG Latvia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132545_0021e13f.png",[23:00 20/07] Super Nova vs Grobiņa - VĐQG Latvia [FHD FLV]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/angao.flv
+#EXTINF:-1 tvg-id="hygenie-dd548a5fb06f-379-1" tvg-name="[20/07/2026 23:00] SUPER NOVA vs GROBINA [BLV Heineken]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/22043_1htv3bvjp32v.png",[20/07/2026 23:00] SUPER NOVA vs GROBINA [BLV Heineken] [M3U8]
+#EXTVLCOPT:http-referrer=https://catbee.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
+https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
+#EXTINF:-1 tvg-id="hygenie-dd548a5fb06f-328-1" tvg-name="[20/07/2026 23:00] SUPER NOVA vs GROBINA [BLV VÕ TÒNG]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/22043_1htv3bvjp32v.png",[20/07/2026 23:00] SUPER NOVA vs GROBINA [BLV VÕ TÒNG] [M3U8]
+#EXTVLCOPT:http-referrer=https://catbee.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-id="chuoichien-1551052-1" tvg-name="[23:15 20/07] Slavia Sofia vs CSKA Sofia - VĐQG Bulgaria [BLV trực tiếp: Trốc Tru Trận đấu Slavia Sofi]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134217_77a1ae5a.png",[23:15 20/07] Slavia Sofia vs CSKA Sofia - VĐQG Bulgaria [BLV trực tiếp: Trốc Tru Trận đấu Slavia Sofi] [FHD FLV]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/troctru.flv
+#EXTINF:-1 tvg-id="hygenie-fc59a206f146-269-1" tvg-name="[20/07/2026 23:15] SLAVIA SOFIA vs CSKA SOFIA [BLV MÃ SIÊU]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/990_1h746htc3c12.png",[20/07/2026 23:15] SLAVIA SOFIA vs CSKA SOFIA [BLV MÃ SIÊU] [M3U8]
+#EXTVLCOPT:http-referrer=https://catbee.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-id="hygenie-54b903913429-383-1" tvg-name="[20/07/2026 23:30] ROTOR VOLGOGRAD vs SKA KHABAROVSK [BLV TÀO THÁO]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/366_1gqk9g9b5m17.png",[20/07/2026 23:30] ROTOR VOLGOGRAD vs SKA KHABAROVSK [BLV TÀO THÁO] [M3U8]
+#EXTVLCOPT:http-referrer=https://catbee.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
+https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
