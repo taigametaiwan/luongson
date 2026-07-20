@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "chuoichien",
-  "updated_at": "2026-07-21T03:31:38.285780+07:00",
+  "updated_at": "2026-07-21T04:01:27.274772+07:00",
   "matches": {
     "1565183": {
       "url": "https://live04.chuoichientv.me/live/1565183/corvinul-hunedoara-vs-csikszereda",
@@ -88,13 +88,14 @@
       "url": "https://live04.chuoichientv.me/live/1562949/sporting-cp-vs-strasbourg",
       "match_name": "Sporting CP vs Strasbourg - Giao Hữu Câu Lạc Bộ",
       "kickoff_iso": "2026-07-21T02:15:00+07:00",
-      "minutes_to_kickoff": -76,
-      "last_scan_at": "2026-07-21T03:31:38.285711+07:00",
-      "next_scan_at": "2026-07-21T03:36:38.285711+07:00",
+      "minutes_to_kickoff": -106,
+      "last_scan_at": "2026-07-21T04:01:27.274702+07:00",
+      "next_scan_at": "2026-07-21T04:06:27.274702+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
-        "https://gckc0525.edgemaxcdn.org/live/troctru.flv"
+        "https://gckc0525.edgemaxcdn.org/live/troctru.flv",
+        "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8"
       ],
       "scan_decision": "browser-fallback"
     },
@@ -130,9 +131,9 @@
       "url": "https://live04.chuoichientv.me/live/1538394/nacional-potos-vs-real-oruro",
       "match_name": "nacional potos vs real oruro",
       "kickoff_iso": "2026-07-21T06:00:00+07:00",
-      "minutes_to_kickoff": 179,
-      "last_scan_at": "2026-07-21T03:01:39.310286+07:00",
-      "next_scan_at": "2026-07-21T03:46:39.310286+07:00",
+      "minutes_to_kickoff": 119,
+      "last_scan_at": "2026-07-21T04:01:27.274702+07:00",
+      "next_scan_at": "2026-07-21T04:21:27.274702+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
