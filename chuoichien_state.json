@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "chuoichien",
-  "updated_at": "2026-07-21T00:02:27.412712+07:00",
+  "updated_at": "2026-07-21T00:32:04.602258+07:00",
   "matches": {
     "1565183": {
       "url": "https://live04.chuoichientv.me/live/1565183/corvinul-hunedoara-vs-csikszereda",
@@ -33,9 +33,9 @@
       "url": "https://live04.chuoichientv.me/live/1547593/suduva-marijampole-vs-hegelmann-litauen",
       "match_name": "Suduva Marijampole vs Hegelmann Litauen - VĐQG Lithuania",
       "kickoff_iso": "2026-07-20T22:45:00+07:00",
-      "minutes_to_kickoff": -76,
-      "last_scan_at": "2026-07-21T00:02:27.412571+07:00",
-      "next_scan_at": "2026-07-21T00:07:27.412571+07:00",
+      "minutes_to_kickoff": -106,
+      "last_scan_at": "2026-07-21T00:32:04.602150+07:00",
+      "next_scan_at": "2026-07-21T00:37:04.602150+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -47,9 +47,9 @@
       "url": "https://live04.chuoichientv.me/live/1495738/mariehamn-vs-lahti",
       "match_name": "Mariehamn vs Lahti - VĐQG Phần Lan",
       "kickoff_iso": "2026-07-20T23:00:00+07:00",
-      "minutes_to_kickoff": -62,
-      "last_scan_at": "2026-07-21T00:02:27.412571+07:00",
-      "next_scan_at": "2026-07-21T00:07:27.412571+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-07-21T00:32:04.602150+07:00",
+      "next_scan_at": "2026-07-21T00:37:04.602150+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -61,9 +61,9 @@
       "url": "https://live04.chuoichientv.me/live/1515888/super-nova-vs-grobia",
       "match_name": "Super Nova vs Grobiņa - VĐQG Latvia",
       "kickoff_iso": "2026-07-20T23:00:00+07:00",
-      "minutes_to_kickoff": -62,
-      "last_scan_at": "2026-07-21T00:02:27.412571+07:00",
-      "next_scan_at": "2026-07-21T00:07:27.412571+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-07-21T00:32:04.602150+07:00",
+      "next_scan_at": "2026-07-21T00:37:04.602150+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -73,11 +73,11 @@
     },
     "1551052": {
       "url": "https://live04.chuoichientv.me/live/1551052/slavia-sofia-vs-cska-sofia",
-      "match_name": "slavia sofia vs cska sofia",
+      "match_name": "Slavia Sofia vs CSKA Sofia - VĐQG Bulgaria",
       "kickoff_iso": "2026-07-20T23:15:00+07:00",
-      "minutes_to_kickoff": -47,
-      "last_scan_at": "2026-07-21T00:02:27.412571+07:00",
-      "next_scan_at": "2026-07-21T00:07:27.412571+07:00",
+      "minutes_to_kickoff": -77,
+      "last_scan_at": "2026-07-21T00:32:04.602150+07:00",
+      "next_scan_at": "2026-07-21T00:37:04.602150+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
