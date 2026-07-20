@@ -1,6 +1,6 @@
 {
   "version": "4.3.0-HYBRID-DELTA-SINGLE-M3U",
-  "generated_at": "2026-07-21T03:03:40.146820+07:00",
+  "generated_at": "2026-07-21T03:33:35.505332+07:00",
   "policy": {
     "max_streams_per_match_blv": 2,
     "upcoming_keep_hours": 4,
@@ -12,8 +12,8 @@
       "label": "Chuối Chiên",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 3,
-      "playlist_blocks": 3,
+      "debug_rows": 2,
+      "playlist_blocks": 2,
       "included": true
     },
     {
@@ -21,14 +21,14 @@
       "label": "Lương Sơn",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 27,
-      "playlist_blocks": 9,
+      "debug_rows": 17,
+      "playlist_blocks": 8,
       "included": true
     }
   ],
-  "input_candidates": 12,
-  "selected_count": 10,
-  "dropped_count": 2,
+  "input_candidates": 10,
+  "selected_count": 9,
+  "dropped_count": 1,
   "channels": [
     {
       "source": "luongson",
@@ -46,9 +46,9 @@
     {
       "source": "luongson",
       "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
-      "match_key": "rapid bucuresti vs sepsi osk sfantul gheorghe|lu bo",
-      "display_name": "[21/07/2026 01:30] RAPID BUCURESTI vs SEPSI OSK SFANTUL GHEORGHE [BLV Lữ Bố] [M3U8]",
+      "url": "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5",
+      "match_key": "rapid bucuresti vs sepsi osk sfantul gheorghe|nguoi thep",
+      "display_name": "[21/07/2026 01:30] RAPID BUCURESTI vs SEPSI OSK SFANTUL GHEORGHE [BLV NGƯỜI THÉP] [M3U8]",
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
@@ -98,9 +98,9 @@
     {
       "source": "luongson",
       "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
-      "match_key": "keflavik vs ia akranes|leo",
-      "display_name": "[21/07/2026 02:15] KEFLAVIK vs IA AKRANES [BLV Leo] [M3U8]",
+      "url": "https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6",
+      "match_key": "keflavik vs ia akranes|heineken",
+      "display_name": "[21/07/2026 02:15] KEFLAVIK vs IA AKRANES [BLV Heineken] [M3U8]",
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
@@ -111,9 +111,9 @@
     {
       "source": "luongson",
       "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6",
-      "match_key": "keflavik vs ia akranes|heineken",
-      "display_name": "[21/07/2026 02:15] KEFLAVIK vs IA AKRANES [BLV Heineken] [M3U8]",
+      "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
+      "match_key": "keflavik vs ia akranes|leo",
+      "display_name": "[21/07/2026 02:15] KEFLAVIK vs IA AKRANES [BLV Leo] [M3U8]",
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
@@ -146,28 +146,9 @@
       "playability": "verified",
       "score": 439,
       "kickoff_iso": "2026-07-21T02:15:00+07:00"
-    },
-    {
-      "source": "chuoichien",
-      "source_label": "Chuối Chiên",
-      "url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
-      "match_key": "sporting cp vs strasbourg|troc tru",
-      "display_name": "[02:15 21/07] Sporting CP vs Strasbourg - Giao Hữu Câu Lạc Bộ [BLV Trốc Tru] (Luồng 2) [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 429,
-      "kickoff_iso": "2026-07-21T02:15:00+07:00"
     }
   ],
   "dropped": [
-    {
-      "url": "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5",
-      "reason": "duplicate-quality-UNKNOWN",
-      "source": "luongson",
-      "match_key": "rapid bucuresti vs sepsi osk sfantul gheorghe|lu bo"
-    },
     {
       "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
       "reason": "duplicate-quality-UNKNOWN",
