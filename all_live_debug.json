@@ -1,6 +1,6 @@
 {
   "version": "4.3.0-HYBRID-DELTA-SINGLE-M3U",
-  "generated_at": "2026-07-21T02:03:27.472825+07:00",
+  "generated_at": "2026-07-21T02:33:28.882898+07:00",
   "policy": {
     "max_streams_per_match_blv": 2,
     "upcoming_keep_hours": 4,
@@ -12,8 +12,8 @@
       "label": "Chuối Chiên",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 4,
-      "playlist_blocks": 3,
+      "debug_rows": 2,
+      "playlist_blocks": 2,
       "included": true
     },
     {
@@ -21,13 +21,13 @@
       "label": "Lương Sơn",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 24,
+      "debug_rows": 15,
       "playlist_blocks": 9,
       "included": true
     }
   ],
-  "input_candidates": 12,
-  "selected_count": 11,
+  "input_candidates": 11,
+  "selected_count": 10,
   "dropped_count": 1,
   "channels": [
     {
@@ -44,24 +44,11 @@
       "kickoff_iso": "2026-07-21T01:30:00+07:00"
     },
     {
-      "source": "chuoichien",
-      "source_label": "Chuối Chiên",
-      "url": "https://gckc0525.edgemaxcdn.org/live/chuoito.flv",
-      "match_key": "botev plovdiv vs lokomotiv sofia|truc tiep chuoi to tran au botev plovd",
-      "display_name": "[01:30 21/07] Botev Plovdiv vs Lokomotiv Sofia - VĐQG Bulgaria [BLV trực tiếp: Chuối To Trận đấu Botev Plovd] [FHD FLV]",
-      "group": "Bóng đá",
-      "quality": "FHD",
-      "kind": "flv",
-      "playability": "verified",
-      "score": 456,
-      "kickoff_iso": "2026-07-21T01:30:00+07:00"
-    },
-    {
       "source": "luongson",
       "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
-      "match_key": "botev plovdiv vs lokomotiv sofia|leo",
-      "display_name": "[21/07/2026 01:30] BOTEV PLOVDIV vs LOKOMOTIV SOFIA [BLV Leo] [M3U8]",
+      "url": "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5",
+      "match_key": "rapid bucuresti vs sepsi osk sfantul gheorghe|nguoi thep",
+      "display_name": "[21/07/2026 01:30] RAPID BUCURESTI vs SEPSI OSK SFANTUL GHEORGHE [BLV NGƯỜI THÉP] [M3U8]",
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
@@ -125,8 +112,8 @@
       "source": "luongson",
       "source_label": "Lương Sơn",
       "url": "https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6",
-      "match_key": "keflavik vs ia akranes|heineken",
-      "display_name": "[21/07/2026 02:15] KEFLAVIK vs IA AKRANES [BLV Heineken] [M3U8]",
+      "match_key": "keflavik vs ia akranes|leo",
+      "display_name": "[21/07/2026 02:15] KEFLAVIK vs IA AKRANES [BLV Leo] [M3U8]",
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
@@ -138,8 +125,8 @@
       "source": "chuoichien",
       "source_label": "Chuối Chiên",
       "url": "https://gckc0525.edgemaxcdn.org/live/troctru.flv",
-      "match_key": "sporting cp vs strasbourg|truc tiep troc tru tran au sporting cp",
-      "display_name": "[02:15 21/07] Sporting CP vs Strasbourg - Giao Hữu Câu Lạc Bộ [BLV trực tiếp: Trốc Tru Trận đấu Sporting CP] [FHD FLV]",
+      "match_key": "sporting cp vs strasbourg|troc tru",
+      "display_name": "[02:15 21/07] Sporting CP vs Strasbourg - Giao Hữu Câu Lạc Bộ [BLV Trốc Tru] [FHD FLV]",
       "group": "Bóng đá",
       "quality": "FHD",
       "kind": "flv",
@@ -176,10 +163,10 @@
   ],
   "dropped": [
     {
-      "url": "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5",
+      "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
       "reason": "duplicate-quality-UNKNOWN",
       "source": "luongson",
-      "match_key": "rapid bucuresti vs sepsi osk sfantul gheorghe|lu bo"
+      "match_key": "keflavik vs ia akranes|leo"
     }
   ],
   "outputs_written": true
