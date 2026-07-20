@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "chuoichien",
-  "updated_at": "2026-07-21T06:01:35.572220+07:00",
+  "updated_at": "2026-07-21T06:31:27.751241+07:00",
   "matches": {
     "1565183": {
       "url": "https://live04.chuoichientv.me/live/1565183/corvinul-hunedoara-vs-csikszereda",
@@ -131,9 +131,9 @@
       "url": "https://live04.chuoichientv.me/live/1538394/nacional-potos-vs-real-oruro",
       "match_name": "Nacional Potosí vs Real Oruro - VĐQG Bolivia",
       "kickoff_iso": "2026-07-21T06:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-07-21T06:01:35.572174+07:00",
-      "next_scan_at": "2026-07-21T06:06:35.572174+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-07-21T06:31:27.751191+07:00",
+      "next_scan_at": "2026-07-21T06:36:27.751191+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [

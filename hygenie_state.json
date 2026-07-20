@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "luongson",
-  "updated_at": "2026-07-21T06:02:33.701489+07:00",
+  "updated_at": "2026-07-21T06:32:44.468096+07:00",
   "matches": {
     "f6d618696402": {
       "url": "https://catbee.io/truc-tiep/corvinul-hunedoara-vs-fk-csikszereda-miercurea-ciuc-vao-luc-2230-20-07-2026/?blv=246",
@@ -270,12 +270,12 @@
       "scan_decision": "browser-fallback"
     },
     "a61af1e03dbe": {
-      "url": "https://catbee.io/truc-tiep/flamengorj-w-vs-3b-sport-am-w-vao-luc-0500-21-07-2026/",
-      "match_name": "flamengorj w vs 3b sport am w",
+      "url": "https://catbee.io/truc-tiep/flamengorj-w-vs-3b-sport-am-w-vao-luc-0500-21-07-2026/?blv=135",
+      "match_name": "Trực tiếp trận đấu Flamengo/RJ (W) vs 3B Sport AM (W)",
       "kickoff_iso": "2026-07-21T05:00:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-07-21T06:02:33.701159+07:00",
-      "next_scan_at": "2026-07-21T06:07:33.701159+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-07-21T06:32:44.467453+07:00",
+      "next_scan_at": "2026-07-21T06:37:44.467453+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -285,9 +285,9 @@
       "url": "https://catbee.io/truc-tiep/ferroviaria-sp-w-vs-sc-corinthians-paulista-w-vao-luc-0600-21-07-2026/?blv=253",
       "match_name": "FERROVIARIA SP (W) vs SC CORINTHIANS PAULISTA (W)",
       "kickoff_iso": "2026-07-21T06:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-07-21T06:02:33.701159+07:00",
-      "next_scan_at": "2026-07-21T06:07:33.701159+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-07-21T06:32:44.467453+07:00",
+      "next_scan_at": "2026-07-21T06:37:44.467453+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -296,42 +296,46 @@
       "scan_decision": "browser-fallback"
     },
     "0a85b3815ab2": {
-      "url": "https://catbee.io/truc-tiep/nacional-potosi-vs-real-oruro-vao-luc-0600-21-07-2026/?blv=269",
+      "url": "https://catbee.io/truc-tiep/nacional-potosi-vs-real-oruro-vao-luc-0600-21-07-2026/",
       "match_name": "NACIONAL POTOSI vs REAL ORURO",
       "kickoff_iso": "2026-07-21T06:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-07-21T06:02:33.701159+07:00",
-      "next_scan_at": "2026-07-21T06:07:33.701159+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-07-21T06:32:44.467453+07:00",
+      "next_scan_at": "2026-07-21T06:37:44.467453+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
-        "https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b"
+        "https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6"
       ],
       "scan_decision": "browser-fallback"
     },
     "8410a3b6980d": {
       "url": "https://catbee.io/truc-tiep/las-vegas-aces-w-vs-toronto-tempo-w-vao-luc-0700-21-07-2026/",
-      "match_name": "las vegas aces w vs toronto tempo w",
+      "match_name": "LAS VEGAS ACES W vs TORONTO TEMPO W",
       "kickoff_iso": "2026-07-21T07:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-07-21T06:02:33.701159+07:00",
-      "next_scan_at": "2026-07-21T06:22:33.701159+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-07-21T06:32:44.467453+07:00",
+      "next_scan_at": "2026-07-21T06:37:44.467453+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3"
+      ],
+      "scan_decision": "browser-fallback"
     },
     "51a3d9a9e567": {
       "url": "https://catbee.io/truc-tiep/new-york-liberty-w-vs-dallas-wings-w-vao-luc-0700-21-07-2026/",
-      "match_name": "new york liberty w vs dallas wings w",
+      "match_name": "NEW YORK LIBERTY W vs DALLAS WINGS W",
       "kickoff_iso": "2026-07-21T07:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-07-21T06:02:33.701159+07:00",
-      "next_scan_at": "2026-07-21T06:22:33.701159+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-07-21T06:32:44.467453+07:00",
+      "next_scan_at": "2026-07-21T06:37:44.467453+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
+      ],
+      "scan_decision": "browser-fallback"
     },
     "0bc9f6600ff3": {
       "url": "https://catbee.io/truc-tiep/minnesota-lynx-w-vs-seattle-storm-w-vao-luc-0900-21-07-2026/",
