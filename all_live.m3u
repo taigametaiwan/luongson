@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="hygenie-585b14216ff3-377-1" tvg-name="[21/07/2026 01:30] AL-ANSAR (LIB) vs AL-NEJMEH [BLV PHI HỔ]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/3098_1hptansvyyx.png",[21/07/2026 01:30] AL-ANSAR (LIB) vs AL-NEJMEH [BLV PHI HỔ] [M3U8]
+#EXTINF:-1 tvg-id="hygenie-585b14216ff3-1" tvg-name="[21/07/2026 01:30] AL-ANSAR (LIB) vs AL-NEJMEH [BLV PHI HỔ]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/3098_1hptansvyyx.png",[21/07/2026 01:30] AL-ANSAR (LIB) vs AL-NEJMEH [BLV PHI HỔ] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
 https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:-1 tvg-id="hygenie-8e1278a3dcf7-374-1" tvg-name="[21/07/2026 01:30] RAPID BUCURESTI vs SEPSI OSK SFANTUL GHEORGHE [BLV NGƯỜI THÉP]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/1066_1hbcs91he82m.png",[21/07/2026 01:30] RAPID BUCURESTI vs SEPSI OSK SFANTUL GHEORGHE [BLV NGƯỜI THÉP] [M3U8]
-#EXTVLCOPT:http-referrer=https://catbee.io/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 #EXTINF:-1 tvg-id="hygenie-8e1278a3dcf7-246-1" tvg-name="[21/07/2026 01:30] RAPID BUCURESTI vs SEPSI OSK SFANTUL GHEORGHE [BLV Lữ Bố]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/1066_1hbcs91he82m.png",[21/07/2026 01:30] RAPID BUCURESTI vs SEPSI OSK SFANTUL GHEORGHE [BLV Lữ Bố] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -35,7 +29,13 @@ https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc5
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
 https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-#EXTINF:-1 tvg-id="hygenie-6dbad2169a4d-1" tvg-name="[21/07/2026 02:15] KEFLAVIK vs IA AKRANES [BLV Leo]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/1400_165363445085.png",[21/07/2026 02:15] KEFLAVIK vs IA AKRANES [BLV Leo] [M3U8]
+#EXTINF:-1 tvg-id="hygenie-6dbad2169a4d-359-1" tvg-name="[21/07/2026 02:15] KEFLAVIK vs IA AKRANES [BLV Leo]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/1400_165363445085.png",[21/07/2026 02:15] KEFLAVIK vs IA AKRANES [BLV Leo] [M3U8]
+#EXTVLCOPT:http-referrer=https://catbee.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-id="hygenie-6dbad2169a4d-1" tvg-name="[21/07/2026 02:15] KEFLAVIK vs IA AKRANES [BLV Heineken]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/1400_165363445085.png",[21/07/2026 02:15] KEFLAVIK vs IA AKRANES [BLV Heineken] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
@@ -47,15 +47,15 @@ https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
 https://gckc0525.edgemaxcdn.org/live/troctru.flv
-#EXTINF:-1 tvg-id="hygenie-2b8abe81db93-368-1" tvg-name="[21/07/2026 02:15] SPORTING CP vs STRASBOURG [BLV Fernando]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/425_165095607959.png",[21/07/2026 02:15] SPORTING CP vs STRASBOURG [BLV Fernando] [M3U8]
+#EXTINF:-1 tvg-id="hygenie-2b8abe81db93-1" tvg-name="[21/07/2026 02:15] SPORTING CP vs STRASBOURG [BLV LÝ ỨNG]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/425_165095607959.png",[21/07/2026 02:15] SPORTING CP vs STRASBOURG [BLV LÝ ỨNG] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
 https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:-1 tvg-id="hygenie-2b8abe81db93-292-1" tvg-name="[21/07/2026 02:15] SPORTING CP vs STRASBOURG [BLV LÝ ỨNG]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/425_165095607959.png",[21/07/2026 02:15] SPORTING CP vs STRASBOURG [BLV LÝ ỨNG] [M3U8]
-#EXTVLCOPT:http-referrer=https://catbee.io/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="chuoichien-1562949-2" tvg-name="[02:15 21/07] Sporting CP vs Strasbourg - Giao Hữu Câu Lạc Bộ [BLV Trốc Tru]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125618_6227fe0e.png",[02:15 21/07] Sporting CP vs Strasbourg - Giao Hữu Câu Lạc Bộ [BLV Trốc Tru] (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
