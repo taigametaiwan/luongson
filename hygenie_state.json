@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "luongson",
-  "updated_at": "2026-07-21T01:34:30.872870+07:00",
+  "updated_at": "2026-07-21T02:03:27.344309+07:00",
   "matches": {
     "f6d618696402": {
       "url": "https://catbee.io/truc-tiep/corvinul-hunedoara-vs-fk-csikszereda-miercurea-ciuc-vao-luc-2230-20-07-2026/?blv=246",
@@ -158,16 +158,16 @@
       "scan_decision": "browser-fallback"
     },
     "8e1278a3dcf7": {
-      "url": "https://catbee.io/truc-tiep/rapid-bucuresti-vs-sepsi-osk-sfantul-gheorghe-vao-luc-0130-21-07-2026/?blv=246",
+      "url": "https://catbee.io/truc-tiep/rapid-bucuresti-vs-sepsi-osk-sfantul-gheorghe-vao-luc-0130-21-07-2026/?blv=374",
       "match_name": "RAPID BUCURESTI vs SEPSI OSK SFANTUL GHEORGHE",
       "kickoff_iso": "2026-07-21T01:30:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-07-21T01:34:30.872250+07:00",
-      "next_scan_at": "2026-07-21T01:39:30.872250+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-07-21T02:03:27.343829+07:00",
+      "next_scan_at": "2026-07-21T02:08:27.343829+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
-        "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1"
+        "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5"
       ],
       "scan_decision": "browser-fallback"
     },
@@ -186,12 +186,12 @@
       "scan_decision": "browser-fallback"
     },
     "585b14216ff3": {
-      "url": "https://catbee.io/truc-tiep/al-ansar-lib-vs-al-nejmeh-vao-luc-0130-21-07-2026/?blv=377",
+      "url": "https://catbee.io/truc-tiep/al-ansar-lib-vs-al-nejmeh-vao-luc-0130-21-07-2026/",
       "match_name": "AL-ANSAR (LIB) vs AL-NEJMEH",
       "kickoff_iso": "2026-07-21T01:30:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-07-21T01:34:30.872250+07:00",
-      "next_scan_at": "2026-07-21T01:39:30.872250+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-07-21T02:03:27.343829+07:00",
+      "next_scan_at": "2026-07-21T02:08:27.343829+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -203,9 +203,9 @@
       "url": "https://catbee.io/truc-tiep/botev-plovdiv-vs-lokomotiv-sofia-vao-luc-0130-21-07-2026/",
       "match_name": "BOTEV PLOVDIV vs LOKOMOTIV SOFIA",
       "kickoff_iso": "2026-07-21T01:30:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-07-21T01:34:30.872250+07:00",
-      "next_scan_at": "2026-07-21T01:39:30.872250+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-07-21T02:03:27.343829+07:00",
+      "next_scan_at": "2026-07-21T02:08:27.343829+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -217,21 +217,23 @@
       "url": "https://catbee.io/truc-tiep/mushuc-runa-vs-orense-sc-vao-luc-0200-21-07-2026/",
       "match_name": "MUSHUC RUNA vs ORENSE SC",
       "kickoff_iso": "2026-07-21T02:00:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-07-21T01:34:30.872250+07:00",
-      "next_scan_at": "2026-07-21T01:44:30.872250+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-07-21T02:03:27.343829+07:00",
+      "next_scan_at": "2026-07-21T02:08:27.343829+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df"
+      ],
       "scan_decision": "browser-fallback"
     },
     "455f6409c84f": {
       "url": "https://catbee.io/truc-tiep/hafnarfjordur-vs-breidablik-vao-luc-0215-21-07-2026/",
       "match_name": "HAFNARFJORDUR vs BREIDABLIK",
       "kickoff_iso": "2026-07-21T02:15:00+07:00",
-      "minutes_to_kickoff": 44,
-      "last_scan_at": "2026-07-21T01:34:30.872250+07:00",
-      "next_scan_at": "2026-07-21T01:44:30.872250+07:00",
+      "minutes_to_kickoff": 14,
+      "last_scan_at": "2026-07-21T02:03:27.343829+07:00",
+      "next_scan_at": "2026-07-21T02:08:27.343829+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -240,36 +242,64 @@
       "scan_decision": "browser-fallback"
     },
     "2b8abe81db93": {
-      "url": "https://catbee.io/truc-tiep/sporting-cp-vs-strasbourg-vao-luc-0215-21-07-2026/?blv=368",
+      "url": "https://catbee.io/truc-tiep/sporting-cp-vs-strasbourg-vao-luc-0215-21-07-2026/?blv=292",
       "match_name": "SPORTING CP vs STRASBOURG",
       "kickoff_iso": "2026-07-21T02:15:00+07:00",
-      "minutes_to_kickoff": 44,
-      "last_scan_at": "2026-07-21T01:34:30.872250+07:00",
-      "next_scan_at": "2026-07-21T01:44:30.872250+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": 14,
+      "last_scan_at": "2026-07-21T02:03:27.343829+07:00",
+      "next_scan_at": "2026-07-21T02:08:27.343829+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d"
+      ],
       "scan_decision": "browser-fallback"
     },
     "6dbad2169a4d": {
       "url": "https://catbee.io/truc-tiep/keflavik-vs-ia-akranes-vao-luc-0215-21-07-2026/",
       "match_name": "KEFLAVIK vs IA AKRANES",
       "kickoff_iso": "2026-07-21T02:15:00+07:00",
-      "minutes_to_kickoff": 44,
-      "last_scan_at": "2026-07-21T01:34:30.872250+07:00",
-      "next_scan_at": "2026-07-21T01:44:30.872250+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": 14,
+      "last_scan_at": "2026-07-21T02:03:27.343829+07:00",
+      "next_scan_at": "2026-07-21T02:08:27.343829+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6"
+      ],
       "scan_decision": "browser-fallback"
     },
     "a61af1e03dbe": {
       "url": "https://catbee.io/truc-tiep/flamengorj-w-vs-3b-sport-am-w-vao-luc-0500-21-07-2026/",
       "match_name": "flamengorj w vs 3b sport am w",
       "kickoff_iso": "2026-07-21T05:00:00+07:00",
+      "minutes_to_kickoff": 179,
+      "last_scan_at": "2026-07-21T02:03:27.343829+07:00",
+      "next_scan_at": "2026-07-21T02:48:27.343829+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "6727effd6600": {
+      "url": "https://catbee.io/truc-tiep/ferroviaria-sp-w-vs-sc-corinthians-paulista-w-vao-luc-0600-21-07-2026/?blv=253",
+      "match_name": "ferroviaria sp w vs sc corinthians paulista w",
+      "kickoff_iso": "2026-07-21T06:00:00+07:00",
       "minutes_to_kickoff": 239,
-      "last_scan_at": "2026-07-21T01:03:46.027340+07:00",
-      "next_scan_at": "2026-07-21T01:48:46.027340+07:00",
+      "last_scan_at": "2026-07-21T02:03:27.343829+07:00",
+      "next_scan_at": "2026-07-21T02:48:27.343829+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "0a85b3815ab2": {
+      "url": "https://catbee.io/truc-tiep/nacional-potosi-vs-real-oruro-vao-luc-0600-21-07-2026/?blv=269",
+      "match_name": "nacional potosi vs real oruro",
+      "kickoff_iso": "2026-07-21T06:00:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-07-21T02:03:27.343829+07:00",
+      "next_scan_at": "2026-07-21T02:48:27.343829+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
