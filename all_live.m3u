@@ -1,25 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="hygenie-e636d49797ba-377-1" tvg-name="[22/07/2026 01:45] KI KLAKSVIK vs KAUNO ZALGIRIS [BLV PHI HỔ]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/4965_1gtqmft1tg3.png",[22/07/2026 01:45] KI KLAKSVIK vs KAUNO ZALGIRIS [BLV PHI HỔ] [M3U8]
-#EXTVLCOPT:http-referrer=https://catbee.io/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:-1 tvg-id="hygenie-9c29767a9306-379-1" tvg-name="[22/07/2026 02:00] LARNE FC vs CRVENA ZVEZDA [BLV Heineken]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/1412_1gq1ff34cc28.png",[22/07/2026 02:00] LARNE FC vs CRVENA ZVEZDA [BLV Heineken] [M3U8]
-#EXTVLCOPT:http-referrer=https://catbee.io/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
-https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-#EXTINF:-1 tvg-id="hygenie-ead0d2d26f70-372-1" tvg-name="[22/07/2026 02:00] VIKINGUR REYKJAVIK vs HAPOEL BEER SHEVA [BLV LÃO HẠC]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/1403_1k0jqr6cf82v.png",[22/07/2026 02:00] VIKINGUR REYKJAVIK vs HAPOEL BEER SHEVA [BLV LÃO HẠC] [M3U8]
-#EXTVLCOPT:http-referrer=https://catbee.io/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:-1 tvg-id="hygenie-72dfc60185a5-315-1" tvg-name="[22/07/2026 04:00] ATLETICO NACIONAL MEDELLIN vs TIGRES ZIPAQUIRA [BLV VƯƠNG LUÂN]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/2227_1gxmbqm710v.png",[22/07/2026 04:00] ATLETICO NACIONAL MEDELLIN vs TIGRES ZIPAQUIRA [BLV VƯƠNG LUÂN] [M3U8]
+#EXTINF:-1 tvg-id="hygenie-72dfc60185a5-1" tvg-name="[22/07/2026 04:00] ATLETICO NACIONAL MEDELLIN vs TIGRES ZIPAQUIRA [BLV VƯƠNG LUÂN]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/2227_1gxmbqm710v.png",[22/07/2026 04:00] ATLETICO NACIONAL MEDELLIN vs TIGRES ZIPAQUIRA [BLV VƯƠNG LUÂN] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
 https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:-1 tvg-id="hygenie-601258f7f01e-380-1" tvg-name="[22/07/2026 04:30] LIBERTAD FC vs DELFIN SC [BLV Lio]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/54824_1j3y4rkpr51j.png",[22/07/2026 04:30] LIBERTAD FC vs DELFIN SC [BLV Lio] [M3U8]
+#EXTVLCOPT:http-referrer=https://catbee.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
+https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
