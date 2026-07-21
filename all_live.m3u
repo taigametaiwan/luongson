@@ -1,28 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="hygenie-4a78e242cbdc-380-1" tvg-name="[22/07/2026 00:00] AARHUS AGF vs LECH POZNAN [BLV Lio]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/223_1h6mr9v64k1k.png",[22/07/2026 00:00] AARHUS AGF vs LECH POZNAN [BLV Lio] [M3U8]
-#EXTVLCOPT:http-referrer=https://catbee.io/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
-https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
-#EXTINF:-1 tvg-id="chuoichien-1556501-1" tvg-name="[00:00 22/07] Aarhus vs Lech Poznan - UEFA Champions League [BLV Trốc Tru]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130612_86422cb0.png",[00:00 22/07] Aarhus vs Lech Poznan - UEFA Champions League [BLV Trốc Tru] [FHD FLV]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/troctru.flv
 #EXTINF:-1 tvg-id="chuoichien-1556502-1" tvg-name="[01:00 22/07] Fenerbahce vs Gornik Zabrze - UEFA Champions League [BLV Chuối Bơ]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125650_26561183.png",[01:00 22/07] Fenerbahce vs Gornik Zabrze - UEFA Champions League [BLV Chuối Bơ] [FHD FLV]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
 https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
-#EXTINF:-1 tvg-id="chuoichien-1556502-2" tvg-name="[01:00 22/07] Fenerbahce vs Gornik Zabrze - UEFA Champions League [BLV Chuối Bơ]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125650_26561183.png",[01:00 22/07] Fenerbahce vs Gornik Zabrze - UEFA Champions League [BLV Chuối Bơ] (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
 #EXTINF:-1 tvg-id="hygenie-8c9ac79b7911-368-1" tvg-name="[22/07/2026 01:00] FENERBAHCE vs GORNIK ZABRZE [BLV Fernando]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/492_1gv1ygch630.png",[22/07/2026 01:00] FENERBAHCE vs GORNIK ZABRZE [BLV Fernando] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -35,7 +17,7 @@ https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
 https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:-1 tvg-id="hygenie-b530555cd7e6-292-1" tvg-name="[22/07/2026 01:15] ATERT BISSEN vs GYORI ETO [BLV LÝ ỨNG]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/19909_1gy18ermay2c.png",[22/07/2026 01:15] ATERT BISSEN vs GYORI ETO [BLV LÝ ỨNG] [M3U8]
+#EXTINF:-1 tvg-id="hygenie-b530555cd7e6-1" tvg-name="[22/07/2026 01:15] ATERT BISSEN vs GYORI ETO [BLV LÝ ỨNG]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/19909_1gy18ermay2c.png",[22/07/2026 01:15] ATERT BISSEN vs GYORI ETO [BLV LÝ ỨNG] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
@@ -47,7 +29,7 @@ https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c69
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
 https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-#EXTINF:-1 tvg-id="chuoichien-1556503-1" tvg-name="[01:30 22/07] Sturm Graz vs Heart Of Midlothian - UEFA Champions League [BLV trực tiếp: Chuối Nhỏ Trận đấu Sturm Graz]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125652_3b9e9923.png",[01:30 22/07] Sturm Graz vs Heart Of Midlothian - UEFA Champions League [BLV trực tiếp: Chuối Nhỏ Trận đấu Sturm Graz] [FHD FLV]
+#EXTINF:-1 tvg-id="chuoichien-1556503-1" tvg-name="[01:30 22/07] Sturm Graz vs Heart Of Midlothian - UEFA Champions League [BLV Chuối Nhỏ]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125652_3b9e9923.png",[01:30 22/07] Sturm Graz vs Heart Of Midlothian - UEFA Champions League [BLV Chuối Nhỏ] [FHD FLV]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
@@ -59,6 +41,12 @@ https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
 https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 tvg-id="chuoichien-1556503-2" tvg-name="[01:30 22/07] Sturm Graz vs Heart Of Midlothian - UEFA Champions League [BLV Chuối Nhỏ]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125652_3b9e9923.png",[01:30 22/07] Sturm Graz vs Heart Of Midlothian - UEFA Champions League [BLV Chuối Nhỏ] (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
 #EXTINF:-1 tvg-id="hygenie-dcaba9ce140d-300-1" tvg-name="[22/07/2026 01:30] WALSALL vs ASTON VILLA [BLV TÔN LẬP]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/305_164940959625.png",[22/07/2026 01:30] WALSALL vs ASTON VILLA [BLV TÔN LẬP] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -71,6 +59,12 @@ https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc5
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
 https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:-1 tvg-id="hygenie-9c29767a9306-379-1" tvg-name="[22/07/2026 02:00] LARNE FC vs CRVENA ZVEZDA [BLV Heineken]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/1412_1gq1ff34cc28.png",[22/07/2026 02:00] LARNE FC vs CRVENA ZVEZDA [BLV Heineken] [M3U8]
+#EXTVLCOPT:http-referrer=https://catbee.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
+https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
 #EXTINF:-1 tvg-id="hygenie-ead0d2d26f70-372-1" tvg-name="[22/07/2026 02:00] VIKINGUR REYKJAVIK vs HAPOEL BEER SHEVA [BLV LÃO HẠC]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/1403_1k0jqr6cf82v.png",[22/07/2026 02:00] VIKINGUR REYKJAVIK vs HAPOEL BEER SHEVA [BLV LÃO HẠC] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
