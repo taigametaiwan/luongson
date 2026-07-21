@@ -1,6 +1,6 @@
 {
   "version": "4.3.0-HYBRID-DELTA-SINGLE-M3U",
-  "generated_at": "2026-07-22T00:34:32.124808+07:00",
+  "generated_at": "2026-07-22T01:03:32.035224+07:00",
   "policy": {
     "max_streams_per_match_blv": 2,
     "upcoming_keep_hours": 4,
@@ -12,7 +12,7 @@
       "label": "Chuối Chiên",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 2,
+      "debug_rows": 6,
       "playlist_blocks": 3,
       "included": true
     },
@@ -21,119 +21,15 @@
       "label": "Lương Sơn",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 33,
-      "playlist_blocks": 8,
+      "debug_rows": 26,
+      "playlist_blocks": 6,
       "included": true
     }
   ],
-  "input_candidates": 11,
-  "selected_count": 10,
-  "dropped_count": 1,
+  "input_candidates": 9,
+  "selected_count": 9,
+  "dropped_count": 0,
   "channels": [
-    {
-      "source": "chuoichien",
-      "source_label": "Chuối Chiên",
-      "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao.flv",
-      "match_key": "ararat armenia vs shamrock rovers|chuoi chao",
-      "display_name": "[23:00 21/07] Ararat-Armenia vs Shamrock Rovers - UEFA Champions League [BLV Chuối Chao] [FHD FLV]",
-      "group": "Bóng đá",
-      "quality": "FHD",
-      "kind": "flv",
-      "playability": "verified",
-      "score": 456,
-      "kickoff_iso": "2026-07-21T23:00:00+07:00"
-    },
-    {
-      "source": "chuoichien",
-      "source_label": "Chuối Chiên",
-      "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
-      "match_key": "ararat armenia vs shamrock rovers|chuoi chao",
-      "display_name": "[23:00 21/07] Ararat-Armenia vs Shamrock Rovers - UEFA Champions League [BLV Chuối Chao] (Luồng 2) [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 429,
-      "kickoff_iso": "2026-07-21T23:00:00+07:00"
-    },
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6",
-      "match_key": "fc ararat armenia vs shamrock rovers|kaka",
-      "display_name": "[21/07/2026 23:00] FC ARARAT ARMENIA vs SHAMROCK ROVERS [BLV Kaka] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-21T23:00:00+07:00"
-    },
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df",
-      "match_key": "fc iberia 1999 tbilisi vs slovan bratislava|ton lap",
-      "display_name": "[21/07/2026 23:00] FC IBERIA 1999 TBILISI vs SLOVAN BRATISLAVA [BLV TÔN LẬP] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-21T23:00:00+07:00"
-    },
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6",
-      "match_key": "kapa vs klubi 04 helsinki|heineken",
-      "display_name": "[21/07/2026 23:00] KAPA vs KLUBI 04 HELSINKI [BLV Heineken] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-21T23:00:00+07:00"
-    },
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491",
-      "match_key": "mjallby aif vs lincoln red imps fc|lao hac",
-      "display_name": "[21/07/2026 23:00] MJALLBY AIF vs LINCOLN RED IMPS FC [BLV LÃO HẠC] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-21T23:00:00+07:00"
-    },
-    {
-      "source": "chuoichien",
-      "source_label": "Chuối Chiên",
-      "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv",
-      "match_key": "sabah fa vs kups|chuoi nho",
-      "display_name": "[23:00 21/07] Sabah FA vs KuPS - UEFA Champions League [BLV Chuối Nhỏ] [FHD FLV]",
-      "group": "Bóng đá",
-      "quality": "FHD",
-      "kind": "flv",
-      "playability": "verified",
-      "score": 456,
-      "kickoff_iso": "2026-07-21T23:00:00+07:00"
-    },
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5",
-      "match_key": "sabah fk baku vs kups|nguoi thep",
-      "display_name": "[21/07/2026 23:00] SABAH FK BAKU vs KUPS [BLV NGƯỜI THÉP] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-21T23:00:00+07:00"
-    },
     {
       "source": "luongson",
       "source_label": "Lương Sơn",
@@ -148,6 +44,32 @@
       "kickoff_iso": "2026-07-22T00:00:00+07:00"
     },
     {
+      "source": "chuoichien",
+      "source_label": "Chuối Chiên",
+      "url": "https://gckc0525.edgemaxcdn.org/live/troctru.flv",
+      "match_key": "aarhus vs lech poznan|troc tru",
+      "display_name": "[00:00 22/07] Aarhus vs Lech Poznan - UEFA Champions League [BLV Trốc Tru] [FHD FLV]",
+      "group": "Bóng đá",
+      "quality": "FHD",
+      "kind": "flv",
+      "playability": "verified",
+      "score": 456,
+      "kickoff_iso": "2026-07-22T00:00:00+07:00"
+    },
+    {
+      "source": "chuoichien",
+      "source_label": "Chuối Chiên",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv",
+      "match_key": "fenerbahce vs gornik zabrze|chuoi bo",
+      "display_name": "[01:00 22/07] Fenerbahce vs Gornik Zabrze - UEFA Champions League [BLV Chuối Bơ] [FHD FLV]",
+      "group": "Bóng đá",
+      "quality": "FHD",
+      "kind": "flv",
+      "playability": "verified",
+      "score": 456,
+      "kickoff_iso": "2026-07-22T01:00:00+07:00"
+    },
+    {
       "source": "luongson",
       "source_label": "Lương Sơn",
       "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb",
@@ -159,15 +81,73 @@
       "playability": "verified",
       "score": 439,
       "kickoff_iso": "2026-07-22T01:00:00+07:00"
-    }
-  ],
-  "dropped": [
+    },
     {
-      "url": "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f",
-      "reason": "duplicate-quality-UNKNOWN",
+      "source": "chuoichien",
+      "source_label": "Chuối Chiên",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8",
+      "match_key": "fenerbahce vs gornik zabrze|chuoi bo",
+      "display_name": "[01:00 22/07] Fenerbahce vs Gornik Zabrze - UEFA Champions League [BLV Chuối Bơ] (Luồng 2) [M3U8]",
+      "group": "Bóng đá",
+      "quality": "UNKNOWN",
+      "kind": "m3u8",
+      "playability": "verified",
+      "score": 429,
+      "kickoff_iso": "2026-07-22T01:00:00+07:00"
+    },
+    {
       "source": "luongson",
-      "match_key": "mjallby aif vs lincoln red imps fc|lao hac"
+      "source_label": "Lương Sơn",
+      "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
+      "match_key": "thun vs dinamo zagreb|leo",
+      "display_name": "[22/07/2026 01:00] THUN vs DINAMO ZAGREB [BLV Leo] [M3U8]",
+      "group": "Bóng đá",
+      "quality": "UNKNOWN",
+      "kind": "m3u8",
+      "playability": "verified",
+      "score": 439,
+      "kickoff_iso": "2026-07-22T01:00:00+07:00"
+    },
+    {
+      "source": "luongson",
+      "source_label": "Lương Sơn",
+      "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
+      "match_key": "atert bissen vs gyori eto|ly ung",
+      "display_name": "[22/07/2026 01:15] ATERT BISSEN vs GYORI ETO [BLV LÝ ỨNG] [M3U8]",
+      "group": "Bóng đá",
+      "quality": "UNKNOWN",
+      "kind": "m3u8",
+      "playability": "verified",
+      "score": 439,
+      "kickoff_iso": "2026-07-22T01:15:00+07:00"
+    },
+    {
+      "source": "luongson",
+      "source_label": "Lương Sơn",
+      "url": "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
+      "match_key": "sturm graz vs heart of midlothian|lu bo",
+      "display_name": "[22/07/2026 01:30] STURM GRAZ vs HEART OF MIDLOTHIAN [BLV Lữ Bố] [M3U8]",
+      "group": "Bóng đá",
+      "quality": "UNKNOWN",
+      "kind": "m3u8",
+      "playability": "verified",
+      "score": 439,
+      "kickoff_iso": "2026-07-22T01:30:00+07:00"
+    },
+    {
+      "source": "luongson",
+      "source_label": "Lương Sơn",
+      "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df",
+      "match_key": "walsall vs aston villa|ton lap",
+      "display_name": "[22/07/2026 01:30] WALSALL vs ASTON VILLA [BLV TÔN LẬP] [M3U8]",
+      "group": "Bóng đá",
+      "quality": "UNKNOWN",
+      "kind": "m3u8",
+      "playability": "verified",
+      "score": 439,
+      "kickoff_iso": "2026-07-22T01:30:00+07:00"
     }
   ],
+  "dropped": [],
   "outputs_written": true
 }
