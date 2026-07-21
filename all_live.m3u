@@ -1,47 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1507004-1" tvg-name="[17:30 21/07] Jeju United FC vs Gangwon FC - K League 1 [BLV Chuối Chao]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133955_dbd7e40e.png",[17:30 21/07] Jeju United FC vs Gangwon FC - K League 1 [BLV Chuối Chao] [FHD FLV]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoichao.flv
-#EXTINF:-1 tvg-id="chuoichien-1507004-2" tvg-name="[17:30 21/07] Jeju United FC vs Gangwon FC - K League 1 [BLV Chuối Chao]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133955_dbd7e40e.png",[17:30 21/07] Jeju United FC vs Gangwon FC - K League 1 [BLV Chuối Chao] (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="hygenie-6a904f55b701-218-1" tvg-name="[21/07/2026 17:30] ULSAN HD FC vs INCHEON UNITED [BLV Kaka]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/436_1jr576ev8wv.png",[21/07/2026 17:30] ULSAN HD FC vs INCHEON UNITED [BLV Kaka] [M3U8]
-#EXTVLCOPT:http-referrer=https://catbee.io/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 tvg-id="hygenie-6a904f55b701-246-1" tvg-name="[21/07/2026 17:30] ULSAN HD FC vs INCHEON UNITED [BLV Lữ Bố]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/436_1jr576ev8wv.png",[21/07/2026 17:30] ULSAN HD FC vs INCHEON UNITED [BLV Lữ Bố] [M3U8]
-#EXTVLCOPT:http-referrer=https://catbee.io/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:-1 tvg-id="hygenie-8b39da480d0e-1" tvg-name="[21/07/2026 18:00] SHANGHAI PORT vs SHENZHEN XINPENGCHENG [BLV PHI HỔ]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/6673_1h8n2nv7tw23.png",[21/07/2026 18:00] SHANGHAI PORT vs SHENZHEN XINPENGCHENG [BLV PHI HỔ] [M3U8]
-#EXTVLCOPT:http-referrer=https://catbee.io/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:-1 tvg-id="hygenie-8b39da480d0e-135-1" tvg-name="[21/07/2026 18:00] SHANGHAI PORT vs SHENZHEN XINPENGCHENG [BLV LƯU BỊ]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/6673_1h8n2nv7tw23.png",[21/07/2026 18:00] SHANGHAI PORT vs SHENZHEN XINPENGCHENG [BLV LƯU BỊ] [M3U8]
-#EXTVLCOPT:http-referrer=https://catbee.io/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 tvg-id="chuoichien-1567362-1" tvg-name="[18:00 21/07] SHANGHAI SIPG vs Sichuan Jiuniu - Cúp FA Trung Quốc [BLV trực tiếp: Chuối Nhỏ Trận đấu SHANGHAI S]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133411_6f730c26.png",[18:00 21/07] SHANGHAI SIPG vs Sichuan Jiuniu - Cúp FA Trung Quốc [BLV trực tiếp: Chuối Nhỏ Trận đấu SHANGHAI S] [FHD FLV]
+#EXTINF:-1 tvg-id="chuoichien-1567362-1" tvg-name="[18:00 21/07] SHANGHAI SIPG vs Sichuan Jiuniu - Cúp FA Trung Quốc [BLV Chuối Nhỏ]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133411_6f730c26.png",[18:00 21/07] SHANGHAI SIPG vs Sichuan Jiuniu - Cúp FA Trung Quốc [BLV Chuối Nhỏ] [FHD FLV]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
 https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
-#EXTINF:-1 tvg-id="hygenie-d2782136c132-1" tvg-name="[21/07/2026 18:35] CHONGQING TONGLIANGLONG vs QINGDAO WEST COAST [BLV Lio]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/61524_1hysdzw5hv1f.png",[21/07/2026 18:35] CHONGQING TONGLIANGLONG vs QINGDAO WEST COAST [BLV Lio] [M3U8]
+#EXTINF:-1 tvg-id="hygenie-d2782136c132-380-1" tvg-name="[21/07/2026 18:35] CHONGQING TONGLIANGLONG vs QINGDAO WEST COAST [BLV Lio]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/61524_1hysdzw5hv1f.png",[21/07/2026 18:35] CHONGQING TONGLIANGLONG vs QINGDAO WEST COAST [BLV Lio] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
@@ -53,13 +17,13 @@ https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
 https://gckc0525.edgemaxcdn.org/live/chuoito.flv
-#EXTINF:-1 tvg-id="chuoichien-1567358-2" tvg-name="[18:35 21/07] Shanghai Shenhua vs Qingdao Jonoon - Cúp FA Trung Quốc [BLV Chuối To]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133410_6ecad300.png",[18:35 21/07] Shanghai Shenhua vs Qingdao Jonoon - Cúp FA Trung Quốc [BLV Chuối To] (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="hygenie-813fe14f8111-292-1" tvg-name="[21/07/2026 18:35] SHANGHAI SHENHUA vs QINGDAO MANATEE [BLV LÝ ỨNG]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/33_1gy3vjsrhn1p.png",[21/07/2026 18:35] SHANGHAI SHENHUA vs QINGDAO MANATEE [BLV LÝ ỨNG] [M3U8]
+#EXTVLCOPT:http-referrer=https://catbee.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:-1 tvg-id="hygenie-813fe14f8111-1" tvg-name="[21/07/2026 18:35] SHANGHAI SHENHUA vs QINGDAO MANATEE [BLV LÝ ỨNG]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/33_1gy3vjsrhn1p.png",[21/07/2026 18:35] SHANGHAI SHENHUA vs QINGDAO MANATEE [BLV LÝ ỨNG] [M3U8]
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-id="hygenie-813fe14f8111-1" tvg-name="[21/07/2026 18:35] SHANGHAI SHENHUA vs QINGDAO MANATEE [BLV YẾN THANH]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/33_1gy3vjsrhn1p.png",[21/07/2026 18:35] SHANGHAI SHENHUA vs QINGDAO MANATEE [BLV YẾN THANH] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
@@ -71,7 +35,7 @@ https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a7
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
 https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 tvg-id="hygenie-6533ab710971-383-1" tvg-name="[21/07/2026 19:00] HENAN FOOTBALL CLUB vs DALIAN ZHIXING [BLV TÀO THÁO]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/495_1j39p5ccv415.png",[21/07/2026 19:00] HENAN FOOTBALL CLUB vs DALIAN ZHIXING [BLV TÀO THÁO] [M3U8]
+#EXTINF:-1 tvg-id="hygenie-6533ab710971-1" tvg-name="[21/07/2026 19:00] HENAN FOOTBALL CLUB vs DALIAN ZHIXING [BLV TÀO THÁO]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/495_1j39p5ccv415.png",[21/07/2026 19:00] HENAN FOOTBALL CLUB vs DALIAN ZHIXING [BLV TÀO THÁO] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
@@ -83,15 +47,21 @@ https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
 https://gckc0525.edgemaxcdn.org/live/chuoigia.flv
-#EXTINF:-1 tvg-id="hygenie-b13863a9e1ab-359-1" tvg-name="[21/07/2026 19:00] YUNNAN YUKUN vs CHENGDU RONGCHENG FC [BLV Leo]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/61513_1k0qw9nssh1n.png",[21/07/2026 19:00] YUNNAN YUKUN vs CHENGDU RONGCHENG FC [BLV Leo] [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1567359-2" tvg-name="[19:00 21/07] Yunnan Yukun vs Chengdu Better City - Cúp FA Trung Quốc [BLV Chuối Già]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133510_453543a3.png",[19:00 21/07] Yunnan Yukun vs Chengdu Better City - Cúp FA Trung Quốc [BLV Chuối Già] (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+#EXTINF:-1 tvg-id="hygenie-b13863a9e1ab-1" tvg-name="[21/07/2026 19:00] YUNNAN YUKUN vs CHENGDU RONGCHENG FC [BLV MÃ SIÊU]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/61513_1k0qw9nssh1n.png",[21/07/2026 19:00] YUNNAN YUKUN vs CHENGDU RONGCHENG FC [BLV MÃ SIÊU] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
 https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:-1 tvg-id="hygenie-b13863a9e1ab-269-1" tvg-name="[21/07/2026 19:00] YUNNAN YUKUN vs CHENGDU RONGCHENG FC [BLV MÃ SIÊU]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/61513_1k0qw9nssh1n.png",[21/07/2026 19:00] YUNNAN YUKUN vs CHENGDU RONGCHENG FC [BLV MÃ SIÊU] [M3U8]
+#EXTINF:-1 tvg-id="hygenie-22d62ed27bac-1" tvg-name="[21/07/2026 20:00] TADAMON SOUR vs RACING BEIRUT [BLV Lữ Bố]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/3100_20121220221843.gif",[21/07/2026 20:00] TADAMON SOUR vs RACING BEIRUT [BLV Lữ Bố] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
