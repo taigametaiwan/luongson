@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "chuoichien",
-  "updated_at": "2026-07-21T20:01:51.464976+07:00",
+  "updated_at": "2026-07-21T20:31:37.779770+07:00",
   "matches": {
     "1565183": {
       "url": "https://live04.chuoichientv.me/live/1565183/corvinul-hunedoara-vs-csikszereda",
@@ -258,14 +258,13 @@
       "url": "https://live04.chuoichientv.me/live/1567359/yunnan-yukun-vs-chengdu-better-city",
       "match_name": "Yunnan Yukun vs Chengdu Better City - Cúp FA Trung Quốc",
       "kickoff_iso": "2026-07-21T19:00:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-07-21T20:01:51.464813+07:00",
-      "next_scan_at": "2026-07-21T20:06:51.464813+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-07-21T20:31:37.779680+07:00",
+      "next_scan_at": "2026-07-21T20:36:37.779680+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
-        "https://gckc0525.edgemaxcdn.org/live/chuoigia.flv",
-        "https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8"
+        "https://gckc0525.edgemaxcdn.org/live/chuoigia.flv"
       ],
       "scan_decision": "browser-fallback"
     },
@@ -273,9 +272,9 @@
       "url": "https://live04.chuoichientv.me/live/1516065/buxoro-vs-bunyodkor",
       "match_name": "buxoro vs bunyodkor",
       "kickoff_iso": "2026-07-21T22:00:00+07:00",
-      "minutes_to_kickoff": 119,
-      "last_scan_at": "2026-07-21T20:01:51.464813+07:00",
-      "next_scan_at": "2026-07-21T20:21:51.464813+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-07-21T20:31:37.779680+07:00",
+      "next_scan_at": "2026-07-21T20:51:37.779680+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -285,9 +284,9 @@
       "url": "https://live04.chuoichientv.me/live/1516071/sogdiana-vs-neftchi",
       "match_name": "sogdiana vs neftchi",
       "kickoff_iso": "2026-07-21T22:00:00+07:00",
-      "minutes_to_kickoff": 119,
-      "last_scan_at": "2026-07-21T20:01:51.464813+07:00",
-      "next_scan_at": "2026-07-21T20:21:51.464813+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-07-21T20:31:37.779680+07:00",
+      "next_scan_at": "2026-07-21T20:51:37.779680+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
