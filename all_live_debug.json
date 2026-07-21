@@ -1,6 +1,6 @@
 {
   "version": "4.3.0-HYBRID-DELTA-SINGLE-M3U",
-  "generated_at": "2026-07-21T16:33:42.736008+07:00",
+  "generated_at": "2026-07-21T17:04:49.402517+07:00",
   "policy": {
     "max_streams_per_match_blv": 2,
     "upcoming_keep_hours": 4,
@@ -12,8 +12,8 @@
       "label": "Chuối Chiên",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 7,
-      "playlist_blocks": 4,
+      "debug_rows": 9,
+      "playlist_blocks": 5,
       "included": true
     },
     {
@@ -21,28 +21,15 @@
       "label": "Lương Sơn",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 27,
+      "debug_rows": 40,
       "playlist_blocks": 8,
       "included": true
     }
   ],
-  "input_candidates": 12,
-  "selected_count": 11,
+  "input_candidates": 13,
+  "selected_count": 12,
   "dropped_count": 1,
   "channels": [
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
-      "match_key": "basilan steel vs sarangani marlins|vo tong",
-      "display_name": "[21/07/2026 15:00] BASILAN STEEL vs SARANGANI MARLINS [BLV VÕ TÒNG] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-21T15:00:00+07:00"
-    },
     {
       "source": "chuoichien",
       "source_label": "Chuối Chiên",
@@ -72,9 +59,22 @@
     {
       "source": "chuoichien",
       "source_label": "Chuối Chiên",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
+      "match_key": "dalian kewei vs beijing guoan|chuoi to",
+      "display_name": "[15:00 21/07] Dalian Kewei vs Beijing Guoan - Cúp FA Trung Quốc [BLV Chuối To] (Luồng 2) [M3U8]",
+      "group": "Bóng đá",
+      "quality": "UNKNOWN",
+      "kind": "m3u8",
+      "playability": "verified",
+      "score": 429,
+      "kickoff_iso": "2026-07-21T15:00:00+07:00"
+    },
+    {
+      "source": "chuoichien",
+      "source_label": "Chuối Chiên",
       "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv",
-      "match_key": "pvf cand vs hoang anh gia lai|chuoi tay",
-      "display_name": "[15:30 21/07] PVF-CAND vs Hoang Anh Gia Lai - U21 Quốc Gia [BLV Chuối Tây] [FHD FLV]",
+      "match_key": "pvf cand vs hoang anh gia lai|truc tiep chuoi tay tran au pvf cand v",
+      "display_name": "[15:30 21/07] PVF-CAND vs Hoang Anh Gia Lai - U21 Quốc Gia [BLV trực tiếp: Chuối Tây Trận đấu PVF-CAND v] [FHD FLV]",
       "group": "Bóng đá",
       "quality": "FHD",
       "kind": "flv",
@@ -172,6 +172,19 @@
       "playability": "verified",
       "score": 439,
       "kickoff_iso": "2026-07-21T17:00:00+07:00"
+    },
+    {
+      "source": "luongson",
+      "source_label": "Lương Sơn",
+      "url": "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
+      "match_key": "ulsan hd fc vs incheon united|lu bo",
+      "display_name": "[21/07/2026 17:30] ULSAN HD FC vs INCHEON UNITED [BLV Lữ Bố] [M3U8]",
+      "group": "Bóng đá",
+      "quality": "HD",
+      "kind": "m3u8",
+      "playability": "verified",
+      "score": 459,
+      "kickoff_iso": "2026-07-21T17:30:00+07:00"
     }
   ],
   "dropped": [
