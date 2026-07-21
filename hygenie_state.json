@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "luongson",
-  "updated_at": "2026-07-21T08:31:54.688416+07:00",
+  "updated_at": "2026-07-21T09:02:39.765157+07:00",
   "matches": {
     "f6d618696402": {
       "url": "https://catbee.io/truc-tiep/corvinul-hunedoara-vs-fk-csikszereda-miercurea-ciuc-vao-luc-2230-20-07-2026/?blv=246",
@@ -310,12 +310,12 @@
       "scan_decision": "browser-fallback"
     },
     "8410a3b6980d": {
-      "url": "https://catbee.io/truc-tiep/las-vegas-aces-w-vs-toronto-tempo-w-vao-luc-0700-21-07-2026/?blv=324",
+      "url": "https://catbee.io/truc-tiep/las-vegas-aces-w-vs-toronto-tempo-w-vao-luc-0700-21-07-2026/",
       "match_name": "LAS VEGAS ACES W vs TORONTO TEMPO W",
       "kickoff_iso": "2026-07-21T07:00:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-07-21T08:31:54.688170+07:00",
-      "next_scan_at": "2026-07-21T08:36:54.688170+07:00",
+      "minutes_to_kickoff": -122,
+      "last_scan_at": "2026-07-21T09:02:39.764983+07:00",
+      "next_scan_at": "2026-07-21T09:07:39.764983+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -324,12 +324,12 @@
       "scan_decision": "browser-fallback"
     },
     "51a3d9a9e567": {
-      "url": "https://catbee.io/truc-tiep/new-york-liberty-w-vs-dallas-wings-w-vao-luc-0700-21-07-2026/",
+      "url": "https://catbee.io/truc-tiep/new-york-liberty-w-vs-dallas-wings-w-vao-luc-0700-21-07-2026/?blv=328",
       "match_name": "NEW YORK LIBERTY W vs DALLAS WINGS W",
       "kickoff_iso": "2026-07-21T07:00:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-07-21T08:31:54.688170+07:00",
-      "next_scan_at": "2026-07-21T08:36:54.688170+07:00",
+      "minutes_to_kickoff": -122,
+      "last_scan_at": "2026-07-21T09:02:39.764983+07:00",
+      "next_scan_at": "2026-07-21T09:07:39.764983+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -341,12 +341,14 @@
       "url": "https://catbee.io/truc-tiep/minnesota-lynx-w-vs-seattle-storm-w-vao-luc-0900-21-07-2026/",
       "match_name": "MINNESOTA LYNX W vs SEATTLE STORM W",
       "kickoff_iso": "2026-07-21T09:00:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-07-21T08:31:54.688170+07:00",
-      "next_scan_at": "2026-07-21T08:41:54.688170+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -2,
+      "last_scan_at": "2026-07-21T09:02:39.764983+07:00",
+      "next_scan_at": "2026-07-21T09:07:39.764983+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582"
+      ],
       "scan_decision": "browser-fallback"
     }
   }
