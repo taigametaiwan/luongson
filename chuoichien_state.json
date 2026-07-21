@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "chuoichien",
-  "updated_at": "2026-07-21T11:31:00.164403+07:00",
+  "updated_at": "2026-07-21T12:01:17.184548+07:00",
   "matches": {
     "1565183": {
       "url": "https://live04.chuoichientv.me/live/1565183/corvinul-hunedoara-vs-csikszereda",
@@ -146,9 +146,9 @@
       "url": "https://live04.chuoichientv.me/live/1567360/dalian-kewei-vs-beijing-guoan",
       "match_name": "dalian kewei vs beijing guoan",
       "kickoff_iso": "2026-07-21T15:00:00+07:00",
-      "minutes_to_kickoff": 239,
-      "last_scan_at": "2026-07-21T11:01:06.304006+07:00",
-      "next_scan_at": "2026-07-21T11:46:06.304006+07:00",
+      "minutes_to_kickoff": 179,
+      "last_scan_at": "2026-07-21T12:01:17.184501+07:00",
+      "next_scan_at": "2026-07-21T12:46:17.184501+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
