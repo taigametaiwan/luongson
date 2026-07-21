@@ -1,6 +1,6 @@
 {
   "version": "4.3.0-HYBRID-DELTA-SINGLE-M3U",
-  "generated_at": "2026-07-21T14:01:49.276384+07:00",
+  "generated_at": "2026-07-21T14:32:08.652343+07:00",
   "policy": {
     "max_streams_per_match_blv": 2,
     "upcoming_keep_hours": 4,
@@ -12,7 +12,7 @@
       "label": "Chuối Chiên",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 3,
+      "debug_rows": 6,
       "playlist_blocks": 0,
       "included": true
     },
@@ -21,29 +21,15 @@
       "label": "Lương Sơn",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 16,
-      "playlist_blocks": 1,
+      "debug_rows": 24,
+      "playlist_blocks": 0,
       "included": true
     }
   ],
-  "input_candidates": 1,
-  "selected_count": 1,
+  "input_candidates": 0,
+  "selected_count": 0,
   "dropped_count": 0,
-  "channels": [
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c",
-      "match_key": "phap vs maroc|leo",
-      "display_name": "[21/07/2026 12:00] PHÁP vs MAROC [BLV Leo] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "browser-observed",
-      "score": 329,
-      "kickoff_iso": "2026-07-21T12:00:00+07:00"
-    }
-  ],
+  "channels": [],
   "dropped": [],
-  "outputs_written": true
+  "outputs_written": false
 }
