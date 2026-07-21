@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="hygenie-601258f7f01e-380-1" tvg-name="[22/07/2026 04:30] LIBERTAD FC vs DELFIN SC [BLV Lio]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/54824_1j3y4rkpr51j.png",[22/07/2026 04:30] LIBERTAD FC vs DELFIN SC [BLV Lio] [M3U8]
-#EXTVLCOPT:http-referrer=https://catbee.io/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
-https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
-#EXTINF:-1 tvg-id="chuoichien-1519419-1" tvg-name="[04:30 22/07] Libertad vs Delfin SC - VĐQG Ecuador [BLV trực tiếp: Chuối Tiêu Trận đấu Libertad]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132248_af37ec14.png",[04:30 22/07] Libertad vs Delfin SC - VĐQG Ecuador [BLV trực tiếp: Chuối Tiêu Trận đấu Libertad] [FHD FLV]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv
 #EXTINF:-1 tvg-id="hygenie-48bcaeaaf9ac-135-1" tvg-name="[22/07/2026 05:00] NACIONAL MONTEVIDEO vs CLUB ATLETICO TIGRE [BLV LƯU BỊ]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/2353_1gzsy54rhb1g.png",[22/07/2026 05:00] NACIONAL MONTEVIDEO vs CLUB ATLETICO TIGRE [BLV LƯU BỊ] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -35,21 +23,27 @@ https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
 https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 tvg-id="hygenie-339d12866c28-1" tvg-name="[22/07/2026 05:30] GREMIO NOVORIZONTINO vs CRICIUMA [BLV YẾN THANH]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/20053_1hvszap3cv1h.png",[22/07/2026 05:30] GREMIO NOVORIZONTINO vs CRICIUMA [BLV YẾN THANH] [M3U8]
+#EXTINF:-1 tvg-id="hygenie-339d12866c28-320-1" tvg-name="[22/07/2026 05:30] GREMIO NOVORIZONTINO vs CRICIUMA [BLV YẾN THANH]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/20053_1hvszap3cv1h.png",[22/07/2026 05:30] GREMIO NOVORIZONTINO vs CRICIUMA [BLV YẾN THANH] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 tvg-id="hygenie-0fb2ba49c270-1" tvg-name="[22/07/2026 06:00] DEPORTES TOLIMA vs DEPORTES QUINDIO [BLV Pele]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/2219_1gv1yk239rz.png",[22/07/2026 06:00] DEPORTES TOLIMA vs DEPORTES QUINDIO [BLV Pele] [M3U8]
+#EXTINF:-1 tvg-id="hygenie-0fb2ba49c270-253-1" tvg-name="[22/07/2026 06:00] DEPORTES TOLIMA vs DEPORTES QUINDIO [BLV Pele]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/2219_1gv1yk239rz.png",[22/07/2026 06:00] DEPORTES TOLIMA vs DEPORTES QUINDIO [BLV Pele] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
 https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 tvg-id="hygenie-a79e0a6b6208-269-1" tvg-name="[22/07/2026 06:00] INDEPENDIENTE PETROLERO vs REAL POTOSI [BLV MÃ SIÊU]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/37027_1grj9asv2t23.png",[22/07/2026 06:00] INDEPENDIENTE PETROLERO vs REAL POTOSI [BLV MÃ SIÊU] [M3U8]
+#EXTINF:-1 tvg-id="hygenie-a79e0a6b6208-1" tvg-name="[22/07/2026 06:00] INDEPENDIENTE PETROLERO vs REAL POTOSI [BLV MÃ SIÊU]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/37027_1grj9asv2t23.png",[22/07/2026 06:00] INDEPENDIENTE PETROLERO vs REAL POTOSI [BLV MÃ SIÊU] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
 https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-id="hygenie-6b950ae5415e-1" tvg-name="[22/07/2026 07:00] UNIVERSIDAD CATOLICA vs BARCELONA SC(ECU) [BLV TÂY MÔN KHÁNH]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/6603_1gtqmg0aee1c.png",[22/07/2026 07:00] UNIVERSIDAD CATOLICA vs BARCELONA SC(ECU) [BLV TÂY MÔN KHÁNH] [M3U8]
+#EXTVLCOPT:http-referrer=https://catbee.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da

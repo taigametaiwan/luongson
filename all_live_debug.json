@@ -1,6 +1,6 @@
 {
   "version": "4.3.0-HYBRID-DELTA-SINGLE-M3U",
-  "generated_at": "2026-07-22T06:03:34.007222+07:00",
+  "generated_at": "2026-07-22T06:33:10.654460+07:00",
   "policy": {
     "max_streams_per_match_blv": 2,
     "upcoming_keep_hours": 4,
@@ -13,7 +13,7 @@
       "returncode": 0,
       "fresh": true,
       "debug_rows": 4,
-      "playlist_blocks": 3,
+      "playlist_blocks": 2,
       "included": true
     },
     {
@@ -21,41 +21,15 @@
       "label": "Lương Sơn",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 24,
+      "debug_rows": 19,
       "playlist_blocks": 6,
       "included": true
     }
   ],
-  "input_candidates": 9,
-  "selected_count": 9,
+  "input_candidates": 8,
+  "selected_count": 8,
   "dropped_count": 0,
   "channels": [
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a",
-      "match_key": "libertad fc vs delfin sc|lio",
-      "display_name": "[22/07/2026 04:30] LIBERTAD FC vs DELFIN SC [BLV Lio] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-22T04:30:00+07:00"
-    },
-    {
-      "source": "chuoichien",
-      "source_label": "Chuối Chiên",
-      "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv",
-      "match_key": "libertad vs delfin sc|truc tiep chuoi tieu tran au libertad",
-      "display_name": "[04:30 22/07] Libertad vs Delfin SC - VĐQG Ecuador [BLV trực tiếp: Chuối Tiêu Trận đấu Libertad] [FHD FLV]",
-      "group": "Bóng đá",
-      "quality": "FHD",
-      "kind": "flv",
-      "playability": "verified",
-      "score": 456,
-      "kickoff_iso": "2026-07-22T04:30:00+07:00"
-    },
     {
       "source": "luongson",
       "source_label": "Lương Sơn",
@@ -65,8 +39,8 @@
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
+      "playability": "browser-observed",
+      "score": 329,
       "kickoff_iso": "2026-07-22T05:00:00+07:00"
     },
     {
@@ -104,8 +78,8 @@
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
+      "playability": "browser-observed",
+      "score": 329,
       "kickoff_iso": "2026-07-22T05:30:00+07:00"
     },
     {
@@ -117,8 +91,8 @@
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
+      "playability": "browser-observed",
+      "score": 329,
       "kickoff_iso": "2026-07-22T05:30:00+07:00"
     },
     {
@@ -130,8 +104,8 @@
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
+      "playability": "browser-observed",
+      "score": 329,
       "kickoff_iso": "2026-07-22T06:00:00+07:00"
     },
     {
@@ -143,9 +117,22 @@
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
+      "playability": "browser-observed",
+      "score": 329,
       "kickoff_iso": "2026-07-22T06:00:00+07:00"
+    },
+    {
+      "source": "luongson",
+      "source_label": "Lương Sơn",
+      "url": "https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da",
+      "match_key": "universidad catolica vs barcelona sc ecu|tay mon khanh",
+      "display_name": "[22/07/2026 07:00] UNIVERSIDAD CATOLICA vs BARCELONA SC(ECU) [BLV TÂY MÔN KHÁNH] [M3U8]",
+      "group": "Bóng đá",
+      "quality": "UNKNOWN",
+      "kind": "m3u8",
+      "playability": "browser-observed",
+      "score": 329,
+      "kickoff_iso": "2026-07-22T07:00:00+07:00"
     }
   ],
   "dropped": [],
