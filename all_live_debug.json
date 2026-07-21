@@ -1,6 +1,6 @@
 {
   "version": "4.3.0-HYBRID-DELTA-SINGLE-M3U",
-  "generated_at": "2026-07-22T04:32:20.813579+07:00",
+  "generated_at": "2026-07-22T05:02:48.143599+07:00",
   "policy": {
     "max_streams_per_match_blv": 2,
     "upcoming_keep_hours": 4,
@@ -13,7 +13,7 @@
       "returncode": 0,
       "fresh": true,
       "debug_rows": 4,
-      "playlist_blocks": 1,
+      "playlist_blocks": 3,
       "included": true
     },
     {
@@ -21,13 +21,13 @@
       "label": "Lương Sơn",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 17,
-      "playlist_blocks": 2,
+      "debug_rows": 20,
+      "playlist_blocks": 4,
       "included": true
     }
   ],
-  "input_candidates": 3,
-  "selected_count": 3,
+  "input_candidates": 7,
+  "selected_count": 7,
   "dropped_count": 0,
   "channels": [
     {
@@ -60,14 +60,66 @@
       "source": "chuoichien",
       "source_label": "Chuối Chiên",
       "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv",
-      "match_key": "libertad vs delfin sc|truc tiep chuoi tieu tran au libertad",
-      "display_name": "[04:30 22/07] Libertad vs Delfin SC - VĐQG Ecuador [BLV trực tiếp: Chuối Tiêu Trận đấu Libertad] [FHD FLV]",
+      "match_key": "libertad vs delfin sc|chuoi tieu",
+      "display_name": "[04:30 22/07] Libertad vs Delfin SC - VĐQG Ecuador [BLV Chuối Tiêu] [FHD FLV]",
       "group": "Bóng đá",
       "quality": "FHD",
       "kind": "flv",
       "playability": "verified",
       "score": 456,
       "kickoff_iso": "2026-07-22T04:30:00+07:00"
+    },
+    {
+      "source": "chuoichien",
+      "source_label": "Chuối Chiên",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8",
+      "match_key": "libertad vs delfin sc|chuoi tieu",
+      "display_name": "[04:30 22/07] Libertad vs Delfin SC - VĐQG Ecuador [BLV Chuối Tiêu] (Luồng 2) [M3U8]",
+      "group": "Bóng đá",
+      "quality": "UNKNOWN",
+      "kind": "m3u8",
+      "playability": "verified",
+      "score": 429,
+      "kickoff_iso": "2026-07-22T04:30:00+07:00"
+    },
+    {
+      "source": "luongson",
+      "source_label": "Lương Sơn",
+      "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
+      "match_key": "nacional montevideo vs club atletico tigre|luu bi",
+      "display_name": "[22/07/2026 05:00] NACIONAL MONTEVIDEO vs CLUB ATLETICO TIGRE [BLV LƯU BỊ] [M3U8]",
+      "group": "Bóng đá",
+      "quality": "UNKNOWN",
+      "kind": "m3u8",
+      "playability": "verified",
+      "score": 439,
+      "kickoff_iso": "2026-07-22T05:00:00+07:00"
+    },
+    {
+      "source": "chuoichien",
+      "source_label": "Chuối Chiên",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoito.flv",
+      "match_key": "nacional vs tigre|",
+      "display_name": "[05:00 22/07] Nacional vs Tigre - CONMEBOL Sudamericana [FHD FLV]",
+      "group": "Bóng đá",
+      "quality": "FHD",
+      "kind": "flv",
+      "playability": "verified",
+      "score": 456,
+      "kickoff_iso": "2026-07-22T05:00:00+07:00"
+    },
+    {
+      "source": "luongson",
+      "source_label": "Lương Sơn",
+      "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
+      "match_key": "atletico mineiro vs bahia|vo tong",
+      "display_name": "[22/07/2026 05:30] ATLETICO MINEIRO vs BAHIA [BLV VÕ TÒNG] [M3U8]",
+      "group": "Bóng đá",
+      "quality": "UNKNOWN",
+      "kind": "m3u8",
+      "playability": "verified",
+      "score": 429,
+      "kickoff_iso": "2026-07-22T05:30:00+07:00"
     }
   ],
   "dropped": [],

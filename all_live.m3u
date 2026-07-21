@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="hygenie-72dfc60185a5-315-1" tvg-name="[22/07/2026 04:00] ATLETICO NACIONAL MEDELLIN vs TIGRES ZIPAQUIRA [BLV VƯƠNG LUÂN]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/2227_1gxmbqm710v.png",[22/07/2026 04:00] ATLETICO NACIONAL MEDELLIN vs TIGRES ZIPAQUIRA [BLV VƯƠNG LUÂN] [M3U8]
+#EXTINF:-1 tvg-id="hygenie-72dfc60185a5-1" tvg-name="[22/07/2026 04:00] ATLETICO NACIONAL MEDELLIN vs TIGRES ZIPAQUIRA [BLV VƯƠNG LUÂN]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/2227_1gxmbqm710v.png",[22/07/2026 04:00] ATLETICO NACIONAL MEDELLIN vs TIGRES ZIPAQUIRA [BLV VƯƠNG LUÂN] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
@@ -11,9 +11,33 @@ https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
 https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
-#EXTINF:-1 tvg-id="chuoichien-1519419-1" tvg-name="[04:30 22/07] Libertad vs Delfin SC - VĐQG Ecuador [BLV trực tiếp: Chuối Tiêu Trận đấu Libertad]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132248_af37ec14.png",[04:30 22/07] Libertad vs Delfin SC - VĐQG Ecuador [BLV trực tiếp: Chuối Tiêu Trận đấu Libertad] [FHD FLV]
+#EXTINF:-1 tvg-id="chuoichien-1519419-1" tvg-name="[04:30 22/07] Libertad vs Delfin SC - VĐQG Ecuador [BLV Chuối Tiêu]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132254_7e6c4cd8.png",[04:30 22/07] Libertad vs Delfin SC - VĐQG Ecuador [BLV Chuối Tiêu] [FHD FLV]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
 https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv
+#EXTINF:-1 tvg-id="chuoichien-1519419-2" tvg-name="[04:30 22/07] Libertad vs Delfin SC - VĐQG Ecuador [BLV Chuối Tiêu]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132254_7e6c4cd8.png",[04:30 22/07] Libertad vs Delfin SC - VĐQG Ecuador [BLV Chuối Tiêu] (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
+#EXTINF:-1 tvg-id="hygenie-48bcaeaaf9ac-1" tvg-name="[22/07/2026 05:00] NACIONAL MONTEVIDEO vs CLUB ATLETICO TIGRE [BLV LƯU BỊ]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/2353_1gzsy54rhb1g.png",[22/07/2026 05:00] NACIONAL MONTEVIDEO vs CLUB ATLETICO TIGRE [BLV LƯU BỊ] [M3U8]
+#EXTVLCOPT:http-referrer=https://catbee.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-id="chuoichien-1547777-1" tvg-name="[05:00 22/07] Nacional vs Tigre - CONMEBOL Sudamericana" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20260520_214203_e8a2802b.png",[05:00 22/07] Nacional vs Tigre - CONMEBOL Sudamericana [FHD FLV]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+#EXTINF:-1 tvg-id="hygenie-6d8f68bda1e3-328-1" tvg-name="[22/07/2026 05:30] ATLETICO MINEIRO vs BAHIA [BLV VÕ TÒNG]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/309_1j9d3cawpn18.png",[22/07/2026 05:30] ATLETICO MINEIRO vs BAHIA [BLV VÕ TÒNG] [M3U8]
+#EXTVLCOPT:http-referrer=https://catbee.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "chuoichien",
-  "updated_at": "2026-07-22T04:31:46.643695+07:00",
+  "updated_at": "2026-07-22T05:01:47.847631+07:00",
   "matches": {
     "1565183": {
       "url": "https://live04.chuoichientv.me/live/1565183/corvinul-hunedoara-vs-csikszereda",
@@ -367,26 +367,29 @@
       "url": "https://live04.chuoichientv.me/live/1519419/libertad-vs-delfin-sc",
       "match_name": "Libertad vs Delfin SC - VĐQG Ecuador",
       "kickoff_iso": "2026-07-22T04:30:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-07-22T04:31:46.643615+07:00",
-      "next_scan_at": "2026-07-22T04:36:46.643615+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-07-22T05:01:47.847529+07:00",
+      "next_scan_at": "2026-07-22T05:06:47.847529+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
-        "https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv"
+        "https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv",
+        "https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8"
       ],
       "scan_decision": "browser-fallback"
     },
     "1547777": {
       "url": "https://live04.chuoichientv.me/live/1547777/nacional-vs-tigre",
-      "match_name": "nacional vs tigre",
+      "match_name": "Nacional vs Tigre - CONMEBOL Sudamericana",
       "kickoff_iso": "2026-07-22T05:00:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-07-22T04:31:46.643615+07:00",
-      "next_scan_at": "2026-07-22T04:41:46.643615+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-07-22T05:01:47.847529+07:00",
+      "next_scan_at": "2026-07-22T05:06:47.847529+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://gckc0525.edgemaxcdn.org/live/chuoito.flv"
+      ],
       "scan_decision": "browser-fallback"
     },
     "1556502": {
@@ -417,15 +420,15 @@
     },
     "1492290": {
       "url": "https://live04.chuoichientv.me/live/1492290/atletico-mg-vs-bahia",
-      "match_name": "atletico mg vs bahia",
+      "match_name": "Atletico-MG vs Bahia - VĐQG Brazil",
       "kickoff_iso": "2026-07-22T05:30:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-07-22T04:31:46.643615+07:00",
-      "next_scan_at": "2026-07-22T04:51:46.643615+07:00",
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-07-22T05:01:47.847529+07:00",
+      "next_scan_at": "2026-07-22T05:11:47.847529+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "1547780": {
       "url": "https://live04.chuoichientv.me/live/1547780/ucv-vs-santos",
@@ -443,9 +446,9 @@
       "url": "https://live04.chuoichientv.me/live/1550903/cruz-azul-vs-puebla",
       "match_name": "cruz azul vs puebla",
       "kickoff_iso": "2026-07-22T08:00:00+07:00",
-      "minutes_to_kickoff": 239,
-      "last_scan_at": "2026-07-22T04:01:31.373806+07:00",
-      "next_scan_at": "2026-07-22T04:46:31.373806+07:00",
+      "minutes_to_kickoff": 179,
+      "last_scan_at": "2026-07-22T05:01:47.847529+07:00",
+      "next_scan_at": "2026-07-22T05:46:47.847529+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
