@@ -1,6 +1,6 @@
 {
   "version": "4.3.0-HYBRID-DELTA-SINGLE-M3U",
-  "generated_at": "2026-07-22T05:33:24.177975+07:00",
+  "generated_at": "2026-07-22T06:03:34.007222+07:00",
   "policy": {
     "max_streams_per_match_blv": 2,
     "upcoming_keep_hours": 4,
@@ -12,7 +12,7 @@
       "label": "Chuối Chiên",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 3,
+      "debug_rows": 4,
       "playlist_blocks": 3,
       "included": true
     },
@@ -21,7 +21,7 @@
       "label": "Lương Sơn",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 19,
+      "debug_rows": 24,
       "playlist_blocks": 6,
       "included": true
     }
@@ -30,19 +30,6 @@
   "selected_count": 9,
   "dropped_count": 0,
   "channels": [
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645",
-      "match_key": "atletico nacional medellin vs tigres zipaquira|vuong luan",
-      "display_name": "[22/07/2026 04:00] ATLETICO NACIONAL MEDELLIN vs TIGRES ZIPAQUIRA [BLV VƯƠNG LUÂN] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-22T04:00:00+07:00"
-    },
     {
       "source": "luongson",
       "source_label": "Lương Sơn",
@@ -60,8 +47,8 @@
       "source": "chuoichien",
       "source_label": "Chuối Chiên",
       "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv",
-      "match_key": "libertad vs delfin sc|chuoi tieu",
-      "display_name": "[04:30 22/07] Libertad vs Delfin SC - VĐQG Ecuador [BLV Chuối Tiêu] [FHD FLV]",
+      "match_key": "libertad vs delfin sc|truc tiep chuoi tieu tran au libertad",
+      "display_name": "[04:30 22/07] Libertad vs Delfin SC - VĐQG Ecuador [BLV trực tiếp: Chuối Tiêu Trận đấu Libertad] [FHD FLV]",
       "group": "Bóng đá",
       "quality": "FHD",
       "kind": "flv",
@@ -137,14 +124,27 @@
     {
       "source": "luongson",
       "source_label": "Lương Sơn",
-      "url": "https://auto.cdnfaster.live/live/sd-6MwdakGewnxVdxKvRa/playlist.m3u8",
-      "match_key": "independiente petrolero vs real potosi|ma sieu",
-      "display_name": "[22/07/2026 06:00] INDEPENDIENTE PETROLERO vs REAL POTOSI [BLV MÃ SIÊU] [AUTO M3U8]",
+      "url": "https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526",
+      "match_key": "deportes tolima vs deportes quindio|pele",
+      "display_name": "[22/07/2026 06:00] DEPORTES TOLIMA vs DEPORTES QUINDIO [BLV Pele] [M3U8]",
       "group": "Bóng đá",
-      "quality": "SD",
+      "quality": "UNKNOWN",
       "kind": "m3u8",
-      "playability": "browser-observed",
-      "score": 339,
+      "playability": "verified",
+      "score": 439,
+      "kickoff_iso": "2026-07-22T06:00:00+07:00"
+    },
+    {
+      "source": "luongson",
+      "source_label": "Lương Sơn",
+      "url": "https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b",
+      "match_key": "independiente petrolero vs real potosi|ma sieu",
+      "display_name": "[22/07/2026 06:00] INDEPENDIENTE PETROLERO vs REAL POTOSI [BLV MÃ SIÊU] [M3U8]",
+      "group": "Bóng đá",
+      "quality": "UNKNOWN",
+      "kind": "m3u8",
+      "playability": "verified",
+      "score": 439,
       "kickoff_iso": "2026-07-22T06:00:00+07:00"
     }
   ],
