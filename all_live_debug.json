@@ -1,6 +1,6 @@
 {
   "version": "4.3.0-HYBRID-DELTA-SINGLE-M3U",
-  "generated_at": "2026-07-21T21:32:22.871273+07:00",
+  "generated_at": "2026-07-21T22:02:39.159328+07:00",
   "policy": {
     "max_streams_per_match_blv": 2,
     "upcoming_keep_hours": 4,
@@ -13,7 +13,7 @@
       "returncode": 0,
       "fresh": true,
       "debug_rows": 4,
-      "playlist_blocks": 0,
+      "playlist_blocks": 2,
       "included": true
     },
     {
@@ -21,27 +21,53 @@
       "label": "Lương Sơn",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 25,
-      "playlist_blocks": 2,
+      "debug_rows": 31,
+      "playlist_blocks": 3,
       "included": true
     }
   ],
-  "input_candidates": 2,
-  "selected_count": 2,
+  "input_candidates": 5,
+  "selected_count": 5,
   "dropped_count": 0,
   "channels": [
     {
       "source": "luongson",
       "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
-      "match_key": "tadamon sour vs racing beirut|lu bo",
-      "display_name": "[21/07/2026 20:00] TADAMON SOUR vs RACING BEIRUT [BLV Lữ Bố] [M3U8]",
+      "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb",
+      "match_key": "buxoro fk vs kuruvchi bunyodkor|fernando",
+      "display_name": "[21/07/2026 22:00] BUXORO FK vs KURUVCHI BUNYODKOR [BLV Fernando] [M3U8]",
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
+      "playability": "browser-observed",
+      "score": 329,
+      "kickoff_iso": "2026-07-21T22:00:00+07:00"
+    },
+    {
+      "source": "chuoichien",
+      "source_label": "Chuối Chiên",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv",
+      "match_key": "buxoro vs bunyodkor|chuoi tieu",
+      "display_name": "[22:00 21/07] Buxoro vs Bunyodkor - VĐQG Uzbekistan [BLV Chuối Tiêu] [FHD FLV]",
+      "group": "Bóng đá",
+      "quality": "FHD",
+      "kind": "flv",
       "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-21T20:00:00+07:00"
+      "score": 456,
+      "kickoff_iso": "2026-07-21T22:00:00+07:00"
+    },
+    {
+      "source": "luongson",
+      "source_label": "Lương Sơn",
+      "url": "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582",
+      "match_key": "pakhtakor vs xorazm urganch|yen thanh",
+      "display_name": "[21/07/2026 22:00] PAKHTAKOR vs XORAZM URGANCH [BLV YẾN THANH] [M3U8]",
+      "group": "Bóng đá",
+      "quality": "UNKNOWN",
+      "kind": "m3u8",
+      "playability": "browser-observed",
+      "score": 329,
+      "kickoff_iso": "2026-07-21T22:00:00+07:00"
     },
     {
       "source": "luongson",
@@ -52,8 +78,21 @@
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
+      "playability": "browser-observed",
+      "score": 329,
+      "kickoff_iso": "2026-07-21T22:00:00+07:00"
+    },
+    {
+      "source": "chuoichien",
+      "source_label": "Chuối Chiên",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv",
+      "match_key": "sogdiana vs neftchi|chuoi bo",
+      "display_name": "[22:00 21/07] Sogdiana vs Neftchi - VĐQG Uzbekistan [BLV Chuối Bơ] [FHD FLV]",
+      "group": "Bóng đá",
+      "quality": "FHD",
+      "kind": "flv",
       "playability": "verified",
-      "score": 439,
+      "score": 456,
       "kickoff_iso": "2026-07-21T22:00:00+07:00"
     }
   ],
