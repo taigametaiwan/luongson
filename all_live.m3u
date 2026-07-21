@@ -11,13 +11,13 @@ https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
 https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:-1 tvg-id="hygenie-bacc64b5bfd4-359-1" tvg-name="[22/07/2026 01:00] THUN vs DINAMO ZAGREB [BLV Leo]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/394_1gtqm5nk922e.png",[22/07/2026 01:00] THUN vs DINAMO ZAGREB [BLV Leo] [M3U8]
+#EXTINF:-1 tvg-id="hygenie-bacc64b5bfd4-1" tvg-name="[22/07/2026 01:00] THUN vs DINAMO ZAGREB [BLV Leo]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/394_1gtqm5nk922e.png",[22/07/2026 01:00] THUN vs DINAMO ZAGREB [BLV Leo] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
 https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:-1 tvg-id="hygenie-b530555cd7e6-1" tvg-name="[22/07/2026 01:15] ATERT BISSEN vs GYORI ETO [BLV LÝ ỨNG]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/19909_1gy18ermay2c.png",[22/07/2026 01:15] ATERT BISSEN vs GYORI ETO [BLV LÝ ỨNG] [M3U8]
+#EXTINF:-1 tvg-id="hygenie-b530555cd7e6-292-1" tvg-name="[22/07/2026 01:15] ATERT BISSEN vs GYORI ETO [BLV LÝ ỨNG]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/19909_1gy18ermay2c.png",[22/07/2026 01:15] ATERT BISSEN vs GYORI ETO [BLV LÝ ỨNG] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
@@ -47,7 +47,7 @@ https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa28344
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="hygenie-dcaba9ce140d-300-1" tvg-name="[22/07/2026 01:30] WALSALL vs ASTON VILLA [BLV TÔN LẬP]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/305_164940959625.png",[22/07/2026 01:30] WALSALL vs ASTON VILLA [BLV TÔN LẬP] [M3U8]
+#EXTINF:-1 tvg-id="hygenie-dcaba9ce140d-1" tvg-name="[22/07/2026 01:30] WALSALL vs ASTON VILLA [BLV TÔN LẬP]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/305_164940959625.png",[22/07/2026 01:30] WALSALL vs ASTON VILLA [BLV TÔN LẬP] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
