@@ -1,7 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="hygenie-3e746cfc1d8c-1" tvg-name="[21/07/2026 12:00] PHÁP vs MAROC [BLV Leo]" group-title="Bóng đá" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1784613277.png",[21/07/2026 12:00] PHÁP vs MAROC [BLV Leo] [M3U8]
+#EXTINF:-1 tvg-id="hygenie-dbdf8cfe3f68-1" tvg-name="[21/07/2026 15:00] BASILAN STEEL vs SARANGANI MARLINS [BLV VÕ TÒNG]" group-title="Bóng đá" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1784568831.webp",[21/07/2026 15:00] BASILAN STEEL vs SARANGANI MARLINS [BLV VÕ TÒNG] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
-https://hls.cdnfaster-a.live/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-id="chuoichien-1567360-1" tvg-name="[15:00 21/07] Dalian Kewei vs Beijing Guoan - Cúp FA Trung Quốc [BLV Chuối To]" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/football/teams/27620.png",[15:00 21/07] Dalian Kewei vs Beijing Guoan - Cúp FA Trung Quốc [BLV Chuối To] [FHD FLV]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+#EXTINF:-1 tvg-id="hygenie-1a1f3e703e8f-359-1" tvg-name="[21/07/2026 15:00] DALIAN KEWEI vs BEIJING GUOAN [BLV Leo]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/69497_1jx3zzzqx6x.png",[21/07/2026 15:00] DALIAN KEWEI vs BEIJING GUOAN [BLV Leo] [M3U8]
+#EXTVLCOPT:http-referrer=https://catbee.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-id="hygenie-1a1f3e703e8f-135-1" tvg-name="[21/07/2026 15:00] DALIAN KEWEI vs BEIJING GUOAN [BLV LƯU BỊ]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/69497_1jx3zzzqx6x.png",[21/07/2026 15:00] DALIAN KEWEI vs BEIJING GUOAN [BLV LƯU BỊ] [M3U8]
+#EXTVLCOPT:http-referrer=https://catbee.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-id="chuoichien-1567360-2" tvg-name="[15:00 21/07] Dalian Kewei vs Beijing Guoan - Cúp FA Trung Quốc [BLV Chuối To]" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/football/teams/27620.png",[15:00 21/07] Dalian Kewei vs Beijing Guoan - Cúp FA Trung Quốc [BLV Chuối To] (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
