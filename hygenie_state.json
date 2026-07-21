@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "luongson",
-  "updated_at": "2026-07-21T10:01:42.293189+07:00",
+  "updated_at": "2026-07-21T10:31:54.053315+07:00",
   "matches": {
     "f6d618696402": {
       "url": "https://catbee.io/truc-tiep/corvinul-hunedoara-vs-fk-csikszereda-miercurea-ciuc-vao-luc-2230-20-07-2026/?blv=246",
@@ -338,12 +338,12 @@
       "scan_decision": "browser-fallback"
     },
     "0bc9f6600ff3": {
-      "url": "https://catbee.io/truc-tiep/minnesota-lynx-w-vs-seattle-storm-w-vao-luc-0900-21-07-2026/?blv=320",
+      "url": "https://catbee.io/truc-tiep/minnesota-lynx-w-vs-seattle-storm-w-vao-luc-0900-21-07-2026/",
       "match_name": "MINNESOTA LYNX W vs SEATTLE STORM W",
       "kickoff_iso": "2026-07-21T09:00:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-07-21T10:01:42.293080+07:00",
-      "next_scan_at": "2026-07-21T10:06:42.293080+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-07-21T10:31:54.053187+07:00",
+      "next_scan_at": "2026-07-21T10:36:54.053187+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
