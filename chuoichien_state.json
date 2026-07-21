@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "chuoichien",
-  "updated_at": "2026-07-21T22:01:40.365795+07:00",
+  "updated_at": "2026-07-21T22:31:35.398834+07:00",
   "matches": {
     "1565183": {
       "url": "https://live04.chuoichientv.me/live/1565183/corvinul-hunedoara-vs-csikszereda",
@@ -272,13 +272,14 @@
       "url": "https://live04.chuoichientv.me/live/1516065/buxoro-vs-bunyodkor",
       "match_name": "Buxoro vs Bunyodkor - VĐQG Uzbekistan",
       "kickoff_iso": "2026-07-21T22:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-07-21T22:01:40.365679+07:00",
-      "next_scan_at": "2026-07-21T22:06:40.365679+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-07-21T22:31:35.398713+07:00",
+      "next_scan_at": "2026-07-21T22:36:35.398713+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
-        "https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv"
+        "https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv",
+        "https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8"
       ],
       "scan_decision": "browser-fallback"
     },
@@ -286,9 +287,9 @@
       "url": "https://live04.chuoichientv.me/live/1516071/sogdiana-vs-neftchi",
       "match_name": "Sogdiana vs Neftchi - VĐQG Uzbekistan",
       "kickoff_iso": "2026-07-21T22:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-07-21T22:01:40.365679+07:00",
-      "next_scan_at": "2026-07-21T22:06:40.365679+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-07-21T22:31:35.398713+07:00",
+      "next_scan_at": "2026-07-21T22:36:35.398713+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -298,27 +299,27 @@
     },
     "1589415": {
       "url": "https://live04.chuoichientv.me/live/1589415/ararat-armenia-vs-shamrock-rovers",
-      "match_name": "ararat armenia vs shamrock rovers",
+      "match_name": "Ararat-Armenia vs Shamrock Rovers - UEFA Champions League",
       "kickoff_iso": "2026-07-21T23:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-07-21T22:01:40.365679+07:00",
-      "next_scan_at": "2026-07-21T22:21:40.365679+07:00",
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-07-21T22:31:35.398713+07:00",
+      "next_scan_at": "2026-07-21T22:41:35.398713+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "1589416": {
       "url": "https://live04.chuoichientv.me/live/1589416/saburtalo-vs-slovan-bratislava",
-      "match_name": "saburtalo vs slovan bratislava",
+      "match_name": "Saburtalo vs Slovan Bratislava - UEFA Champions League",
       "kickoff_iso": "2026-07-21T23:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-07-21T22:01:40.365679+07:00",
-      "next_scan_at": "2026-07-21T22:21:40.365679+07:00",
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-07-21T22:31:35.398713+07:00",
+      "next_scan_at": "2026-07-21T22:41:35.398713+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     }
   }
 }
