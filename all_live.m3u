@@ -11,25 +11,7 @@ https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
 https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 tvg-id="chuoichien-1538394-1" tvg-name="[06:00 21/07] Nacional Potosí vs Real Oruro - VĐQG Bolivia [BLV Chuối To]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134812_7d8c3058.png",[06:00 21/07] Nacional Potosí vs Real Oruro - VĐQG Bolivia [BLV Chuối To] [FHD FLV]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoito.flv
-#EXTINF:-1 tvg-id="hygenie-0a85b3815ab2-1" tvg-name="[21/07/2026 06:00] NACIONAL POTOSI vs REAL ORURO [BLV MÃ SIÊU]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/8624_1h4zefjmd5f.png",[21/07/2026 06:00] NACIONAL POTOSI vs REAL ORURO [BLV MÃ SIÊU] [M3U8]
-#EXTVLCOPT:http-referrer=https://catbee.io/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 tvg-id="chuoichien-1538394-2" tvg-name="[06:00 21/07] Nacional Potosí vs Real Oruro - VĐQG Bolivia [BLV Chuối To]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134812_7d8c3058.png",[06:00 21/07] Nacional Potosí vs Real Oruro - VĐQG Bolivia [BLV Chuối To] (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:-1 tvg-id="hygenie-8410a3b6980d-324-1" tvg-name="[21/07/2026 07:00] LAS VEGAS ACES W vs TORONTO TEMPO W [BLV LÝ QUỲ]" group-title="Bóng đá" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1784568776.png",[21/07/2026 07:00] LAS VEGAS ACES W vs TORONTO TEMPO W [BLV LÝ QUỲ] [M3U8]
+#EXTINF:-1 tvg-id="hygenie-8410a3b6980d-1" tvg-name="[21/07/2026 07:00] LAS VEGAS ACES W vs TORONTO TEMPO W [BLV LÝ QUỲ]" group-title="Bóng đá" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1784568776.png",[21/07/2026 07:00] LAS VEGAS ACES W vs TORONTO TEMPO W [BLV LÝ QUỲ] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true

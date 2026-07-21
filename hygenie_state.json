@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "luongson",
-  "updated_at": "2026-07-21T07:32:50.720688+07:00",
+  "updated_at": "2026-07-21T08:02:47.748998+07:00",
   "matches": {
     "f6d618696402": {
       "url": "https://catbee.io/truc-tiep/corvinul-hunedoara-vs-fk-csikszereda-miercurea-ciuc-vao-luc-2230-20-07-2026/?blv=246",
@@ -285,9 +285,9 @@
       "url": "https://catbee.io/truc-tiep/ferroviaria-sp-w-vs-sc-corinthians-paulista-w-vao-luc-0600-21-07-2026/?blv=253",
       "match_name": "FERROVIARIA SP (W) vs SC CORINTHIANS PAULISTA (W)",
       "kickoff_iso": "2026-07-21T06:00:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-07-21T07:32:50.720205+07:00",
-      "next_scan_at": "2026-07-21T07:37:50.720205+07:00",
+      "minutes_to_kickoff": -121,
+      "last_scan_at": "2026-07-21T08:02:47.748751+07:00",
+      "next_scan_at": "2026-07-21T08:07:47.748751+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -310,12 +310,12 @@
       "scan_decision": "browser-fallback"
     },
     "8410a3b6980d": {
-      "url": "https://catbee.io/truc-tiep/las-vegas-aces-w-vs-toronto-tempo-w-vao-luc-0700-21-07-2026/",
+      "url": "https://catbee.io/truc-tiep/las-vegas-aces-w-vs-toronto-tempo-w-vao-luc-0700-21-07-2026/?blv=324",
       "match_name": "LAS VEGAS ACES W vs TORONTO TEMPO W",
       "kickoff_iso": "2026-07-21T07:00:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-07-21T07:32:50.720205+07:00",
-      "next_scan_at": "2026-07-21T07:37:50.720205+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-07-21T08:02:47.748751+07:00",
+      "next_scan_at": "2026-07-21T08:07:47.748751+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -327,9 +327,9 @@
       "url": "https://catbee.io/truc-tiep/new-york-liberty-w-vs-dallas-wings-w-vao-luc-0700-21-07-2026/",
       "match_name": "NEW YORK LIBERTY W vs DALLAS WINGS W",
       "kickoff_iso": "2026-07-21T07:00:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-07-21T07:32:50.720205+07:00",
-      "next_scan_at": "2026-07-21T07:37:50.720205+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-07-21T08:02:47.748751+07:00",
+      "next_scan_at": "2026-07-21T08:07:47.748751+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -341,9 +341,9 @@
       "url": "https://catbee.io/truc-tiep/minnesota-lynx-w-vs-seattle-storm-w-vao-luc-0900-21-07-2026/",
       "match_name": "minnesota lynx w vs seattle storm w",
       "kickoff_iso": "2026-07-21T09:00:00+07:00",
-      "minutes_to_kickoff": 89,
-      "last_scan_at": "2026-07-21T07:32:50.720205+07:00",
-      "next_scan_at": "2026-07-21T07:52:50.720205+07:00",
+      "minutes_to_kickoff": 59,
+      "last_scan_at": "2026-07-21T08:02:47.748751+07:00",
+      "next_scan_at": "2026-07-21T08:22:47.748751+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
