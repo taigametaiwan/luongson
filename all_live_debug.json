@@ -1,6 +1,6 @@
 {
   "version": "4.3.0-HYBRID-DELTA-SINGLE-M3U",
-  "generated_at": "2026-07-21T23:04:15.357116+07:00",
+  "generated_at": "2026-07-21T23:34:07.723015+07:00",
   "policy": {
     "max_streams_per_match_blv": 2,
     "upcoming_keep_hours": 4,
@@ -21,7 +21,7 @@
       "label": "Lương Sơn",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 33,
+      "debug_rows": 29,
       "playlist_blocks": 9,
       "included": true
     }
@@ -47,13 +47,13 @@
       "source": "chuoichien",
       "source_label": "Chuối Chiên",
       "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv",
-      "match_key": "buxoro vs bunyodkor|",
-      "display_name": "[22:00 21/07] Buxoro vs Bunyodkor - VĐQG Uzbekistan [FHD FLV]",
+      "match_key": "buxoro vs bunyodkor|chuoi tieu",
+      "display_name": "[22:00 21/07] Buxoro vs Bunyodkor - VĐQG Uzbekistan [BLV Chuối Tiêu] [FHD FLV]",
       "group": "Bóng đá",
       "quality": "FHD",
       "kind": "flv",
       "playability": "verified",
-      "score": 466,
+      "score": 456,
       "kickoff_iso": "2026-07-21T22:00:00+07:00"
     },
     {
@@ -86,26 +86,39 @@
       "source": "chuoichien",
       "source_label": "Chuối Chiên",
       "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv",
-      "match_key": "sogdiana vs neftchi|chuoi bo",
-      "display_name": "[22:00 21/07] Sogdiana vs Neftchi - VĐQG Uzbekistan [BLV Chuối Bơ] [FHD FLV]",
+      "match_key": "sogdiana vs neftchi|",
+      "display_name": "[22:00 21/07] Sogdiana vs Neftchi - VĐQG Uzbekistan [FHD FLV]",
       "group": "Bóng đá",
       "quality": "FHD",
       "kind": "flv",
       "playability": "verified",
-      "score": 466,
+      "score": 456,
       "kickoff_iso": "2026-07-21T22:00:00+07:00"
     },
     {
       "source": "chuoichien",
       "source_label": "Chuối Chiên",
       "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao.flv",
-      "match_key": "ararat armenia vs shamrock rovers|truc tiep chuoi chao tran au ararat ar",
-      "display_name": "[23:00 21/07] Ararat-Armenia vs Shamrock Rovers - UEFA Champions League [BLV trực tiếp: Chuối Chao Trận đấu Ararat-Ar] [FHD FLV]",
+      "match_key": "ararat armenia vs shamrock rovers|chuoi chao",
+      "display_name": "[23:00 21/07] Ararat-Armenia vs Shamrock Rovers - UEFA Champions League [BLV Chuối Chao] [FHD FLV]",
       "group": "Bóng đá",
       "quality": "FHD",
       "kind": "flv",
       "playability": "verified",
-      "score": 466,
+      "score": 456,
+      "kickoff_iso": "2026-07-21T23:00:00+07:00"
+    },
+    {
+      "source": "chuoichien",
+      "source_label": "Chuối Chiên",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
+      "match_key": "ararat armenia vs shamrock rovers|chuoi chao",
+      "display_name": "[23:00 21/07] Ararat-Armenia vs Shamrock Rovers - UEFA Champions League [BLV Chuối Chao] (Luồng 2) [M3U8]",
+      "group": "Bóng đá",
+      "quality": "UNKNOWN",
+      "kind": "m3u8",
+      "playability": "verified",
+      "score": 429,
       "kickoff_iso": "2026-07-21T23:00:00+07:00"
     },
     {
@@ -150,9 +163,9 @@
     {
       "source": "luongson",
       "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f",
-      "match_key": "mjallby aif vs lincoln red imps fc|phi ho",
-      "display_name": "[21/07/2026 23:00] MJALLBY AIF vs LINCOLN RED IMPS FC [BLV PHI HỔ] [M3U8]",
+      "url": "https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491",
+      "match_key": "mjallby aif vs lincoln red imps fc|lao hac",
+      "display_name": "[21/07/2026 23:00] MJALLBY AIF vs LINCOLN RED IMPS FC [BLV LÃO HẠC] [M3U8]",
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
@@ -163,9 +176,9 @@
     {
       "source": "luongson",
       "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491",
-      "match_key": "mjallby aif vs lincoln red imps fc|lao hac",
-      "display_name": "[21/07/2026 23:00] MJALLBY AIF vs LINCOLN RED IMPS FC [BLV LÃO HẠC] [M3U8]",
+      "url": "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f",
+      "match_key": "mjallby aif vs lincoln red imps fc|phi ho",
+      "display_name": "[21/07/2026 23:00] MJALLBY AIF vs LINCOLN RED IMPS FC [BLV PHI HỔ] [M3U8]",
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
@@ -184,19 +197,6 @@
       "kind": "flv",
       "playability": "verified",
       "score": 456,
-      "kickoff_iso": "2026-07-21T23:00:00+07:00"
-    },
-    {
-      "source": "chuoichien",
-      "source_label": "Chuối Chiên",
-      "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
-      "match_key": "sabah fa vs kups|chuoi nho",
-      "display_name": "[23:00 21/07] Sabah FA vs KuPS - UEFA Champions League [BLV Chuối Nhỏ] (Luồng 2) [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 429,
       "kickoff_iso": "2026-07-21T23:00:00+07:00"
     },
     {
