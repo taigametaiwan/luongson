@@ -1,6 +1,6 @@
 {
   "version": "4.3.0-HYBRID-DELTA-SINGLE-M3U",
-  "generated_at": "2026-07-22T00:03:43.381346+07:00",
+  "generated_at": "2026-07-22T00:34:32.124808+07:00",
   "policy": {
     "max_streams_per_match_blv": 2,
     "upcoming_keep_hours": 4,
@@ -13,7 +13,7 @@
       "returncode": 0,
       "fresh": true,
       "debug_rows": 2,
-      "playlist_blocks": 2,
+      "playlist_blocks": 3,
       "included": true
     },
     {
@@ -21,14 +21,14 @@
       "label": "Lương Sơn",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 31,
-      "playlist_blocks": 7,
+      "debug_rows": 33,
+      "playlist_blocks": 8,
       "included": true
     }
   ],
-  "input_candidates": 9,
-  "selected_count": 9,
-  "dropped_count": 0,
+  "input_candidates": 11,
+  "selected_count": 10,
+  "dropped_count": 1,
   "channels": [
     {
       "source": "chuoichien",
@@ -41,6 +41,19 @@
       "kind": "flv",
       "playability": "verified",
       "score": 456,
+      "kickoff_iso": "2026-07-21T23:00:00+07:00"
+    },
+    {
+      "source": "chuoichien",
+      "source_label": "Chuối Chiên",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
+      "match_key": "ararat armenia vs shamrock rovers|chuoi chao",
+      "display_name": "[23:00 21/07] Ararat-Armenia vs Shamrock Rovers - UEFA Champions League [BLV Chuối Chao] (Luồng 2) [M3U8]",
+      "group": "Bóng đá",
+      "quality": "UNKNOWN",
+      "kind": "m3u8",
+      "playability": "verified",
+      "score": 429,
       "kickoff_iso": "2026-07-21T23:00:00+07:00"
     },
     {
@@ -96,19 +109,6 @@
       "kickoff_iso": "2026-07-21T23:00:00+07:00"
     },
     {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f",
-      "match_key": "mjallby aif vs lincoln red imps fc|phi ho",
-      "display_name": "[21/07/2026 23:00] MJALLBY AIF vs LINCOLN RED IMPS FC [BLV PHI HỔ] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-21T23:00:00+07:00"
-    },
-    {
       "source": "chuoichien",
       "source_label": "Chuối Chiên",
       "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv",
@@ -146,8 +146,28 @@
       "playability": "verified",
       "score": 439,
       "kickoff_iso": "2026-07-22T00:00:00+07:00"
+    },
+    {
+      "source": "luongson",
+      "source_label": "Lương Sơn",
+      "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb",
+      "match_key": "fenerbahce vs gornik zabrze|fernando",
+      "display_name": "[22/07/2026 01:00] FENERBAHCE vs GORNIK ZABRZE [BLV Fernando] [M3U8]",
+      "group": "Bóng đá",
+      "quality": "UNKNOWN",
+      "kind": "m3u8",
+      "playability": "verified",
+      "score": 439,
+      "kickoff_iso": "2026-07-22T01:00:00+07:00"
     }
   ],
-  "dropped": [],
+  "dropped": [
+    {
+      "url": "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f",
+      "reason": "duplicate-quality-UNKNOWN",
+      "source": "luongson",
+      "match_key": "mjallby aif vs lincoln red imps fc|lao hac"
+    }
+  ],
   "outputs_written": true
 }
