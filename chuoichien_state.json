@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "chuoichien",
-  "updated_at": "2026-07-22T04:01:31.373935+07:00",
+  "updated_at": "2026-07-22T04:31:46.643695+07:00",
   "matches": {
     "1565183": {
       "url": "https://live04.chuoichientv.me/live/1565183/corvinul-hunedoara-vs-csikszereda",
@@ -367,25 +367,27 @@
       "url": "https://live04.chuoichientv.me/live/1519419/libertad-vs-delfin-sc",
       "match_name": "Libertad vs Delfin SC - VĐQG Ecuador",
       "kickoff_iso": "2026-07-22T04:30:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-07-22T04:01:31.373806+07:00",
-      "next_scan_at": "2026-07-22T04:11:31.373806+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-07-22T04:31:46.643615+07:00",
+      "next_scan_at": "2026-07-22T04:36:46.643615+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv"
+      ],
       "scan_decision": "browser-fallback"
     },
     "1547777": {
       "url": "https://live04.chuoichientv.me/live/1547777/nacional-vs-tigre",
       "match_name": "nacional vs tigre",
       "kickoff_iso": "2026-07-22T05:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-07-22T04:01:31.373806+07:00",
-      "next_scan_at": "2026-07-22T04:21:31.373806+07:00",
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-07-22T04:31:46.643615+07:00",
+      "next_scan_at": "2026-07-22T04:41:46.643615+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "1556502": {
       "url": "https://live04.chuoichientv.me/live/1556502/fenerbahce-vs-gornik-zabrze",
@@ -417,9 +419,9 @@
       "url": "https://live04.chuoichientv.me/live/1492290/atletico-mg-vs-bahia",
       "match_name": "atletico mg vs bahia",
       "kickoff_iso": "2026-07-22T05:30:00+07:00",
-      "minutes_to_kickoff": 89,
-      "last_scan_at": "2026-07-22T04:01:31.373806+07:00",
-      "next_scan_at": "2026-07-22T04:21:31.373806+07:00",
+      "minutes_to_kickoff": 59,
+      "last_scan_at": "2026-07-22T04:31:46.643615+07:00",
+      "next_scan_at": "2026-07-22T04:51:46.643615+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -429,9 +431,9 @@
       "url": "https://live04.chuoichientv.me/live/1547780/ucv-vs-santos",
       "match_name": "ucv vs santos",
       "kickoff_iso": "2026-07-22T07:30:00+07:00",
-      "minutes_to_kickoff": 239,
-      "last_scan_at": "2026-07-22T03:31:02.433284+07:00",
-      "next_scan_at": "2026-07-22T04:16:02.433284+07:00",
+      "minutes_to_kickoff": 179,
+      "last_scan_at": "2026-07-22T04:31:46.643615+07:00",
+      "next_scan_at": "2026-07-22T05:16:46.643615+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
