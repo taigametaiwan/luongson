@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "luongson",
-  "updated_at": "2026-07-21T10:31:54.053315+07:00",
+  "updated_at": "2026-07-21T11:01:35.029547+07:00",
   "matches": {
     "f6d618696402": {
       "url": "https://catbee.io/truc-tiep/corvinul-hunedoara-vs-fk-csikszereda-miercurea-ciuc-vao-luc-2230-20-07-2026/?blv=246",
@@ -341,15 +341,39 @@
       "url": "https://catbee.io/truc-tiep/minnesota-lynx-w-vs-seattle-storm-w-vao-luc-0900-21-07-2026/",
       "match_name": "MINNESOTA LYNX W vs SEATTLE STORM W",
       "kickoff_iso": "2026-07-21T09:00:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-07-21T10:31:54.053187+07:00",
-      "next_scan_at": "2026-07-21T10:36:54.053187+07:00",
+      "minutes_to_kickoff": -121,
+      "last_scan_at": "2026-07-21T11:01:35.029280+07:00",
+      "next_scan_at": "2026-07-21T11:06:35.029280+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
         "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582"
       ],
       "scan_decision": "browser-fallback"
+    },
+    "dbdf8cfe3f68": {
+      "url": "https://catbee.io/truc-tiep/basilan-steel-vs-sarangani-marlins-vao-luc-1500-21-07-2026/",
+      "match_name": "basilan steel vs sarangani marlins",
+      "kickoff_iso": "2026-07-21T15:00:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-07-21T11:01:35.029280+07:00",
+      "next_scan_at": "2026-07-21T11:46:35.029280+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "1a1f3e703e8f": {
+      "url": "https://catbee.io/truc-tiep/dalian-kewei-vs-beijing-guoan-vao-luc-1500-21-07-2026/?blv=135",
+      "match_name": "dalian kewei vs beijing guoan",
+      "kickoff_iso": "2026-07-21T15:00:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-07-21T11:01:35.029280+07:00",
+      "next_scan_at": "2026-07-21T11:46:35.029280+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
     }
   }
 }
