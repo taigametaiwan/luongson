@@ -1,6 +1,6 @@
 {
   "version": "4.3.0-HYBRID-DELTA-SINGLE-M3U",
-  "generated_at": "2026-07-21T13:01:42.294348+07:00",
+  "generated_at": "2026-07-21T13:31:40.690279+07:00",
   "policy": {
     "max_streams_per_match_blv": 2,
     "upcoming_keep_hours": 4,
@@ -12,7 +12,7 @@
       "label": "Chuối Chiên",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 1,
+      "debug_rows": 6,
       "playlist_blocks": 0,
       "included": true
     },
@@ -21,7 +21,7 @@
       "label": "Lương Sơn",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 11,
+      "debug_rows": 24,
       "playlist_blocks": 1,
       "included": true
     }
