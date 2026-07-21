@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "chuoichien",
-  "updated_at": "2026-07-22T02:31:36.781750+07:00",
+  "updated_at": "2026-07-22T03:01:42.818601+07:00",
   "matches": {
     "1565183": {
       "url": "https://live04.chuoichientv.me/live/1565183/corvinul-hunedoara-vs-csikszereda",
@@ -341,14 +341,13 @@
       "url": "https://live04.chuoichientv.me/live/1556503/sturm-graz-vs-heart-of-midlothian",
       "match_name": "Sturm Graz vs Heart Of Midlothian - UEFA Champions League",
       "kickoff_iso": "2026-07-22T01:30:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-07-22T02:31:36.781661+07:00",
-      "next_scan_at": "2026-07-22T02:36:36.781661+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-07-22T03:01:42.818506+07:00",
+      "next_scan_at": "2026-07-22T03:06:42.818506+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
-        "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv",
-        "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8"
+        "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv"
       ],
       "scan_decision": "browser-fallback"
     },
@@ -368,9 +367,9 @@
       "url": "https://live04.chuoichientv.me/live/1519419/libertad-vs-delfin-sc",
       "match_name": "libertad vs delfin sc",
       "kickoff_iso": "2026-07-22T04:30:00+07:00",
-      "minutes_to_kickoff": 149,
-      "last_scan_at": "2026-07-22T02:01:42.652933+07:00",
-      "next_scan_at": "2026-07-22T02:46:42.652933+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-07-22T03:01:42.818506+07:00",
+      "next_scan_at": "2026-07-22T03:21:42.818506+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -380,9 +379,9 @@
       "url": "https://live04.chuoichientv.me/live/1547777/nacional-vs-tigre",
       "match_name": "nacional vs tigre",
       "kickoff_iso": "2026-07-22T05:00:00+07:00",
-      "minutes_to_kickoff": 179,
-      "last_scan_at": "2026-07-22T02:01:42.652933+07:00",
-      "next_scan_at": "2026-07-22T02:46:42.652933+07:00",
+      "minutes_to_kickoff": 119,
+      "last_scan_at": "2026-07-22T03:01:42.818506+07:00",
+      "next_scan_at": "2026-07-22T03:21:42.818506+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -392,14 +391,12 @@
       "url": "https://live04.chuoichientv.me/live/1556502/fenerbahce-vs-gornik-zabrze",
       "match_name": "Fenerbahce vs Gornik Zabrze - UEFA Champions League",
       "kickoff_iso": "2026-07-22T01:00:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-07-22T02:31:36.781661+07:00",
-      "next_scan_at": "2026-07-22T02:36:36.781661+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv"
-      ],
+      "minutes_to_kickoff": -121,
+      "last_scan_at": "2026-07-22T03:01:42.818506+07:00",
+      "next_scan_at": "2026-07-22T03:06:42.818506+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
       "scan_decision": "browser-fallback"
     },
     "1556501": {

@@ -1,6 +1,6 @@
 {
   "version": "4.3.0-HYBRID-DELTA-SINGLE-M3U",
-  "generated_at": "2026-07-22T02:34:24.247827+07:00",
+  "generated_at": "2026-07-22T03:03:43.848225+07:00",
   "policy": {
     "max_streams_per_match_blv": 2,
     "upcoming_keep_hours": 4,
@@ -12,8 +12,8 @@
       "label": "Chuối Chiên",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 3,
-      "playlist_blocks": 3,
+      "debug_rows": 4,
+      "playlist_blocks": 1,
       "included": true
     },
     {
@@ -21,67 +21,15 @@
       "label": "Lương Sơn",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 28,
-      "playlist_blocks": 9,
+      "debug_rows": 26,
+      "playlist_blocks": 6,
       "included": true
     }
   ],
-  "input_candidates": 12,
-  "selected_count": 12,
+  "input_candidates": 7,
+  "selected_count": 7,
   "dropped_count": 0,
   "channels": [
-    {
-      "source": "chuoichien",
-      "source_label": "Chuối Chiên",
-      "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv",
-      "match_key": "fenerbahce vs gornik zabrze|chuoi bo",
-      "display_name": "[01:00 22/07] Fenerbahce vs Gornik Zabrze - UEFA Champions League [BLV Chuối Bơ] [FHD FLV]",
-      "group": "Bóng đá",
-      "quality": "FHD",
-      "kind": "flv",
-      "playability": "verified",
-      "score": 456,
-      "kickoff_iso": "2026-07-22T01:00:00+07:00"
-    },
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb",
-      "match_key": "fenerbahce vs gornik zabrze|fernando",
-      "display_name": "[22/07/2026 01:00] FENERBAHCE vs GORNIK ZABRZE [BLV Fernando] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-22T01:00:00+07:00"
-    },
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
-      "match_key": "thun vs dinamo zagreb|leo",
-      "display_name": "[22/07/2026 01:00] THUN vs DINAMO ZAGREB [BLV Leo] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-22T01:00:00+07:00"
-    },
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
-      "match_key": "atert bissen vs gyori eto|ly ung",
-      "display_name": "[22/07/2026 01:15] ATERT BISSEN vs GYORI ETO [BLV LÝ ỨNG] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-22T01:15:00+07:00"
-    },
     {
       "source": "luongson",
       "source_label": "Lương Sơn",
@@ -119,19 +67,6 @@
       "kind": "m3u8",
       "playability": "verified",
       "score": 439,
-      "kickoff_iso": "2026-07-22T01:30:00+07:00"
-    },
-    {
-      "source": "chuoichien",
-      "source_label": "Chuối Chiên",
-      "url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
-      "match_key": "sturm graz vs heart of midlothian|chuoi nho",
-      "display_name": "[01:30 22/07] Sturm Graz vs Heart Of Midlothian - UEFA Champions League [BLV Chuối Nhỏ] (Luồng 2) [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 429,
       "kickoff_iso": "2026-07-22T01:30:00+07:00"
     },
     {
