@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "chuoichien",
-  "updated_at": "2026-07-22T01:01:44.865365+07:00",
+  "updated_at": "2026-07-22T01:31:44.695794+07:00",
   "matches": {
     "1565183": {
       "url": "https://live04.chuoichientv.me/live/1565183/corvinul-hunedoara-vs-csikszereda",
@@ -341,25 +341,27 @@
       "url": "https://live04.chuoichientv.me/live/1556503/sturm-graz-vs-heart-of-midlothian",
       "match_name": "Sturm Graz vs Heart Of Midlothian - UEFA Champions League",
       "kickoff_iso": "2026-07-22T01:30:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-07-22T01:01:44.865256+07:00",
-      "next_scan_at": "2026-07-22T01:11:44.865256+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-07-22T01:31:44.695680+07:00",
+      "next_scan_at": "2026-07-22T01:36:44.695680+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv"
+      ],
       "scan_decision": "browser-fallback"
     },
     "1589417": {
       "url": "https://live04.chuoichientv.me/live/1589417/larne-vs-fk-crvena-zvezda",
-      "match_name": "larne vs fk crvena zvezda",
+      "match_name": "Larne vs FK Crvena Zvezda - UEFA Champions League",
       "kickoff_iso": "2026-07-22T02:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-07-22T01:01:44.865256+07:00",
-      "next_scan_at": "2026-07-22T01:21:44.865256+07:00",
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-07-22T01:31:44.695680+07:00",
+      "next_scan_at": "2026-07-22T01:41:44.695680+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "1519419": {
       "url": "https://live04.chuoichientv.me/live/1519419/libertad-vs-delfin-sc",
@@ -389,9 +391,9 @@
       "url": "https://live04.chuoichientv.me/live/1556502/fenerbahce-vs-gornik-zabrze",
       "match_name": "Fenerbahce vs Gornik Zabrze - UEFA Champions League",
       "kickoff_iso": "2026-07-22T01:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-07-22T01:01:44.865256+07:00",
-      "next_scan_at": "2026-07-22T01:06:44.865256+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-07-22T01:31:44.695680+07:00",
+      "next_scan_at": "2026-07-22T01:36:44.695680+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -404,15 +406,27 @@
       "url": "https://live04.chuoichientv.me/live/1556501/aarhus-vs-lech-poznan",
       "match_name": "Aarhus vs Lech Poznan - UEFA Champions League",
       "kickoff_iso": "2026-07-22T00:00:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-07-22T01:01:44.865256+07:00",
-      "next_scan_at": "2026-07-22T01:06:44.865256+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-07-22T01:31:44.695680+07:00",
+      "next_scan_at": "2026-07-22T01:36:44.695680+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
         "https://gckc0525.edgemaxcdn.org/live/troctru.flv"
       ],
       "scan_decision": "browser-fallback"
+    },
+    "1492290": {
+      "url": "https://live04.chuoichientv.me/live/1492290/atletico-mg-vs-bahia",
+      "match_name": "atletico mg vs bahia",
+      "kickoff_iso": "2026-07-22T05:30:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-07-22T01:31:44.695680+07:00",
+      "next_scan_at": "2026-07-22T02:16:44.695680+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
     }
   }
 }
