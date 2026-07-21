@@ -1,6 +1,6 @@
 {
   "version": "4.3.0-HYBRID-DELTA-SINGLE-M3U",
-  "generated_at": "2026-07-21T09:02:39.868479+07:00",
+  "generated_at": "2026-07-21T09:31:27.996977+07:00",
   "policy": {
     "max_streams_per_match_blv": 2,
     "upcoming_keep_hours": 4,
@@ -21,41 +21,15 @@
       "label": "Lương Sơn",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 6,
-      "playlist_blocks": 3,
+      "debug_rows": 2,
+      "playlist_blocks": 1,
       "included": true
     }
   ],
-  "input_candidates": 3,
-  "selected_count": 3,
+  "input_candidates": 1,
+  "selected_count": 1,
   "dropped_count": 0,
   "channels": [
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3",
-      "match_key": "las vegas aces w vs toronto tempo w|ly quy",
-      "display_name": "[21/07/2026 07:00] LAS VEGAS ACES W vs TORONTO TEMPO W [BLV LÝ QUỲ] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-21T07:00:00+07:00"
-    },
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
-      "match_key": "new york liberty w vs dallas wings w|vo tong",
-      "display_name": "[21/07/2026 07:00] NEW YORK LIBERTY W vs DALLAS WINGS W [BLV VÕ TÒNG] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-21T07:00:00+07:00"
-    },
     {
       "source": "luongson",
       "source_label": "Lương Sơn",
