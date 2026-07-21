@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "chuoichien",
-  "updated_at": "2026-07-21T19:02:09.812399+07:00",
+  "updated_at": "2026-07-21T19:32:15.459032+07:00",
   "matches": {
     "1565183": {
       "url": "https://live04.chuoichientv.me/live/1565183/corvinul-hunedoara-vs-csikszereda",
@@ -201,9 +201,9 @@
       "url": "https://live04.chuoichientv.me/live/1507004/jeju-united-fc-vs-gangwon-fc",
       "match_name": "Jeju United FC vs Gangwon FC - K League 1",
       "kickoff_iso": "2026-07-21T17:30:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-07-21T19:02:09.812255+07:00",
-      "next_scan_at": "2026-07-21T19:07:09.812255+07:00",
+      "minutes_to_kickoff": -121,
+      "last_scan_at": "2026-07-21T19:32:15.458936+07:00",
+      "next_scan_at": "2026-07-21T19:37:15.458936+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -228,11 +228,11 @@
     },
     "1567362": {
       "url": "https://live04.chuoichientv.me/live/1567362/shanghai-sipg-vs-sichuan-jiuniu",
-      "match_name": "shanghai sipg vs sichuan jiuniu",
+      "match_name": "SHANGHAI SIPG vs Sichuan Jiuniu - Cúp FA Trung Quốc",
       "kickoff_iso": "2026-07-21T18:00:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-07-21T19:02:09.812255+07:00",
-      "next_scan_at": "2026-07-21T19:07:09.812255+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-07-21T19:32:15.458936+07:00",
+      "next_scan_at": "2026-07-21T19:37:15.458936+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -242,15 +242,16 @@
     },
     "1567358": {
       "url": "https://live04.chuoichientv.me/live/1567358/shanghai-shenhua-vs-qingdao-jonoon",
-      "match_name": "shanghai shenhua vs qingdao jonoon",
+      "match_name": "Shanghai Shenhua vs Qingdao Jonoon - Cúp FA Trung Quốc",
       "kickoff_iso": "2026-07-21T18:35:00+07:00",
-      "minutes_to_kickoff": -27,
-      "last_scan_at": "2026-07-21T19:02:09.812255+07:00",
-      "next_scan_at": "2026-07-21T19:07:09.812255+07:00",
+      "minutes_to_kickoff": -56,
+      "last_scan_at": "2026-07-21T19:32:15.458936+07:00",
+      "next_scan_at": "2026-07-21T19:37:15.458936+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
-        "https://gckc0525.edgemaxcdn.org/live/chuoito.flv"
+        "https://gckc0525.edgemaxcdn.org/live/chuoito.flv",
+        "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8"
       ],
       "scan_decision": "browser-fallback"
     },
@@ -258,13 +259,13 @@
       "url": "https://live04.chuoichientv.me/live/1567359/yunnan-yukun-vs-chengdu-better-city",
       "match_name": "Yunnan Yukun vs Chengdu Better City - Cúp FA Trung Quốc",
       "kickoff_iso": "2026-07-21T19:00:00+07:00",
-      "minutes_to_kickoff": -2,
-      "last_scan_at": "2026-07-21T19:02:09.812255+07:00",
-      "next_scan_at": "2026-07-21T19:07:09.812255+07:00",
+      "minutes_to_kickoff": -32,
+      "last_scan_at": "2026-07-21T19:32:15.458936+07:00",
+      "next_scan_at": "2026-07-21T19:37:15.458936+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
-        "https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8"
+        "https://gckc0525.edgemaxcdn.org/live/chuoigia.flv"
       ],
       "scan_decision": "browser-fallback"
     },
