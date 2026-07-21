@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "luongson",
-  "updated_at": "2026-07-21T18:05:18.732284+07:00",
+  "updated_at": "2026-07-21T18:35:15.767733+07:00",
   "matches": {
     "f6d618696402": {
       "url": "https://catbee.io/truc-tiep/corvinul-hunedoara-vs-fk-csikszereda-miercurea-ciuc-vao-luc-2230-20-07-2026/?blv=246",
@@ -411,9 +411,9 @@
       "url": "https://catbee.io/truc-tiep/queensland-lions-sc-vs-perth-glory-vao-luc-1630-21-07-2026/",
       "match_name": "QUEENSLAND LIONS SC vs PERTH GLORY",
       "kickoff_iso": "2026-07-21T16:30:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-07-21T18:05:18.731592+07:00",
-      "next_scan_at": "2026-07-21T18:10:18.731592+07:00",
+      "minutes_to_kickoff": -121,
+      "last_scan_at": "2026-07-21T18:35:15.766762+07:00",
+      "next_scan_at": "2026-07-21T18:40:15.766762+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -450,12 +450,12 @@
       "scan_decision": "browser-fallback"
     },
     "76433647585c": {
-      "url": "https://catbee.io/truc-tiep/cumberland-united-fc-vs-heidelberg-united-vao-luc-1700-21-07-2026/",
+      "url": "https://catbee.io/truc-tiep/cumberland-united-fc-vs-heidelberg-united-vao-luc-1700-21-07-2026/?blv=372",
       "match_name": "CUMBERLAND UNITED FC vs HEIDELBERG UNITED",
       "kickoff_iso": "2026-07-21T17:00:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-07-21T18:05:18.731592+07:00",
-      "next_scan_at": "2026-07-21T18:10:18.731592+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-07-21T18:35:15.766762+07:00",
+      "next_scan_at": "2026-07-21T18:40:15.766762+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -479,9 +479,9 @@
       "url": "https://catbee.io/truc-tiep/bayswater-city-vs-sydney-fc-vao-luc-1730-21-07-2026/",
       "match_name": "BAYSWATER CITY vs SYDNEY FC",
       "kickoff_iso": "2026-07-21T17:30:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-07-21T18:05:18.731592+07:00",
-      "next_scan_at": "2026-07-21T18:10:18.731592+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-07-21T18:35:15.766762+07:00",
+      "next_scan_at": "2026-07-21T18:40:15.766762+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -493,9 +493,9 @@
       "url": "https://catbee.io/truc-tiep/jeju-sk-fc-vs-gangwon-fc-vao-luc-1730-21-07-2026/",
       "match_name": "JEJU SK FC vs GANGWON FC",
       "kickoff_iso": "2026-07-21T17:30:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-07-21T18:05:18.731592+07:00",
-      "next_scan_at": "2026-07-21T18:10:18.731592+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-07-21T18:35:15.766762+07:00",
+      "next_scan_at": "2026-07-21T18:40:15.766762+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -507,9 +507,9 @@
       "url": "https://catbee.io/truc-tiep/jeonbuk-hyundai-motors-vs-daejeon-citizen-vao-luc-1730-21-07-2026/",
       "match_name": "JEONBUK HYUNDAI MOTORS vs DAEJEON CITIZEN",
       "kickoff_iso": "2026-07-21T17:30:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-07-21T18:05:18.731592+07:00",
-      "next_scan_at": "2026-07-21T18:10:18.731592+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-07-21T18:35:15.766762+07:00",
+      "next_scan_at": "2026-07-21T18:40:15.766762+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -518,30 +518,30 @@
       "scan_decision": "browser-fallback"
     },
     "6a904f55b701": {
-      "url": "https://catbee.io/truc-tiep/ulsan-hd-fc-vs-incheon-united-vao-luc-1730-21-07-2026/?blv=218",
+      "url": "https://catbee.io/truc-tiep/ulsan-hd-fc-vs-incheon-united-vao-luc-1730-21-07-2026/?blv=246",
       "match_name": "ULSAN HD FC vs INCHEON UNITED",
       "kickoff_iso": "2026-07-21T17:30:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-07-21T18:05:18.731592+07:00",
-      "next_scan_at": "2026-07-21T18:10:18.731592+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-07-21T18:35:15.766762+07:00",
+      "next_scan_at": "2026-07-21T18:40:15.766762+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
-        "https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6"
+        "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1"
       ],
       "scan_decision": "browser-fallback"
     },
     "8b39da480d0e": {
-      "url": "https://catbee.io/truc-tiep/shanghai-port-vs-shenzhen-xinpengcheng-vao-luc-1800-21-07-2026/?blv=135",
+      "url": "https://catbee.io/truc-tiep/shanghai-port-vs-shenzhen-xinpengcheng-vao-luc-1800-21-07-2026/",
       "match_name": "SHANGHAI PORT vs SHENZHEN XINPENGCHENG",
       "kickoff_iso": "2026-07-21T18:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-07-21T18:05:18.731592+07:00",
-      "next_scan_at": "2026-07-21T18:10:18.731592+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-07-21T18:35:15.766762+07:00",
+      "next_scan_at": "2026-07-21T18:40:15.766762+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
-        "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1"
+        "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f"
       ],
       "scan_decision": "browser-fallback"
     },
@@ -549,25 +549,27 @@
       "url": "https://catbee.io/truc-tiep/wuhan-three-towns-vs-shandong-taishan-vao-luc-1835-21-07-2026/",
       "match_name": "WUHAN THREE TOWNS vs SHANDONG TAISHAN",
       "kickoff_iso": "2026-07-21T18:35:00+07:00",
-      "minutes_to_kickoff": 34,
-      "last_scan_at": "2026-07-21T18:05:18.731592+07:00",
-      "next_scan_at": "2026-07-21T18:15:18.731592+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "browser-fallback"
-    },
-    "813fe14f8111": {
-      "url": "https://catbee.io/truc-tiep/shanghai-shenhua-vs-qingdao-manatee-vao-luc-1835-21-07-2026/?blv=292",
-      "match_name": "SHANGHAI SHENHUA vs QINGDAO MANATEE",
-      "kickoff_iso": "2026-07-21T18:35:00+07:00",
-      "minutes_to_kickoff": 34,
-      "last_scan_at": "2026-07-21T18:05:18.731592+07:00",
-      "next_scan_at": "2026-07-21T18:15:18.731592+07:00",
+      "minutes_to_kickoff": 4,
+      "last_scan_at": "2026-07-21T18:35:15.766762+07:00",
+      "next_scan_at": "2026-07-21T18:40:15.766762+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
-        "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d"
+        "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
+      ],
+      "scan_decision": "browser-fallback"
+    },
+    "813fe14f8111": {
+      "url": "https://catbee.io/truc-tiep/shanghai-shenhua-vs-qingdao-manatee-vao-luc-1835-21-07-2026/",
+      "match_name": "SHANGHAI SHENHUA vs QINGDAO MANATEE",
+      "kickoff_iso": "2026-07-21T18:35:00+07:00",
+      "minutes_to_kickoff": 4,
+      "last_scan_at": "2026-07-21T18:35:15.766762+07:00",
+      "next_scan_at": "2026-07-21T18:40:15.766762+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582"
       ],
       "scan_decision": "browser-fallback"
     },
@@ -575,9 +577,9 @@
       "url": "https://catbee.io/truc-tiep/chongqing-tonglianglong-vs-qingdao-west-coast-vao-luc-1835-21-07-2026/",
       "match_name": "CHONGQING TONGLIANGLONG vs QINGDAO WEST COAST",
       "kickoff_iso": "2026-07-21T18:35:00+07:00",
-      "minutes_to_kickoff": 34,
-      "last_scan_at": "2026-07-21T18:05:18.731592+07:00",
-      "next_scan_at": "2026-07-21T18:15:18.731592+07:00",
+      "minutes_to_kickoff": 4,
+      "last_scan_at": "2026-07-21T18:35:15.766762+07:00",
+      "next_scan_at": "2026-07-21T18:40:15.766762+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -587,35 +589,39 @@
     },
     "6533ab710971": {
       "url": "https://catbee.io/truc-tiep/henan-football-club-vs-dalian-zhixing-vao-luc-1900-21-07-2026/",
-      "match_name": "henan football club vs dalian zhixing",
+      "match_name": "HENAN FOOTBALL CLUB vs DALIAN ZHIXING",
       "kickoff_iso": "2026-07-21T19:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-07-21T18:05:18.731592+07:00",
-      "next_scan_at": "2026-07-21T18:25:18.731592+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-07-21T18:35:15.766762+07:00",
+      "next_scan_at": "2026-07-21T18:40:15.766762+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9"
+      ],
+      "scan_decision": "browser-fallback"
     },
     "b13863a9e1ab": {
       "url": "https://catbee.io/truc-tiep/yunnan-yukun-vs-chengdu-rongcheng-fc-vao-luc-1900-21-07-2026/?blv=359",
-      "match_name": "yunnan yukun vs chengdu rongcheng fc",
+      "match_name": "YUNNAN YUKUN vs CHENGDU RONGCHENG FC",
       "kickoff_iso": "2026-07-21T19:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-07-21T18:05:18.731592+07:00",
-      "next_scan_at": "2026-07-21T18:25:18.731592+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-07-21T18:35:15.766762+07:00",
+      "next_scan_at": "2026-07-21T18:40:15.766762+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6"
+      ],
+      "scan_decision": "browser-fallback"
     },
     "22d62ed27bac": {
       "url": "https://catbee.io/truc-tiep/tadamon-sour-vs-racing-beirut-vao-luc-2000-21-07-2026/?blv=374",
       "match_name": "tadamon sour vs racing beirut",
       "kickoff_iso": "2026-07-21T20:00:00+07:00",
-      "minutes_to_kickoff": 119,
-      "last_scan_at": "2026-07-21T18:05:18.731592+07:00",
-      "next_scan_at": "2026-07-21T18:25:18.731592+07:00",
+      "minutes_to_kickoff": 89,
+      "last_scan_at": "2026-07-21T18:35:15.766762+07:00",
+      "next_scan_at": "2026-07-21T18:55:15.766762+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],

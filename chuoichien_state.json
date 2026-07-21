@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "chuoichien",
-  "updated_at": "2026-07-21T18:02:18.052983+07:00",
+  "updated_at": "2026-07-21T18:32:07.301282+07:00",
   "matches": {
     "1565183": {
       "url": "https://live04.chuoichientv.me/live/1565183/corvinul-hunedoara-vs-csikszereda",
@@ -175,14 +175,12 @@
       "url": "https://live04.chuoichientv.me/live/1560865/lions-vs-perth-glory",
       "match_name": "Lions vs Perth Glory - Australia Cup",
       "kickoff_iso": "2026-07-21T16:30:00+07:00",
-      "minutes_to_kickoff": -91,
-      "last_scan_at": "2026-07-21T18:02:18.052805+07:00",
-      "next_scan_at": "2026-07-21T18:07:18.052805+07:00",
-      "has_stream": true,
-      "has_verified": true,
-      "verified_urls": [
-        "https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv"
-      ],
+      "minutes_to_kickoff": -121,
+      "last_scan_at": "2026-07-21T18:32:07.301137+07:00",
+      "next_scan_at": "2026-07-21T18:37:07.301137+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
       "scan_decision": "browser-fallback"
     },
     "1560864": {
@@ -203,9 +201,9 @@
       "url": "https://live04.chuoichientv.me/live/1507004/jeju-united-fc-vs-gangwon-fc",
       "match_name": "Jeju United FC vs Gangwon FC - K League 1",
       "kickoff_iso": "2026-07-21T17:30:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-07-21T18:02:18.052805+07:00",
-      "next_scan_at": "2026-07-21T18:07:18.052805+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-07-21T18:32:07.301137+07:00",
+      "next_scan_at": "2026-07-21T18:37:07.301137+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -217,9 +215,9 @@
       "url": "https://live04.chuoichientv.me/live/1507005/jeonbuk-motors-vs-daejeon-citizen",
       "match_name": "Jeonbuk Motors vs Daejeon Citizen - K League 1",
       "kickoff_iso": "2026-07-21T17:30:00+07:00",
-      "minutes_to_kickoff": -32,
-      "last_scan_at": "2026-07-21T18:02:18.052805+07:00",
-      "next_scan_at": "2026-07-21T18:07:18.052805+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-07-21T18:32:07.301137+07:00",
+      "next_scan_at": "2026-07-21T18:37:07.301137+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -231,9 +229,9 @@
       "url": "https://live04.chuoichientv.me/live/1567362/shanghai-sipg-vs-sichuan-jiuniu",
       "match_name": "SHANGHAI SIPG vs Sichuan Jiuniu - Cúp FA Trung Quốc",
       "kickoff_iso": "2026-07-21T18:00:00+07:00",
-      "minutes_to_kickoff": -2,
-      "last_scan_at": "2026-07-21T18:02:18.052805+07:00",
-      "next_scan_at": "2026-07-21T18:07:18.052805+07:00",
+      "minutes_to_kickoff": -32,
+      "last_scan_at": "2026-07-21T18:32:07.301137+07:00",
+      "next_scan_at": "2026-07-21T18:37:07.301137+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
@@ -245,25 +243,27 @@
       "url": "https://live04.chuoichientv.me/live/1567358/shanghai-shenhua-vs-qingdao-jonoon",
       "match_name": "Shanghai Shenhua vs Qingdao Jonoon - Cúp FA Trung Quốc",
       "kickoff_iso": "2026-07-21T18:35:00+07:00",
-      "minutes_to_kickoff": 33,
-      "last_scan_at": "2026-07-21T18:02:18.052805+07:00",
-      "next_scan_at": "2026-07-21T18:12:18.052805+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
+      "minutes_to_kickoff": 3,
+      "last_scan_at": "2026-07-21T18:32:07.301137+07:00",
+      "next_scan_at": "2026-07-21T18:37:07.301137+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://gckc0525.edgemaxcdn.org/live/chuoito.flv"
+      ],
       "scan_decision": "browser-fallback"
     },
     "1567359": {
       "url": "https://live04.chuoichientv.me/live/1567359/yunnan-yukun-vs-chengdu-better-city",
       "match_name": "yunnan yukun vs chengdu better city",
       "kickoff_iso": "2026-07-21T19:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-07-21T18:02:18.052805+07:00",
-      "next_scan_at": "2026-07-21T18:22:18.052805+07:00",
+      "minutes_to_kickoff": 28,
+      "last_scan_at": "2026-07-21T18:32:07.301137+07:00",
+      "next_scan_at": "2026-07-21T18:42:07.301137+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "scan_decision": "browser-fallback"
     },
     "1516065": {
       "url": "https://live04.chuoichientv.me/live/1516065/buxoro-vs-bunyodkor",
