@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "luongson",
-  "updated_at": "2026-07-21T12:31:08.760422+07:00",
+  "updated_at": "2026-07-21T13:01:42.193921+07:00",
   "matches": {
     "f6d618696402": {
       "url": "https://catbee.io/truc-tiep/corvinul-hunedoara-vs-fk-csikszereda-miercurea-ciuc-vao-luc-2230-20-07-2026/?blv=246",
@@ -355,21 +355,21 @@
       "url": "https://catbee.io/truc-tiep/basilan-steel-vs-sarangani-marlins-vao-luc-1500-21-07-2026/",
       "match_name": "basilan steel vs sarangani marlins",
       "kickoff_iso": "2026-07-21T15:00:00+07:00",
-      "minutes_to_kickoff": 179,
-      "last_scan_at": "2026-07-21T12:01:26.362961+07:00",
-      "next_scan_at": "2026-07-21T12:46:26.362961+07:00",
+      "minutes_to_kickoff": 119,
+      "last_scan_at": "2026-07-21T13:01:42.193650+07:00",
+      "next_scan_at": "2026-07-21T13:21:42.193650+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
       "scan_decision": "http-only-far-upcoming"
     },
     "1a1f3e703e8f": {
-      "url": "https://catbee.io/truc-tiep/dalian-kewei-vs-beijing-guoan-vao-luc-1500-21-07-2026/?blv=359",
+      "url": "https://catbee.io/truc-tiep/dalian-kewei-vs-beijing-guoan-vao-luc-1500-21-07-2026/?blv=135",
       "match_name": "dalian kewei vs beijing guoan",
       "kickoff_iso": "2026-07-21T15:00:00+07:00",
-      "minutes_to_kickoff": 179,
-      "last_scan_at": "2026-07-21T12:01:26.362961+07:00",
-      "next_scan_at": "2026-07-21T12:46:26.362961+07:00",
+      "minutes_to_kickoff": 119,
+      "last_scan_at": "2026-07-21T13:01:42.193650+07:00",
+      "next_scan_at": "2026-07-21T13:21:42.193650+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -391,9 +391,9 @@
       "url": "https://catbee.io/truc-tiep/tsirang-fc-vs-drukpa-fc-vao-luc-1600-21-07-2026/",
       "match_name": "tsirang fc vs drukpa fc",
       "kickoff_iso": "2026-07-21T16:00:00+07:00",
-      "minutes_to_kickoff": 239,
-      "last_scan_at": "2026-07-21T12:01:26.362961+07:00",
-      "next_scan_at": "2026-07-21T12:46:26.362961+07:00",
+      "minutes_to_kickoff": 179,
+      "last_scan_at": "2026-07-21T13:01:42.193650+07:00",
+      "next_scan_at": "2026-07-21T13:46:42.193650+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -434,6 +434,32 @@
       "has_verified": false,
       "verified_urls": [],
       "scan_decision": "http-only-far-upcoming"
+    },
+    "76433647585c": {
+      "url": "https://catbee.io/truc-tiep/cumberland-united-fc-vs-heidelberg-united-vao-luc-1700-21-07-2026/",
+      "match_name": "cumberland united fc vs heidelberg united",
+      "kickoff_iso": "2026-07-21T17:00:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-07-21T13:01:42.193650+07:00",
+      "next_scan_at": "2026-07-21T13:46:42.193650+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "3e746cfc1d8c": {
+      "url": "https://catbee.io/truc-tiep/phap-vs-maroc-vao-luc-1200-21-07-2026/?blv=359",
+      "match_name": "PHÁP vs MAROC",
+      "kickoff_iso": "2026-07-21T12:00:00+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-07-21T13:01:42.193650+07:00",
+      "next_scan_at": "2026-07-21T13:06:42.193650+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://hls.cdnfaster-a.live/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c"
+      ],
+      "scan_decision": "browser-fallback"
     }
   }
 }
