@@ -1,6 +1,6 @@
 {
   "version": "4.3.0-HYBRID-DELTA-SINGLE-M3U",
-  "generated_at": "2026-07-21T15:02:50.536323+07:00",
+  "generated_at": "2026-07-21T15:32:44.702301+07:00",
   "policy": {
     "max_streams_per_match_blv": 2,
     "upcoming_keep_hours": 4,
@@ -12,8 +12,8 @@
       "label": "Chuối Chiên",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 7,
-      "playlist_blocks": 2,
+      "debug_rows": 6,
+      "playlist_blocks": 3,
       "included": true
     },
     {
@@ -21,13 +21,13 @@
       "label": "Lương Sơn",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 32,
-      "playlist_blocks": 3,
+      "debug_rows": 26,
+      "playlist_blocks": 5,
       "included": true
     }
   ],
-  "input_candidates": 5,
-  "selected_count": 5,
+  "input_candidates": 8,
+  "selected_count": 8,
   "dropped_count": 0,
   "channels": [
     {
@@ -59,9 +59,9 @@
     {
       "source": "luongson",
       "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
-      "match_key": "dalian kewei vs beijing guoan|leo",
-      "display_name": "[21/07/2026 15:00] DALIAN KEWEI vs BEIJING GUOAN [BLV Leo] [M3U8]",
+      "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
+      "match_key": "dalian kewei vs beijing guoan|luu bi",
+      "display_name": "[21/07/2026 15:00] DALIAN KEWEI vs BEIJING GUOAN [BLV LƯU BỊ] [M3U8]",
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
@@ -72,9 +72,9 @@
     {
       "source": "luongson",
       "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
-      "match_key": "dalian kewei vs beijing guoan|luu bi",
-      "display_name": "[21/07/2026 15:00] DALIAN KEWEI vs BEIJING GUOAN [BLV LƯU BỊ] [M3U8]",
+      "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6",
+      "match_key": "dalian kewei vs beijing guoan|leo",
+      "display_name": "[21/07/2026 15:00] DALIAN KEWEI vs BEIJING GUOAN [BLV Leo] [M3U8]",
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
@@ -94,6 +94,45 @@
       "playability": "verified",
       "score": 429,
       "kickoff_iso": "2026-07-21T15:00:00+07:00"
+    },
+    {
+      "source": "chuoichien",
+      "source_label": "Chuối Chiên",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv",
+      "match_key": "pvf cand vs hoang anh gia lai|chuoi tay",
+      "display_name": "[15:30 21/07] PVF-CAND vs Hoang Anh Gia Lai - U21 Quốc Gia [BLV Chuối Tây] [FHD FLV]",
+      "group": "Bóng đá",
+      "quality": "FHD",
+      "kind": "flv",
+      "playability": "verified",
+      "score": 456,
+      "kickoff_iso": "2026-07-21T15:30:00+07:00"
+    },
+    {
+      "source": "luongson",
+      "source_label": "Lương Sơn",
+      "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
+      "match_key": "pvf vietnam u21 vs hoang anh gia lai u21|ly ung",
+      "display_name": "[21/07/2026 15:30] PVF VIETNAM U21 vs HOANG ANH GIA LAI U21 [BLV LÝ ỨNG] [M3U8]",
+      "group": "Bóng đá",
+      "quality": "UNKNOWN",
+      "kind": "m3u8",
+      "playability": "verified",
+      "score": 439,
+      "kickoff_iso": "2026-07-21T15:30:00+07:00"
+    },
+    {
+      "source": "luongson",
+      "source_label": "Lương Sơn",
+      "url": "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582",
+      "match_key": "tsirang fc vs drukpa fc|yen thanh",
+      "display_name": "[21/07/2026 16:00] TSIRANG FC vs DRUKPA FC [BLV YẾN THANH] [M3U8]",
+      "group": "Bóng đá",
+      "quality": "UNKNOWN",
+      "kind": "m3u8",
+      "playability": "verified",
+      "score": 439,
+      "kickoff_iso": "2026-07-21T16:00:00+07:00"
     }
   ],
   "dropped": [],
