@@ -1,6 +1,6 @@
 {
   "version": "4.3.0-HYBRID-DELTA-SINGLE-M3U",
-  "generated_at": "2026-07-21T11:01:35.131207+07:00",
+  "generated_at": "2026-07-21T11:31:04.397310+07:00",
   "policy": {
     "max_streams_per_match_blv": 2,
     "upcoming_keep_hours": 4,
@@ -21,29 +21,15 @@
       "label": "Lương Sơn",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 7,
-      "playlist_blocks": 1,
+      "debug_rows": 2,
+      "playlist_blocks": 0,
       "included": true
     }
   ],
-  "input_candidates": 1,
-  "selected_count": 1,
+  "input_candidates": 0,
+  "selected_count": 0,
   "dropped_count": 0,
-  "channels": [
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582",
-      "match_key": "minnesota lynx w vs seattle storm w|yen thanh",
-      "display_name": "[21/07/2026 09:00] MINNESOTA LYNX W vs SEATTLE STORM W [BLV YẾN THANH] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-21T09:00:00+07:00"
-    }
-  ],
+  "channels": [],
   "dropped": [],
-  "outputs_written": true
+  "outputs_written": false
 }

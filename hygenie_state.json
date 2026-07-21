@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "luongson",
-  "updated_at": "2026-07-21T11:01:35.029547+07:00",
+  "updated_at": "2026-07-21T11:31:04.330057+07:00",
   "matches": {
     "f6d618696402": {
       "url": "https://catbee.io/truc-tiep/corvinul-hunedoara-vs-fk-csikszereda-miercurea-ciuc-vao-luc-2230-20-07-2026/?blv=246",
@@ -370,6 +370,18 @@
       "minutes_to_kickoff": 239,
       "last_scan_at": "2026-07-21T11:01:35.029280+07:00",
       "next_scan_at": "2026-07-21T11:46:35.029280+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "d1b048643ed1": {
+      "url": "https://catbee.io/truc-tiep/pvf-vietnam-u21-vs-hoang-anh-gia-lai-u21-vao-luc-1530-21-07-2026/?blv=292",
+      "match_name": "Trực tiếp trận đấu PVF Vietnam U21 vs Hoang Anh Gia Lai U21",
+      "kickoff_iso": "2026-07-21T15:30:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-07-21T11:31:04.329957+07:00",
+      "next_scan_at": "2026-07-21T12:16:04.329957+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
