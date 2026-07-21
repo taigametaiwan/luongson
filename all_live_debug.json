@@ -1,6 +1,6 @@
 {
   "version": "4.3.0-HYBRID-DELTA-SINGLE-M3U",
-  "generated_at": "2026-07-21T23:34:07.723015+07:00",
+  "generated_at": "2026-07-22T00:03:43.381346+07:00",
   "policy": {
     "max_streams_per_match_blv": 2,
     "upcoming_keep_hours": 4,
@@ -12,8 +12,8 @@
       "label": "Chuối Chiên",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 4,
-      "playlist_blocks": 5,
+      "debug_rows": 2,
+      "playlist_blocks": 2,
       "included": true
     },
     {
@@ -21,80 +21,15 @@
       "label": "Lương Sơn",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 29,
-      "playlist_blocks": 9,
+      "debug_rows": 31,
+      "playlist_blocks": 7,
       "included": true
     }
   ],
-  "input_candidates": 14,
-  "selected_count": 14,
+  "input_candidates": 9,
+  "selected_count": 9,
   "dropped_count": 0,
   "channels": [
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb",
-      "match_key": "buxoro fk vs kuruvchi bunyodkor|fernando",
-      "display_name": "[21/07/2026 22:00] BUXORO FK vs KURUVCHI BUNYODKOR [BLV Fernando] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-21T22:00:00+07:00"
-    },
-    {
-      "source": "chuoichien",
-      "source_label": "Chuối Chiên",
-      "url": "https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv",
-      "match_key": "buxoro vs bunyodkor|chuoi tieu",
-      "display_name": "[22:00 21/07] Buxoro vs Bunyodkor - VĐQG Uzbekistan [BLV Chuối Tiêu] [FHD FLV]",
-      "group": "Bóng đá",
-      "quality": "FHD",
-      "kind": "flv",
-      "playability": "verified",
-      "score": 456,
-      "kickoff_iso": "2026-07-21T22:00:00+07:00"
-    },
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582",
-      "match_key": "pakhtakor vs xorazm urganch|yen thanh",
-      "display_name": "[21/07/2026 22:00] PAKHTAKOR vs XORAZM URGANCH [BLV YẾN THANH] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-21T22:00:00+07:00"
-    },
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645",
-      "match_key": "sogdiana jizak vs neftchi fargona|vuong luan",
-      "display_name": "[21/07/2026 22:00] SOGDIANA JIZAK vs NEFTCHI FARGONA [BLV VƯƠNG LUÂN] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-21T22:00:00+07:00"
-    },
-    {
-      "source": "chuoichien",
-      "source_label": "Chuối Chiên",
-      "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv",
-      "match_key": "sogdiana vs neftchi|",
-      "display_name": "[22:00 21/07] Sogdiana vs Neftchi - VĐQG Uzbekistan [FHD FLV]",
-      "group": "Bóng đá",
-      "quality": "FHD",
-      "kind": "flv",
-      "playability": "verified",
-      "score": 456,
-      "kickoff_iso": "2026-07-21T22:00:00+07:00"
-    },
     {
       "source": "chuoichien",
       "source_label": "Chuối Chiên",
@@ -106,19 +41,6 @@
       "kind": "flv",
       "playability": "verified",
       "score": 456,
-      "kickoff_iso": "2026-07-21T23:00:00+07:00"
-    },
-    {
-      "source": "chuoichien",
-      "source_label": "Chuối Chiên",
-      "url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
-      "match_key": "ararat armenia vs shamrock rovers|chuoi chao",
-      "display_name": "[23:00 21/07] Ararat-Armenia vs Shamrock Rovers - UEFA Champions League [BLV Chuối Chao] (Luồng 2) [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 429,
       "kickoff_iso": "2026-07-21T23:00:00+07:00"
     },
     {
@@ -211,6 +133,19 @@
       "playability": "verified",
       "score": 439,
       "kickoff_iso": "2026-07-21T23:00:00+07:00"
+    },
+    {
+      "source": "luongson",
+      "source_label": "Lương Sơn",
+      "url": "https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a",
+      "match_key": "aarhus agf vs lech poznan|lio",
+      "display_name": "[22/07/2026 00:00] AARHUS AGF vs LECH POZNAN [BLV Lio] [M3U8]",
+      "group": "Bóng đá",
+      "quality": "UNKNOWN",
+      "kind": "m3u8",
+      "playability": "verified",
+      "score": 439,
+      "kickoff_iso": "2026-07-22T00:00:00+07:00"
     }
   ],
   "dropped": [],
