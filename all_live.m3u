@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="hygenie-6727effd6600-379-1" tvg-name="[21/07/2026 06:00] FERROVIARIA SP (W) vs SC CORINTHIANS PAULISTA (W) [BLV Heineken]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/20398_1gzsyphkg12s.png",[21/07/2026 06:00] FERROVIARIA SP (W) vs SC CORINTHIANS PAULISTA (W) [BLV Heineken] [M3U8]
-#EXTVLCOPT:http-referrer=https://catbee.io/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
-https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-#EXTINF:-1 tvg-id="hygenie-6727effd6600-253-1" tvg-name="[21/07/2026 06:00] FERROVIARIA SP (W) vs SC CORINTHIANS PAULISTA (W) [BLV Pele]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/20398_1gzsyphkg12s.png",[21/07/2026 06:00] FERROVIARIA SP (W) vs SC CORINTHIANS PAULISTA (W) [BLV Pele] [M3U8]
-#EXTVLCOPT:http-referrer=https://catbee.io/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:-1 tvg-id="hygenie-8410a3b6980d-1" tvg-name="[21/07/2026 07:00] LAS VEGAS ACES W vs TORONTO TEMPO W [BLV LÝ QUỲ]" group-title="Bóng đá" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1784568776.png",[21/07/2026 07:00] LAS VEGAS ACES W vs TORONTO TEMPO W [BLV LÝ QUỲ] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36

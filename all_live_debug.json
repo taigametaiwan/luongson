@@ -1,6 +1,6 @@
 {
   "version": "4.3.0-HYBRID-DELTA-SINGLE-M3U",
-  "generated_at": "2026-07-21T08:02:47.836800+07:00",
+  "generated_at": "2026-07-21T08:31:54.816953+07:00",
   "policy": {
     "max_streams_per_match_blv": 2,
     "upcoming_keep_hours": 4,
@@ -21,41 +21,15 @@
       "label": "Lương Sơn",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 9,
-      "playlist_blocks": 4,
+      "debug_rows": 6,
+      "playlist_blocks": 2,
       "included": true
     }
   ],
-  "input_candidates": 4,
-  "selected_count": 4,
+  "input_candidates": 2,
+  "selected_count": 2,
   "dropped_count": 0,
   "channels": [
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6",
-      "match_key": "ferroviaria sp w vs sc corinthians paulista w|heineken",
-      "display_name": "[21/07/2026 06:00] FERROVIARIA SP (W) vs SC CORINTHIANS PAULISTA (W) [BLV Heineken] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-21T06:00:00+07:00"
-    },
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526",
-      "match_key": "ferroviaria sp w vs sc corinthians paulista w|pele",
-      "display_name": "[21/07/2026 06:00] FERROVIARIA SP (W) vs SC CORINTHIANS PAULISTA (W) [BLV Pele] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-21T06:00:00+07:00"
-    },
     {
       "source": "luongson",
       "source_label": "Lương Sơn",
