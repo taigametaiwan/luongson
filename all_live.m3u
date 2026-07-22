@@ -1,43 +1,55 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="hygenie-6d8f68bda1e3-328-1" tvg-name="[22/07/2026 05:30] ATLETICO MINEIRO vs BAHIA [BLV VÕ TÒNG]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/309_1j9d3cawpn18.png",[22/07/2026 05:30] ATLETICO MINEIRO vs BAHIA [BLV VÕ TÒNG] [M3U8]
-#EXTVLCOPT:http-referrer=https://catbee.io/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 tvg-id="hygenie-339d12866c28-1" tvg-name="[22/07/2026 05:30] GREMIO NOVORIZONTINO vs CRICIUMA [BLV YẾN THANH]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/20053_1hvszap3cv1h.png",[22/07/2026 05:30] GREMIO NOVORIZONTINO vs CRICIUMA [BLV YẾN THANH] [M3U8]
-#EXTVLCOPT:http-referrer=https://catbee.io/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 tvg-id="hygenie-0fb2ba49c270-253-1" tvg-name="[22/07/2026 06:00] DEPORTES TOLIMA vs DEPORTES QUINDIO [BLV Pele]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/2219_1gv1yk239rz.png",[22/07/2026 06:00] DEPORTES TOLIMA vs DEPORTES QUINDIO [BLV Pele] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
 https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 tvg-id="hygenie-a79e0a6b6208-1" tvg-name="[22/07/2026 06:00] INDEPENDIENTE PETROLERO vs REAL POTOSI [BLV MÃ SIÊU]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/37027_1grj9asv2t23.png",[22/07/2026 06:00] INDEPENDIENTE PETROLERO vs REAL POTOSI [BLV MÃ SIÊU] [M3U8]
+#EXTINF:-1 tvg-id="hygenie-a79e0a6b6208-269-1" tvg-name="[22/07/2026 06:00] INDEPENDIENTE PETROLERO vs REAL POTOSI [BLV MÃ SIÊU]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/37027_1grj9asv2t23.png",[22/07/2026 06:00] INDEPENDIENTE PETROLERO vs REAL POTOSI [BLV MÃ SIÊU] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
 https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:-1 tvg-id="hygenie-6b950ae5415e-298-1" tvg-name="[22/07/2026 07:00] UNIVERSIDAD CATOLICA vs BARCELONA SC(ECU) [BLV TÂY MÔN KHÁNH]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/6603_1gtqmg0aee1c.png",[22/07/2026 07:00] UNIVERSIDAD CATOLICA vs BARCELONA SC(ECU) [BLV TÂY MÔN KHÁNH] [M3U8]
+#EXTINF:-1 tvg-id="hygenie-f009d44ab576-298-1" tvg-name="[22/07/2026 07:00] DEPORTIVO PASTO vs BOGOTA FC [BLV TÂY MÔN KHÁNH]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/2217_1j95mk1j572v.png",[22/07/2026 07:00] DEPORTIVO PASTO vs BOGOTA FC [BLV TÂY MÔN KHÁNH] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
 https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 tvg-id="hygenie-50ae8fc328c0-1" tvg-name="[22/07/2026 07:30] UNIVERSIDAD CENTRAL DE VENEZUELA vs SANTOS [BLV LƯU BỊ]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/18055_1j08b7fq0e15.png",[22/07/2026 07:30] UNIVERSIDAD CENTRAL DE VENEZUELA vs SANTOS [BLV LƯU BỊ] [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1547780-1" tvg-name="[07:30 22/07] UCV vs Santos - CONMEBOL Sudamericana [BLV Chuối Tây]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125543_aea83401.png",[07:30 22/07] UCV vs Santos - CONMEBOL Sudamericana [BLV Chuối Tây] [FHD FLV]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+#EXTINF:-1 tvg-id="chuoichien-1547780-2" tvg-name="[07:30 22/07] UCV vs Santos - CONMEBOL Sudamericana [BLV Chuối Tây]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125543_aea83401.png",[07:30 22/07] UCV vs Santos - CONMEBOL Sudamericana [BLV Chuối Tây] (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:-1 tvg-id="hygenie-50ae8fc328c0-1" tvg-name="[22/07/2026 07:30] UNIVERSIDAD CENTRAL DE VENEZUELA vs SANTOS [BLV Kaka]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/18055_1j08b7fq0e15.png",[22/07/2026 07:30] UNIVERSIDAD CENTRAL DE VENEZUELA vs SANTOS [BLV Kaka] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
 https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 tvg-id="hygenie-50ae8fc328c0-135-1" tvg-name="[22/07/2026 07:30] UNIVERSIDAD CENTRAL DE VENEZUELA vs SANTOS [BLV LƯU BỊ]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/18055_1j08b7fq0e15.png",[22/07/2026 07:30] UNIVERSIDAD CENTRAL DE VENEZUELA vs SANTOS [BLV LƯU BỊ] [M3U8]
+#EXTVLCOPT:http-referrer=https://catbee.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:-1 tvg-id="hygenie-1cc84b192cad-374-1" tvg-name="[22/07/2026 07:35] VILA NOVA vs FORTALEZA [BLV NGƯỜI THÉP]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/1645_1gv1yhgq3tw.png",[22/07/2026 07:35] VILA NOVA vs FORTALEZA [BLV NGƯỜI THÉP] [M3U8]
 #EXTVLCOPT:http-referrer=https://catbee.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
 https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+#EXTINF:-1 tvg-id="hygenie-49cda75b87c2-320-1" tvg-name="[22/07/2026 08:00] CDSYC CRUZ AZUL vs PUEBLA [BLV YẾN THANH]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/1159_1j0ytkbdxf1m.png",[22/07/2026 08:00] CDSYC CRUZ AZUL vs PUEBLA [BLV YẾN THANH] [M3U8]
+#EXTVLCOPT:http-referrer=https://catbee.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582

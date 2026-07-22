@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "chuoichien",
-  "updated_at": "2026-07-22T07:01:18.585926+07:00",
+  "updated_at": "2026-07-22T07:31:26.085549+07:00",
   "matches": {
     "1565183": {
       "url": "https://live04.chuoichientv.me/live/1565183/corvinul-hunedoara-vs-csikszereda",
@@ -434,33 +434,36 @@
       "url": "https://live04.chuoichientv.me/live/1547780/ucv-vs-santos",
       "match_name": "UCV vs Santos - CONMEBOL Sudamericana",
       "kickoff_iso": "2026-07-22T07:30:00+07:00",
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-07-22T07:31:26.085466+07:00",
+      "next_scan_at": "2026-07-22T07:36:26.085466+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv",
+        "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8"
+      ],
+      "scan_decision": "browser-fallback"
+    },
+    "1550903": {
+      "url": "https://live04.chuoichientv.me/live/1550903/cruz-azul-vs-puebla",
+      "match_name": "Cruz Azul vs Puebla - VĐQG Mexico",
+      "kickoff_iso": "2026-07-22T08:00:00+07:00",
       "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-07-22T07:01:18.585863+07:00",
-      "next_scan_at": "2026-07-22T07:11:18.585863+07:00",
+      "last_scan_at": "2026-07-22T07:31:26.085466+07:00",
+      "next_scan_at": "2026-07-22T07:41:26.085466+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
       "scan_decision": "browser-fallback"
     },
-    "1550903": {
-      "url": "https://live04.chuoichientv.me/live/1550903/cruz-azul-vs-puebla",
-      "match_name": "cruz azul vs puebla",
-      "kickoff_iso": "2026-07-22T08:00:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-07-22T07:01:18.585863+07:00",
-      "next_scan_at": "2026-07-22T07:21:18.585863+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
-    },
     "1550904": {
       "url": "https://live04.chuoichientv.me/live/1550904/toluca-vs-unam-pumas",
       "match_name": "toluca vs unam pumas",
       "kickoff_iso": "2026-07-22T10:05:00+07:00",
-      "minutes_to_kickoff": 214,
-      "last_scan_at": "2026-07-22T06:31:43.914109+07:00",
-      "next_scan_at": "2026-07-22T07:16:43.914109+07:00",
+      "minutes_to_kickoff": 154,
+      "last_scan_at": "2026-07-22T07:31:26.085466+07:00",
+      "next_scan_at": "2026-07-22T08:16:26.085466+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
