@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "luongson",
-  "updated_at": "2026-07-22T06:33:10.534694+07:00",
+  "updated_at": "2026-07-22T07:03:16.006619+07:00",
   "matches": {
     "f6d618696402": {
       "url": "https://catbee.io/truc-tiep/corvinul-hunedoara-vs-fk-csikszereda-miercurea-ciuc-vao-luc-2230-20-07-2026/?blv=246",
@@ -942,96 +942,110 @@
       "scan_decision": "browser-fallback"
     },
     "339d12866c28": {
-      "url": "https://catbee.io/truc-tiep/gremio-novorizontino-vs-criciuma-vao-luc-0530-22-07-2026/",
+      "url": "https://catbee.io/truc-tiep/gremio-novorizontino-vs-criciuma-vao-luc-0530-22-07-2026/?blv=320",
       "match_name": "GREMIO NOVORIZONTINO vs CRICIUMA",
       "kickoff_iso": "2026-07-22T05:30:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-07-22T06:33:10.534383+07:00",
-      "next_scan_at": "2026-07-22T06:38:10.534383+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-07-22T07:03:16.006060+07:00",
+      "next_scan_at": "2026-07-22T07:08:16.006060+07:00",
       "has_stream": true,
-      "has_verified": false,
-      "verified_urls": [],
+      "has_verified": true,
+      "verified_urls": [
+        "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582"
+      ],
       "scan_decision": "browser-fallback"
     },
     "6d8f68bda1e3": {
       "url": "https://catbee.io/truc-tiep/atletico-mineiro-vs-bahia-vao-luc-0530-22-07-2026/",
       "match_name": "ATLETICO MINEIRO vs BAHIA",
       "kickoff_iso": "2026-07-22T05:30:00+07:00",
-      "minutes_to_kickoff": -61,
-      "last_scan_at": "2026-07-22T06:33:10.534383+07:00",
-      "next_scan_at": "2026-07-22T06:38:10.534383+07:00",
+      "minutes_to_kickoff": -91,
+      "last_scan_at": "2026-07-22T07:03:16.006060+07:00",
+      "next_scan_at": "2026-07-22T07:08:16.006060+07:00",
       "has_stream": true,
-      "has_verified": false,
-      "verified_urls": [],
+      "has_verified": true,
+      "verified_urls": [
+        "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
+      ],
       "scan_decision": "browser-fallback"
     },
     "a79e0a6b6208": {
       "url": "https://catbee.io/truc-tiep/independiente-petrolero-vs-real-potosi-vao-luc-0600-22-07-2026/?blv=269",
       "match_name": "INDEPENDIENTE PETROLERO vs REAL POTOSI",
       "kickoff_iso": "2026-07-22T06:00:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-07-22T06:33:10.534383+07:00",
-      "next_scan_at": "2026-07-22T06:38:10.534383+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-07-22T07:03:16.006060+07:00",
+      "next_scan_at": "2026-07-22T07:08:16.006060+07:00",
       "has_stream": true,
-      "has_verified": false,
-      "verified_urls": [],
+      "has_verified": true,
+      "verified_urls": [
+        "https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b"
+      ],
       "scan_decision": "browser-fallback"
     },
     "0fb2ba49c270": {
       "url": "https://catbee.io/truc-tiep/deportes-tolima-vs-deportes-quindio-vao-luc-0600-22-07-2026/",
       "match_name": "DEPORTES TOLIMA vs DEPORTES QUINDIO",
       "kickoff_iso": "2026-07-22T06:00:00+07:00",
-      "minutes_to_kickoff": -31,
-      "last_scan_at": "2026-07-22T06:33:10.534383+07:00",
-      "next_scan_at": "2026-07-22T06:38:10.534383+07:00",
+      "minutes_to_kickoff": -61,
+      "last_scan_at": "2026-07-22T07:03:16.006060+07:00",
+      "next_scan_at": "2026-07-22T07:08:16.006060+07:00",
       "has_stream": true,
-      "has_verified": false,
-      "verified_urls": [],
+      "has_verified": true,
+      "verified_urls": [
+        "https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526"
+      ],
       "scan_decision": "browser-fallback"
     },
     "6b950ae5415e": {
-      "url": "https://catbee.io/truc-tiep/universidad-catolica-vs-barcelona-scecu-vao-luc-0700-22-07-2026/?blv=298",
+      "url": "https://catbee.io/truc-tiep/universidad-catolica-vs-barcelona-scecu-vao-luc-0700-22-07-2026/",
       "match_name": "UNIVERSIDAD CATOLICA vs BARCELONA SC(ECU)",
       "kickoff_iso": "2026-07-22T07:00:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-07-22T06:33:10.534383+07:00",
-      "next_scan_at": "2026-07-22T06:43:10.534383+07:00",
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-07-22T07:03:16.006060+07:00",
+      "next_scan_at": "2026-07-22T07:08:16.006060+07:00",
       "has_stream": true,
-      "has_verified": false,
-      "verified_urls": [],
+      "has_verified": true,
+      "verified_urls": [
+        "https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da"
+      ],
       "scan_decision": "browser-fallback"
     },
     "50ae8fc328c0": {
-      "url": "https://catbee.io/truc-tiep/universidad-central-de-venezuela-vs-santos-vao-luc-0730-22-07-2026/?blv=135",
-      "match_name": "universidad central de venezuela vs santos",
+      "url": "https://catbee.io/truc-tiep/universidad-central-de-venezuela-vs-santos-vao-luc-0730-22-07-2026/?blv=218",
+      "match_name": "UNIVERSIDAD CENTRAL DE VENEZUELA vs SANTOS",
       "kickoff_iso": "2026-07-22T07:30:00+07:00",
-      "minutes_to_kickoff": 59,
-      "last_scan_at": "2026-07-22T06:33:10.534383+07:00",
-      "next_scan_at": "2026-07-22T06:53:10.534383+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "minutes_to_kickoff": 29,
+      "last_scan_at": "2026-07-22T07:03:16.006060+07:00",
+      "next_scan_at": "2026-07-22T07:08:16.006060+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6"
+      ],
+      "scan_decision": "browser-fallback"
     },
     "1cc84b192cad": {
       "url": "https://catbee.io/truc-tiep/vila-nova-vs-fortaleza-vao-luc-0735-22-07-2026/",
-      "match_name": "vila nova vs fortaleza",
+      "match_name": "VILA NOVA vs FORTALEZA",
       "kickoff_iso": "2026-07-22T07:35:00+07:00",
-      "minutes_to_kickoff": 64,
-      "last_scan_at": "2026-07-22T06:33:10.534383+07:00",
-      "next_scan_at": "2026-07-22T06:53:10.534383+07:00",
-      "has_stream": false,
-      "has_verified": false,
-      "verified_urls": [],
-      "scan_decision": "http-only-far-upcoming"
+      "minutes_to_kickoff": 34,
+      "last_scan_at": "2026-07-22T07:03:16.006060+07:00",
+      "next_scan_at": "2026-07-22T07:13:16.006060+07:00",
+      "has_stream": true,
+      "has_verified": true,
+      "verified_urls": [
+        "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5"
+      ],
+      "scan_decision": "browser-fallback"
     },
     "49cda75b87c2": {
       "url": "https://catbee.io/truc-tiep/cdsyc-cruz-azul-vs-puebla-vao-luc-0800-22-07-2026/",
       "match_name": "cdsyc cruz azul vs puebla",
       "kickoff_iso": "2026-07-22T08:00:00+07:00",
-      "minutes_to_kickoff": 89,
-      "last_scan_at": "2026-07-22T06:33:10.534383+07:00",
-      "next_scan_at": "2026-07-22T06:53:10.534383+07:00",
+      "minutes_to_kickoff": 59,
+      "last_scan_at": "2026-07-22T07:03:16.006060+07:00",
+      "next_scan_at": "2026-07-22T07:23:16.006060+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -1041,9 +1055,9 @@
       "url": "https://catbee.io/truc-tiep/toluca-vs-pumas-unam-vao-luc-1000-22-07-2026/?blv=218",
       "match_name": "toluca vs pumas unam",
       "kickoff_iso": "2026-07-22T10:00:00+07:00",
-      "minutes_to_kickoff": 239,
-      "last_scan_at": "2026-07-22T06:03:33.879118+07:00",
-      "next_scan_at": "2026-07-22T06:48:33.879118+07:00",
+      "minutes_to_kickoff": 179,
+      "last_scan_at": "2026-07-22T07:03:16.006060+07:00",
+      "next_scan_at": "2026-07-22T07:48:16.006060+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],

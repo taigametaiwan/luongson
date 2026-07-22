@@ -1,6 +1,6 @@
 {
   "version": "4.3.0-HYBRID-DELTA-SINGLE-M3U",
-  "generated_at": "2026-07-22T06:33:10.654460+07:00",
+  "generated_at": "2026-07-22T07:03:16.137363+07:00",
   "policy": {
     "max_streams_per_match_blv": 2,
     "upcoming_keep_hours": 4,
@@ -12,8 +12,8 @@
       "label": "Chuối Chiên",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 4,
-      "playlist_blocks": 2,
+      "debug_rows": 2,
+      "playlist_blocks": 0,
       "included": true
     },
     {
@@ -21,54 +21,15 @@
       "label": "Lương Sơn",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 19,
-      "playlist_blocks": 6,
+      "debug_rows": 20,
+      "playlist_blocks": 8,
       "included": true
     }
   ],
   "input_candidates": 8,
-  "selected_count": 8,
-  "dropped_count": 0,
+  "selected_count": 7,
+  "dropped_count": 1,
   "channels": [
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
-      "match_key": "nacional montevideo vs club atletico tigre|luu bi",
-      "display_name": "[22/07/2026 05:00] NACIONAL MONTEVIDEO vs CLUB ATLETICO TIGRE [BLV LƯU BỊ] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "browser-observed",
-      "score": 329,
-      "kickoff_iso": "2026-07-22T05:00:00+07:00"
-    },
-    {
-      "source": "chuoichien",
-      "source_label": "Chuối Chiên",
-      "url": "https://gckc0525.edgemaxcdn.org/live/chuoito.flv",
-      "match_key": "nacional vs tigre|chuoi to",
-      "display_name": "[05:00 22/07] Nacional vs Tigre - CONMEBOL Sudamericana [BLV Chuối To] [FHD FLV]",
-      "group": "Bóng đá",
-      "quality": "FHD",
-      "kind": "flv",
-      "playability": "verified",
-      "score": 456,
-      "kickoff_iso": "2026-07-22T05:00:00+07:00"
-    },
-    {
-      "source": "chuoichien",
-      "source_label": "Chuối Chiên",
-      "url": "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
-      "match_key": "nacional vs tigre|chuoi to",
-      "display_name": "[05:00 22/07] Nacional vs Tigre - CONMEBOL Sudamericana [BLV Chuối To] (Luồng 2) [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 429,
-      "kickoff_iso": "2026-07-22T05:00:00+07:00"
-    },
     {
       "source": "luongson",
       "source_label": "Lương Sơn",
@@ -78,8 +39,8 @@
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
-      "playability": "browser-observed",
-      "score": 329,
+      "playability": "verified",
+      "score": 439,
       "kickoff_iso": "2026-07-22T05:30:00+07:00"
     },
     {
@@ -91,8 +52,8 @@
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
-      "playability": "browser-observed",
-      "score": 329,
+      "playability": "verified",
+      "score": 439,
       "kickoff_iso": "2026-07-22T05:30:00+07:00"
     },
     {
@@ -104,8 +65,8 @@
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
-      "playability": "browser-observed",
-      "score": 329,
+      "playability": "verified",
+      "score": 439,
       "kickoff_iso": "2026-07-22T06:00:00+07:00"
     },
     {
@@ -117,8 +78,8 @@
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
-      "playability": "browser-observed",
-      "score": 329,
+      "playability": "verified",
+      "score": 439,
       "kickoff_iso": "2026-07-22T06:00:00+07:00"
     },
     {
@@ -130,11 +91,44 @@
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
-      "playability": "browser-observed",
-      "score": 329,
+      "playability": "verified",
+      "score": 439,
       "kickoff_iso": "2026-07-22T07:00:00+07:00"
+    },
+    {
+      "source": "luongson",
+      "source_label": "Lương Sơn",
+      "url": "https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6",
+      "match_key": "universidad central de venezuela vs santos|luu bi",
+      "display_name": "[22/07/2026 07:30] UNIVERSIDAD CENTRAL DE VENEZUELA vs SANTOS [BLV LƯU BỊ] [M3U8]",
+      "group": "Bóng đá",
+      "quality": "UNKNOWN",
+      "kind": "m3u8",
+      "playability": "verified",
+      "score": 439,
+      "kickoff_iso": "2026-07-22T07:30:00+07:00"
+    },
+    {
+      "source": "luongson",
+      "source_label": "Lương Sơn",
+      "url": "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5",
+      "match_key": "vila nova vs fortaleza|nguoi thep",
+      "display_name": "[22/07/2026 07:35] VILA NOVA vs FORTALEZA [BLV NGƯỜI THÉP] [M3U8]",
+      "group": "Bóng đá",
+      "quality": "UNKNOWN",
+      "kind": "m3u8",
+      "playability": "verified",
+      "score": 439,
+      "kickoff_iso": "2026-07-22T07:35:00+07:00"
     }
   ],
-  "dropped": [],
+  "dropped": [
+    {
+      "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
+      "reason": "duplicate-quality-UNKNOWN",
+      "source": "luongson",
+      "match_key": "universidad central de venezuela vs santos|luu bi"
+    }
+  ],
   "outputs_written": true
 }
