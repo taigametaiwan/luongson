@@ -1,25 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="hygenie-49cda75b87c2-320-1" tvg-name="[22/07/2026 08:00] CDSYC CRUZ AZUL vs PUEBLA [BLV YẾN THANH]" group-title="Bóng đá" tvg-logo="https://cdn-img.cdnokvip.com/logos/1159_1j0ytkbdxf1m.png",[22/07/2026 08:00] CDSYC CRUZ AZUL vs PUEBLA [BLV YẾN THANH] [M3U8]
-#EXTVLCOPT:http-referrer=https://catbee.io/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36","Referer":"https://catbee.io/","Origin":"https://catbee.io"}
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 tvg-id="chuoichien-1550903-1" tvg-name="[08:00 22/07] Cruz Azul vs Puebla - VĐQG Mexico [BLV Chuối Bơ]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133409_6f6ed437.png",[08:00 22/07] Cruz Azul vs Puebla - VĐQG Mexico [BLV Chuối Bơ] [FHD FLV]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
 #EXTINF:-1 tvg-id="chuoichien-1550904-1" tvg-name="[10:05 22/07] Toluca vs U.N.A.M. - Pumas - VĐQG Mexico [BLV Chuối Tây]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250921_010707_d23dff4c.png",[10:05 22/07] Toluca vs U.N.A.M. - Pumas - VĐQG Mexico [BLV Chuối Tây] [FHD FLV]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
 https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-#EXTINF:-1 tvg-id="chuoichien-1550904-2" tvg-name="[10:05 22/07] Toluca vs U.N.A.M. - Pumas - VĐQG Mexico [BLV Chuối Tây]" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250921_010707_d23dff4c.png",[10:05 22/07] Toluca vs U.N.A.M. - Pumas - VĐQG Mexico [BLV Chuối Tây] (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8

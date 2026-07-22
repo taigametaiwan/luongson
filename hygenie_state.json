@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "luongson",
-  "updated_at": "2026-07-22T09:31:44.185344+07:00",
+  "updated_at": "2026-07-22T10:01:31.633365+07:00",
   "matches": {
     "f6d618696402": {
       "url": "https://catbee.io/truc-tiep/corvinul-hunedoara-vs-fk-csikszereda-miercurea-ciuc-vao-luc-2230-20-07-2026/?blv=246",
@@ -1057,9 +1057,9 @@
       "url": "https://catbee.io/truc-tiep/toluca-vs-pumas-unam-vao-luc-1000-22-07-2026/?blv=218",
       "match_name": "toluca vs pumas unam",
       "kickoff_iso": "2026-07-22T10:00:00+07:00",
-      "minutes_to_kickoff": 29,
-      "last_scan_at": "2026-07-22T09:31:44.185153+07:00",
-      "next_scan_at": "2026-07-22T09:41:44.185153+07:00",
+      "minutes_to_kickoff": -1,
+      "last_scan_at": "2026-07-22T10:01:31.633210+07:00",
+      "next_scan_at": "2026-07-22T10:06:31.633210+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -1078,6 +1078,18 @@
         "https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da"
       ],
       "scan_decision": "browser-fallback"
+    },
+    "dc57dda573f6": {
+      "url": "https://catbee.io/truc-tiep/tauranga-whai-vs-otago-nuggets-vao-luc-1400-22-07-2026/",
+      "match_name": "tauranga whai vs otago nuggets",
+      "kickoff_iso": "2026-07-22T14:00:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-07-22T10:01:31.633210+07:00",
+      "next_scan_at": "2026-07-22T10:46:31.633210+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "version": "4.3.0-HYBRID-DELTA-SINGLE-M3U",
-  "generated_at": "2026-07-22T09:31:44.276714+07:00",
+  "generated_at": "2026-07-22T10:01:31.699821+07:00",
   "policy": {
     "max_streams_per_match_blv": 2,
     "upcoming_keep_hours": 4,
@@ -12,8 +12,8 @@
       "label": "Chuối Chiên",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 2,
-      "playlist_blocks": 3,
+      "debug_rows": 1,
+      "playlist_blocks": 1,
       "included": true
     },
     {
@@ -22,40 +22,14 @@
       "returncode": 0,
       "fresh": true,
       "debug_rows": 5,
-      "playlist_blocks": 1,
+      "playlist_blocks": 0,
       "included": true
     }
   ],
-  "input_candidates": 4,
-  "selected_count": 4,
+  "input_candidates": 1,
+  "selected_count": 1,
   "dropped_count": 0,
   "channels": [
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582",
-      "match_key": "cdsyc cruz azul vs puebla|yen thanh",
-      "display_name": "[22/07/2026 08:00] CDSYC CRUZ AZUL vs PUEBLA [BLV YẾN THANH] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-22T08:00:00+07:00"
-    },
-    {
-      "source": "chuoichien",
-      "source_label": "Chuối Chiên",
-      "url": "https://gckc0525.edgemaxcdn.org/live/chuoibo.flv",
-      "match_key": "cruz azul vs puebla|chuoi bo",
-      "display_name": "[08:00 22/07] Cruz Azul vs Puebla - VĐQG Mexico [BLV Chuối Bơ] [FHD FLV]",
-      "group": "Bóng đá",
-      "quality": "FHD",
-      "kind": "flv",
-      "playability": "verified",
-      "score": 456,
-      "kickoff_iso": "2026-07-22T08:00:00+07:00"
-    },
     {
       "source": "chuoichien",
       "source_label": "Chuối Chiên",
@@ -67,19 +41,6 @@
       "kind": "flv",
       "playability": "verified",
       "score": 456,
-      "kickoff_iso": "2026-07-22T10:05:00+07:00"
-    },
-    {
-      "source": "chuoichien",
-      "source_label": "Chuối Chiên",
-      "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
-      "match_key": "toluca vs u n a m|chuoi tay",
-      "display_name": "[10:05 22/07] Toluca vs U.N.A.M. - Pumas - VĐQG Mexico [BLV Chuối Tây] (Luồng 2) [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 429,
       "kickoff_iso": "2026-07-22T10:05:00+07:00"
     }
   ],
