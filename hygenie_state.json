@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "luongson",
-  "updated_at": "2026-07-22T10:01:31.633365+07:00",
+  "updated_at": "2026-07-22T10:31:31.058892+07:00",
   "matches": {
     "f6d618696402": {
       "url": "https://catbee.io/truc-tiep/corvinul-hunedoara-vs-fk-csikszereda-miercurea-ciuc-vao-luc-2230-20-07-2026/?blv=246",
@@ -1054,12 +1054,12 @@
       "scan_decision": "browser-fallback"
     },
     "6200b64298a6": {
-      "url": "https://catbee.io/truc-tiep/toluca-vs-pumas-unam-vao-luc-1000-22-07-2026/?blv=218",
+      "url": "https://catbee.io/truc-tiep/toluca-vs-pumas-unam-vao-luc-1000-22-07-2026/?blv=135",
       "match_name": "toluca vs pumas unam",
       "kickoff_iso": "2026-07-22T10:00:00+07:00",
-      "minutes_to_kickoff": -1,
-      "last_scan_at": "2026-07-22T10:01:31.633210+07:00",
-      "next_scan_at": "2026-07-22T10:06:31.633210+07:00",
+      "minutes_to_kickoff": -31,
+      "last_scan_at": "2026-07-22T10:31:31.058753+07:00",
+      "next_scan_at": "2026-07-22T10:36:31.058753+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],
@@ -1086,6 +1086,18 @@
       "minutes_to_kickoff": 239,
       "last_scan_at": "2026-07-22T10:01:31.633210+07:00",
       "next_scan_at": "2026-07-22T10:46:31.633210+07:00",
+      "has_stream": false,
+      "has_verified": false,
+      "verified_urls": [],
+      "scan_decision": "http-only-far-upcoming"
+    },
+    "8dfcf0c1a994": {
+      "url": "https://catbee.io/truc-tiep/east-coast-bays-vs-auckland-city-vao-luc-1430-22-07-2026/",
+      "match_name": "east coast bays vs auckland city",
+      "kickoff_iso": "2026-07-22T14:30:00+07:00",
+      "minutes_to_kickoff": 239,
+      "last_scan_at": "2026-07-22T10:31:31.058753+07:00",
+      "next_scan_at": "2026-07-22T11:16:31.058753+07:00",
       "has_stream": false,
       "has_verified": false,
       "verified_urls": [],

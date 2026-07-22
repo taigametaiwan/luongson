@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "chuoichien",
-  "updated_at": "2026-07-22T10:01:25.593367+07:00",
+  "updated_at": "2026-07-22T10:31:29.277789+07:00",
   "matches": {
     "1565183": {
       "url": "https://live04.chuoichientv.me/live/1565183/corvinul-hunedoara-vs-csikszereda",
@@ -463,13 +463,14 @@
       "url": "https://live04.chuoichientv.me/live/1550904/toluca-vs-unam-pumas",
       "match_name": "Toluca vs U.N.A.M. - Pumas - VĐQG Mexico",
       "kickoff_iso": "2026-07-22T10:05:00+07:00",
-      "minutes_to_kickoff": 4,
-      "last_scan_at": "2026-07-22T10:01:25.593328+07:00",
-      "next_scan_at": "2026-07-22T10:06:25.593328+07:00",
+      "minutes_to_kickoff": -26,
+      "last_scan_at": "2026-07-22T10:31:29.277742+07:00",
+      "next_scan_at": "2026-07-22T10:36:29.277742+07:00",
       "has_stream": true,
       "has_verified": true,
       "verified_urls": [
-        "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv"
+        "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv",
+        "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8"
       ],
       "scan_decision": "browser-fallback"
     }
