@@ -1,6 +1,6 @@
 {
   "version": "4.3.0-HYBRID-DELTA-SINGLE-M3U",
-  "generated_at": "2026-07-22T08:32:36.318990+07:00",
+  "generated_at": "2026-07-22T09:02:33.010824+07:00",
   "policy": {
     "max_streams_per_match_blv": 2,
     "upcoming_keep_hours": 4,
@@ -13,7 +13,7 @@
       "returncode": 0,
       "fresh": true,
       "debug_rows": 3,
-      "playlist_blocks": 2,
+      "playlist_blocks": 3,
       "included": true
     },
     {
@@ -21,8 +21,8 @@
       "label": "Lương Sơn",
       "returncode": 0,
       "fresh": true,
-      "debug_rows": 12,
-      "playlist_blocks": 5,
+      "debug_rows": 10,
+      "playlist_blocks": 4,
       "included": true
     }
   ],
@@ -30,19 +30,6 @@
   "selected_count": 7,
   "dropped_count": 0,
   "channels": [
-    {
-      "source": "luongson",
-      "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da",
-      "match_key": "deportivo pasto vs bogota fc|tay mon khanh",
-      "display_name": "[22/07/2026 07:00] DEPORTIVO PASTO vs BOGOTA FC [BLV TÂY MÔN KHÁNH] [M3U8]",
-      "group": "Bóng đá",
-      "quality": "UNKNOWN",
-      "kind": "m3u8",
-      "playability": "verified",
-      "score": 439,
-      "kickoff_iso": "2026-07-22T07:00:00+07:00"
-    },
     {
       "source": "chuoichien",
       "source_label": "Chuối Chiên",
@@ -57,11 +44,24 @@
       "kickoff_iso": "2026-07-22T07:30:00+07:00"
     },
     {
+      "source": "chuoichien",
+      "source_label": "Chuối Chiên",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
+      "match_key": "ucv vs santos|chuoi tay",
+      "display_name": "[07:30 22/07] UCV vs Santos - CONMEBOL Sudamericana [BLV Chuối Tây] (Luồng 2) [M3U8]",
+      "group": "Bóng đá",
+      "quality": "UNKNOWN",
+      "kind": "m3u8",
+      "playability": "verified",
+      "score": 429,
+      "kickoff_iso": "2026-07-22T07:30:00+07:00"
+    },
+    {
       "source": "luongson",
       "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
-      "match_key": "universidad central de venezuela vs santos|luu bi",
-      "display_name": "[22/07/2026 07:30] UNIVERSIDAD CENTRAL DE VENEZUELA vs SANTOS [BLV LƯU BỊ] [M3U8]",
+      "url": "https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6",
+      "match_key": "universidad central de venezuela vs santos|kaka",
+      "display_name": "[22/07/2026 07:30] UNIVERSIDAD CENTRAL DE VENEZUELA vs SANTOS [BLV Kaka] [M3U8]",
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
@@ -72,9 +72,9 @@
     {
       "source": "luongson",
       "source_label": "Lương Sơn",
-      "url": "https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6",
-      "match_key": "universidad central de venezuela vs santos|kaka",
-      "display_name": "[22/07/2026 07:30] UNIVERSIDAD CENTRAL DE VENEZUELA vs SANTOS [BLV Kaka] [M3U8]",
+      "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
+      "match_key": "universidad central de venezuela vs santos|luu bi",
+      "display_name": "[22/07/2026 07:30] UNIVERSIDAD CENTRAL DE VENEZUELA vs SANTOS [BLV LƯU BỊ] [M3U8]",
       "group": "Bóng đá",
       "quality": "UNKNOWN",
       "kind": "m3u8",
